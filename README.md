@@ -22,7 +22,7 @@ We welcome contributions from the community! If you'd like to add a guide, fix a
 2. **Make your changes** in Markdown (`.md`) or Vue components if needed  
 3. **Submit a pull request** with a brief description of your update  
 
-See our [contributing guide](./docs/contributing) for more details.
+See our [contributing guide](./docs/contributing.md) for more details.
 
 ## 📢 Get Involved
 
