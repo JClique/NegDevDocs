@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Negative Development Docs",
   description: "A documentation of analogue photography, film development and darkroom printing processes. ",
+  lastUpdated: true,
   markdown: {
     image: {
       // image lazy loading is disabled by default
@@ -25,13 +26,39 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Getting Started',
+        link: '/get-started',
+      },
+      {
+        text: 'Analogue Photography',
+        collapsed: true,
+        items: [
+          { text: 'Ipsum', link: '/analogue-photography/ipsum' },
+          { text: 'Lorem', link: '/analogue-photography/lorem' },
+        ]
+      },
+      {
+        text: 'Film Developing',
+        collapsed: true,
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' },
           { text: 'Test', link: '/test' },
         ]
-      }
+      },
+      {
+        text: 'Darkroom Printing',
+        collapsed: true,
+        items: [
+          { text: 'Markdown Examples', link: '/markdown-examples' },
+          { text: 'Runtime API Examples', link: '/api-examples' },
+          { text: 'Test', link: '/test' },
+        ]
+      },
+      {
+        text: 'Appendix',
+        link: '/appendix'
+      },
     ],
 
     socialLinks: [

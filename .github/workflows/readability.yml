@@ -1,0 +1,25 @@
+name: Readability Check
+
+on:
+  pull_request:
+    paths:
+      - '**.md'  # Runs only for Markdown files
+    branches:
+      - main
+
+jobs:
+  readability:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: npm install -g write-good alex
+
+      - name: Check Markdown with write-good
+        run: find . -name "*.md" -exec write-good {} \; || true
+
+      - name: Check Markdown with alex
+        run: npx alex **/*.md || true

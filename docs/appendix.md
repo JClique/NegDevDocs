@@ -1,3 +1,3 @@
-# Analogue Photography
+# Appendix
 
 Lorem ipsum dolar solem

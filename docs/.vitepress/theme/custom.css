@@ -30,6 +30,10 @@ html.dark {
     background-color: var(--vp-c-brand-3) !important;
 }
 
+.VPSidebarItem.level-0 {
+    padding-top: 0.5rem;
+}
+
 .VPHomeHero .container:before {
     content: "🚨";
     right: 30%;
