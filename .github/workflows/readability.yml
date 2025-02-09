@@ -21,5 +21,16 @@ jobs:
       - name: Check Markdown with write-good
         run: find . -name "*.md" -exec write-good {} \; || true
 
+      - name: Post comment on PR
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          REPORT=$(cat write-good-report.txt)
+          if [[ -n "$REPORT" ]]; then
+            COMMENT_BODY="### 📝 Readability Report\n\`\`\`\n$REPORT\n\`\`\`\n🔍 Consider simplifying some of these sentences."
+            gh pr comment ${{ github.event.pull_request.number }} --body "$COMMENT_BODY"
+          fi
+        shell: bash
+
       - name: Check Markdown with alex
         run: npx alex **/*.md || true
