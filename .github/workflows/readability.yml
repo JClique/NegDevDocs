@@ -7,6 +7,10 @@ on:
     branches:
       - main
 
+permissions:
+  pull-requests: write
+  issues: write
+
 jobs:
   readability:
     runs-on: ubuntu-latest
