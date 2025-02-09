@@ -80,7 +80,7 @@ const { theme, page, frontmatter } = useData()
 ```
 
 <script setup>
-import { useData } from 'vitepress'
+import { useData } from 'vitepress';
 
 const { site, theme, page, frontmatter } = useData()
 </script>
