@@ -18,18 +18,21 @@ jobs:
       - name: Install dependencies
         run: npm install -g write-good alex
 
-      - name: Check Markdown with write-good
-        run: find . -name "*.md" -exec write-good {} \; || true
+      - name: Run write-good
+        run: |
+          write-good $(git ls-files '*.md') > write-good-report.txt || true
+          if [ ! -s write-good-report.txt ]; then
+            echo "No readability issues found."
+            exit 0
+          fi
 
       - name: Post comment on PR
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           REPORT=$(cat write-good-report.txt)
-          if [[ -n "$REPORT" ]]; then
-            COMMENT_BODY="### 📝 Readability Report\n\`\`\`\n$REPORT\n\`\`\`\n🔍 Consider simplifying some of these sentences."
-            gh pr comment ${{ github.event.pull_request.number }} --body "$COMMENT_BODY"
-          fi
+          COMMENT_BODY="### 📝 Readability Report\n\`\`\`\n$REPORT\n\`\`\`\n🔍 Consider simplifying some of these sentences."
+          gh pr comment ${{ github.event.pull_request.number }} --body "$COMMENT_BODY"
         shell: bash
 
       - name: Check Markdown with alex
