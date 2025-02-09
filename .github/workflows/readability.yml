@@ -7,13 +7,13 @@ on:
     branches:
       - main
 
-permissions:
-  pull-requests: write
-  issues: write
-
 jobs:
   readability:
     runs-on: ubuntu-latest
+
+    permissions:
+      pull-requests: write
+      issues: write
 
     steps:
       - name: Checkout repository
