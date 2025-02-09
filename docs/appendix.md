@@ -1,3 +1,3 @@
 # Appendix
 
-Lorem ipsum dolar solem
+Lorem ipsum dolar solem.
