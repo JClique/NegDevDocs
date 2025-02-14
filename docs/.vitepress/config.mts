@@ -11,7 +11,14 @@ export default defineConfig({
       lazyLoading: true
     }
   },
+  cleanUrls: true,
+  appearance: {
+    initialValue: 'dark',
+  },
   themeConfig: {
+    outline: {
+      level: [2,3],
+    },
     search: {
       provider: 'local'
     },
@@ -21,48 +28,57 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      {
+        text: 'Contributing',
+        link: '/contributing'
+      }
     ],
 
     sidebar: [
       {
-        text: 'Getting Started',
-        link: '/get-started',
+        text: 'Introduction',
+        link: '/introduction',
       },
       {
         text: 'Analogue Photography',
         collapsed: true,
         items: [
-          { text: 'Ipsum', link: '/analogue-photography/ipsum' },
-          { text: 'Lorem', link: '/analogue-photography/lorem' },
+          { text: 'Getting started', link: '/analogue-photography/getting-started' },
+          { text: 'Choosing and loading film', link: '/analogue-photography/choosing-and-loading-film' },
+          { text: 'Exposing a scene', link: '/analogue-photography/exposing-a-scene' },
+          { text: 'Focusing on subjects', link: '/analogue-photography/focusing-on-subjects' },
         ]
       },
       {
         text: 'Film Developing',
         collapsed: true,
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' },
-          { text: 'Test', link: '/test' },
+          { text: 'Coming soon'}
         ]
       },
       {
         text: 'Darkroom Printing',
         collapsed: true,
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' },
-          { text: 'Test', link: '/test' },
+          { text: 'Coming soon'}
         ]
+      },
+      {
+        text: 'List of illustrations',
+        link: '/list-of-illustrations'
       },
       {
         text: 'Appendix',
         link: '/appendix'
       },
+      {
+        text: 'Glossary',
+        link: '/glossary'
+      }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/JClique/NegDevDocs' }
     ]
   }
 })

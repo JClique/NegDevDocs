@@ -4,12 +4,12 @@ layout: home
 
 hero:
   name: Negative Development Docs
-  text: Modern documentation of analogue photography, film developing and darkroom printing processes.
+  text: "Modern documentation for analogue photography, \nfilm developing and \ndarkroom printing processes."
   tagline: Open sourced. Community supported. 
   actions:
     - theme: brand
       text: Get started
-      link: /get-started
+      link: /introduction
     - theme: alt
       text: Contributing
       link: /contributing
@@ -17,7 +17,7 @@ hero:
 features:
   - title: "📸 Analogue Photography"
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /analogue-photography
+    link: /analogue-photography/getting-started
   - title: "🎞️ Film Developing"
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
     link: /film-developing

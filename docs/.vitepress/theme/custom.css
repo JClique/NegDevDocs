@@ -11,17 +11,17 @@ html.dark {
     --vp-c-brand-3: #ad0c0c;
 }
 
-.VPNav .title {
-    text-wrap: auto;
-}
+
+
+/*NAVBAR*/
 
 .VPNav .title a {
-    border: none !important;
+    border: none;
 }
 
 .VPNav .title img {
     width: 120px;
-    height: auto !important;
+    height: auto;
     margin-top: 0.75rem;
     margin-bottom: 0.75rem;
 }
@@ -30,23 +30,88 @@ html.dark {
     background-color: var(--vp-c-brand-3) !important;
 }
 
+@media (min-width: 960px) {
+    .VPNavBar {
+        background-color: var(--vp-nav-bg-color);
+    }
+}
+
+
+
+/*HOME*/
+
 .VPSidebarItem.level-0 {
     padding-top: 0.5rem;
 }
 
-.VPHomeHero .container:before {
-    content: "🚨";
-    right: 30%;
-    top: 30%;
-    font-size: 20rem;
-    position: absolute;
+.VPContent.is-home {
+    background-color: #ec0100;
+    background-image: url("/public/background.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.VPContent:not(.is-home) {
+    background-color: var(--vp-c-bg);
+}
+
+html.dark .VPHomeHero .container .main {
+    background-color: rgba(50, 0, 0, 0.5);
+}
+
+.VPHomeHero .container .main {
+    padding: 2rem;
+    width: max-content;
+    flex-grow: inherit;
+    border-radius: 1rem;
+    background-color: rgba(232, 118, 118, 0.2);
 }
 
 .VPHomeHero .name {
-    -webkit-text-fill-color: var(--vp-c-brand-3) !important;
-    max-width: 800px !important;
+    display: none;
+    -webkit-text-fill-color: #b0b0b0;
+    width: auto;
+    max-width: 800px;
 }
 
 .VPHomeHero .text {
-    max-width: 650px !important;
+    color: #eeeeee;
+    width: auto;
+    max-width: 800px;
+}
+
+.VPHomeHero .tagline {
+    color: #eeeeee;
+}
+
+@media (max-width: 900px) {
+    .VPHomeHero .container .main {
+        width: 100%;
+    }
+    .VPHomeHero .name {
+        width: 100%;
+        max-width: none;
+    }
+    .VPHomeHero .text {
+        width: 100%;
+        max-width: none;
+    }
+}
+
+
+/*DOCS*/
+
+.vp-doc .custom-block {
+    margin-top: 32px;
+    margin-bottom: 16px;
+}
+
+img.svg-img {
+  filter: invert(0);
+}
+
+.dark img.svg-img {
+  filter: invert(1);
 }
