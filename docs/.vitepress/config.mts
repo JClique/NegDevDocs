@@ -20,7 +20,7 @@ export default defineConfig({
       level: [2,3],
     },
     search: {
-      provider: 'local'
+      provider: 'local',
     },
     siteTitle: false,
     logo: '/logo.png',

@@ -1,37 +1,29 @@
 # Choosing and loading film
 
-Choosing the right film and learning how to load it properly is essential for getting started with analogue photography. This guide will introduce different film formats, the types of film available, and how to choose the best option for your needs. Finally, we will cover how to load film into different types of cameras.
-
-## Film formats  
-
-Film comes in several different formats, each offering its own unique qualities. The most common formats still being manufactured today include:  
-
-- **35mm** – The most popular film format, used in everything from compact point-and-shoots to professional SLRs. Each roll typically provides 24 or 36 exposures and is easy to find and develop.  
-- **120 (Medium Format)** – A larger film format used in medium format cameras. It offers higher image quality when compared to 35mm and allows for various aspect ratios, such as 6x6, 6x7, or 6x9. The number of exposures depends on the camera and frame size.  
-- **Large Format (4x5, 8x10, etc.)** – Used by photographers who want the ultimate in image quality. Large format film is sheet-based, requiring one piece of film per exposure. Cameras for this format are often used on tripods and offer complete control over focus and perspective.  
-- **Instant Film** – Available in various formats such as Polaroid and Instax, instant film develops shortly after exposure, making it perfect for fun, spontaneous photography.  
-
-Some film formats, such as **APS**, **126**, and **Disc Film**, are no longer in production, but expired rolls can sometimes be found from specialty retailers.  
-
-## Film types
-
-There are three main types of photographic film, each with unique characteristics:
-
-- **Black & White** – A versatile option with a classic aesthetic. It is often preferred by beginners who want to develop their own film, as the process is simpler than colour film.
-- **Colour Negative (C41 Process)** – The most common colour film, used for general photography. It is widely available, and labs typically offer affordable and fast development.
-- **Slide Film (E6 Process)** – Also known as positive or reversal film, slide film produces a direct positive image. It offers vibrant colours and fine grain but requires precise exposure and a more specialised development process.
-
-::: tip **Note:**
-Some film stocks, such as Kodak Vision3, are designed for motion picture cameras and require **ECN-2 processing**. While these films can sometimes be processed in C41 chemistry, they may produce unexpected results. If you’re considering ECN-2 film, make sure your lab can handle it!
-:::
+Choosing the right film and learning how to load it properly is essential for getting started with analogue photography. 
+This guide will explain how to choose the best film option for your needs, and the equipment available to you. 
+Finally, we will cover how to load film into different types of cameras.
 
 ## Choosing a film  
 
-### Choosing a film type  
+The type of film you choose has a significant impact on the look and feel of your photographs. 
+Different films produce different levels of contrast, color tones, and grain structure, and some are better suited to specific lighting conditions.  
 
-Your choice of film type depends on your shooting style and how you plan to develop your images.  
+Before selecting a film, consider how and where you’ll be shooting, whether you want to develop it yourself, and what kind of final image you’re hoping to achieve. 
+This section will help you decide between black & white or color film, understand film ISO, and choose the best option for your needs.
 
-- If you want to **develop at home**, black & white film is the best choice. It requires minimal equipment and has a straightforward development process.  
+### Black & white or colour  
+
+One of the first decisions when choosing film is whether to shoot in black & white or color. 
+Both offer unique creative possibilities, and your choice will depend on your desired aesthetic and how you plan to develop the film.  
+
+Black & white film emphasizes light, shadow, and texture, giving images a timeless, classic feel. 
+It’s also more forgiving in exposure and easier to develop at home. 
+Color film captures the full spectrum of tones, making it ideal for capturing vibrant scenes, subtle color shifts, and natural-looking skin tones.  
+
+The choice between the two largely comes down to personal preference, accessibility, and workflow.  
+
+- If you want to **develop your own film**, black & white film is the best choice. It requires minimal equipment and has a straightforward development process.  
 - If you plan to **use a lab**, colour negative (C41) film is your best bet. It’s widely available, affordable to process, and generally more forgiving in exposure than slide film.  
 
 ### Understanding film ISO  
@@ -43,7 +35,6 @@ Here’s a quick guide to choosing the right ISO:
 - **ISO 200** – Perfect for bright daylight and outdoor photography.  
 - **ISO 400** – A versatile choice, great for a mix of indoor and outdoor shooting.  
 - **ISO 800+** – Best for low-light, evening, or indoor photography without a flash.
-
 
 ## Loading a film camera
 

@@ -52,6 +52,22 @@ When the two images align perfectly, the subject is in focus.
 Focusing with a rangefinder is most effective when the subject has clear edges or contrast, as the system relies on visible alignment. 
 Many rangefinder cameras feature bright, high-contrast viewfinder patches to aid in focusing, while some models offer adjustable magnification to further enhance accuracy.
 
+### Autofocus SLRs  
+
+While most classic SLRs rely on manual focusing, some later models feature autofocus systems with varying levels of sophistication. 
+Autofocus SLRs, such as those from the Canon EOS or Nikon F series, use electronic sensors and motor-driven lenses to adjust focus automatically.  
+
+Analogue autofocus systems generally fall into three categories:  
+
+- **Single-shot autofocus (AF-S)** – Focuses once when the shutter button is half-pressed and remains locked until the shot is taken.  
+- **Continuous autofocus (AF-C)** – Continuously adjusts focus while the shutter button is half-pressed, useful for tracking moving subjects.  
+- **Hybrid or manual override systems** – Some cameras allow switching between autofocus and manual focus or provide fine-tuning after autofocus is locked.  
+
+Half-pressing the shutter button activates most autofocus systems, locking focus on the subject, often indicated by a confirmation light or beep. 
+More advanced cameras may include multiple focus points, allowing for subject selection within the frame. 
+If the autofocus locks onto the wrong area, recomposing the shot or using a manual override (if available) can help refine focus. 
+While autofocus in film cameras is generally slower than in digital models, understanding how your specific system works ensures more consistent and accurate results.
+
 ## Zone focusing  
 
 Zone focusing is a technique that relies on [depth of field](/glossary#depth-of-field) rather than precise focusing adjustments. 

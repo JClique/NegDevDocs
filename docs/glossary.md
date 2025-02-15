@@ -1,9 +1,11 @@
 ---
+prev: false
+next: false
 outline: false
 ---
 # Glossary
 
-## Depth of Field  
+## Depth of field  
 The range of distances within an image that appear acceptably sharp. 
 Depth of field is influenced by three main factors:  
 
@@ -18,13 +20,47 @@ Diffraction becomes more pronounced at very small apertures (high f-numbers), ca
 While stopping down the aperture increases depth of field, excessive diffraction can counteract the benefits by degrading overall resolution. 
 The optimal balance between depth of field and sharpness depends on the lens design, film format, and shooting conditions.  
 
-## Push / Pull Processing  
+## Medium format camera  
+A camera that uses film or a digital sensor larger than 35mm but smaller than large format (4×5 inches or larger). 
+Medium format film typically comes in **120 and 220 roll film** formats, producing negatives with greater detail, dynamic range, and tonal depth compared to 35mm film.  
+
+Common medium format aspect ratios include:  
+
+- **6×4.5 cm (645 format)** – A balance between portability and image quality.  
+- **6×6 cm (square format)** – Popular in classic twin-lens reflex (TLR) and modular cameras.  
+- **6×7 cm and larger** – Often used in professional studio and landscape photography for their high resolution.  
+
+Medium format cameras are favored for commercial, portrait, and fine art photography due to their superior image quality and distinctive rendering.  
+
+## Point-and-shoot camera  
+A compact, user-friendly camera designed for automatic operation with minimal manual controls. 
+Point-and-shoot cameras typically feature:  
+
+- **Fixed or zoom lenses** – Often with autofocus and automatic exposure settings.  
+- **Built-in flash** – For low-light photography.  
+- **Motorized film advance and rewind** – In film models.  
+
+These cameras are popular for casual photography due to their simplicity, portability, and ease of use, making them a convenient option for beginners and everyday shooting.  
+
+## Push / pull processing  
 A technique used creatively to achieve specific aesthetic effects or to adapt to challenging lighting conditions.
 
 - **Push processing** involves extending development time to increase contrast and apparent sensitivity, typically used when a film has been underexposed. This can result in increased grain and higher contrast.  
 - **Pull processing** reduces development time to lower contrast and compensate for overexposure, often leading to finer grain and reduced density in highlights.
 
-## Shutter Curtain  
+## Rangefinder camera  
+A type of camera that uses a rangefinder focusing mechanism, allowing photographers to measure subject distance and achieve precise focus. 
+Unlike SLR cameras, rangefinders do not use a reflex mirror; instead, they feature a separate optical viewfinder with a **superimposed focusing patch** that aligns when the subject is in focus.  
+
+Key characteristics include:  
+
+- **Compact, quiet operation** – No mirror slap or blackout during exposure.  
+- **Parallax error** – Due to the separation between the viewfinder and the lens, particularly noticeable at close distances.  
+- **Interchangeable or fixed lenses** – Many classic rangefinders support high-quality prime lenses.  
+
+Rangefinder cameras are valued for their discreet size, sharp optics, and precise manual focusing, making them popular for street and documentary photography.  
+
+## Shutter curtain  
 A moving component in focal-plane shutter cameras that controls the exposure time by covering and uncovering the film. 
 Shutter curtains typically operate in two main types:  
 
@@ -38,6 +74,16 @@ The gap between the curtains determines the effective shutter speed.
 Light-sensitive compounds used in photographic emulsions. 
 When exposed to light, silver halide crystals undergo a chemical change that forms the latent image, which is later developed into a visible photograph. 
 Common types include silver bromide, silver chloride, and silver iodide, each contributing to the sensitivity and tonal characteristics of the film or photographic paper.  
+
+## SLR camera  
+A **Single-Lens Reflex (SLR) camera** is a type of camera that uses a mirror and prism system to allow the photographer to view the scene directly through the taking lens. 
+This provides an accurate representation of framing, focus, and depth of field.  
+
+Key characteristics of SLR cameras include:  
+
+- **Interchangeable lenses** – Offering versatility for different types of photography.  
+- **Optical viewfinder** – Uses a pentaprism or pentamirror to direct the image to the photographer’s eye.  
+- **Reflex mirror mechanism** – Flips up during exposure, allowing light to reach the film or sensor.  
 
 ## Take up spool
 A cylindrical component in film cameras that winds the exposed film as it advances through the camera. 
