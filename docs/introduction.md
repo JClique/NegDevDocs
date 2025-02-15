@@ -1,49 +1,40 @@
 # Introduction
 
 Welcome to the **Negative Development Docs**—your guide to the world of analogue photography, film developing, and darkroom printing. 
-Whether you’re just picking up your first film camera or looking to refine your darkroom skills, this resource is designed to help you every step of the way.  
+Whether you’re picking up your first film camera or refining your darkroom skills, this resource is here to help every step of the way.
 
 ## How to use these docs
 
-This documentation is structured to allow you to jump in at any point:
+This documentation is designed for easy navigation, allowing you to start at any point:
 
-- **New to film?** - For complete beginners, we recommend starting with the [getting started with analogue photography](/analogue-photography/getting-started?return=introduction#how-to-use-these-docs) section.
-- **Develop your own film** - If you're ready to begin developing film, our film development section (*coming soon*) covers this process in detail.
-- **Printing in the dakroom** - Our darkroom printing section (*coming soon*) covers everything from basic enlargements to advance toning techniques.
+- **New to film?** - For beginners, start with the [getting started with analogue photography](/analogue-photography/getting-started) section.
+- **Develop your own film** - Ready to develop film? Explore the film development section *(coming soon)*.
+- **Printing in the darkroom** - Want to print in the darkroom? Check out our darkroom printing section *(coming soon)*.
 
-**Other sections**
-- **Visual guides & images** - If you ever need to revisit a particular diagram or photo, the [list of illustrations](/list-of-illustrations) will guide you directly to it for further study.
-- **Extra information** - The [appendix](/appendix) section covers several related topics in more comprehensive detail than is necessary within the main content. It should be used for reference if needed, but is not essential reading.
-- **Words and phrases** - Our [glossary](/glossary) is collection of key terms and definitions to help you understand the language of analogue photography.  
+### Additional resources
+
+- **Visual guides & images** - Revisit key diagrams and images in our [list of illustrations](/list-of-illustrations).
+- **Further reading** - The [appendix](/appendix) offers in-depth coverage of related topics.
+- **Glossary** - Our [glossary](/glossary) explains key terms and phrases to help you understand the language of analogue photography.
 
 ### Searching
 
-This documentation allows for rapid full text searching across all articles. 
-For specific information try searching using key phrases or terms to return relevant information.
+Easily search through all articles to find specific information. 
+Use key phrases or terms to quickly locate relevant content.
 
-### Interactive Features in the Docs  
+### Interactive features in the docs  
 
-To enhance learning and provide a more hands-on experience, some sections of this documentation include interactive features. 
-These tools allow you to engage with the material more dynamically, helping to improve understanding and tailor information to your specific needs.  
+To enhance learning, some sections include interactive features to help you engage with the material more dynamically. 
+These tools provide immediate, practical feedback and help tailor information to your needs:
 
-- **Calculators** – Some guides include interactive calculators to help with precise measurements, such as:  
-  - Film development time adjustments based on temperature  
-  - Dilution ratios for mixing chemicals  
-  - Exposure compensation for different film speeds  
+- **Calculators** – Use interactive calculators for precise measurements like film development time, dilution ratios, and exposure compensation.
+- **Animations** – Learn through animations that explain processes like shutter speeds, aperture effects, and film loading.
 
-- **Animations** – Certain processes are best understood through motion. Animated visuals help demonstrate:  
-  - How a film shutter works at different speeds  
-  - The impact of aperture size on depth of field  
-  - The process of loading film into a developing tank  
+All interactive features include written descriptions to ensure the information is accessible to all users.
 
-These features are designed to provide immediate, practical feedback, making it easier to understand concepts without needing external tools.  
-Whenever an interactive element is included, instructions will be provided on how to use it. 
+## A community-driven resource
 
-If you prefer a text-based explanation, all interactive features are supplemented with written descriptions, ensuring that the information is accessible to all users.  
+Negative Development Docs is **open-source**, meaning anyone can contribute to improving the content. 
+If you spot an error, have a suggestion, or want to share your expertise, you can help make this guide even better.
 
-## A Community-Driven Resource  
-
-Negative Development Docs is **open-source**, meaning anyone can contribute to improve and expand the content. 
-If you spot an error, have a suggestion, or want to share your expertise, you can help make this guide even better.  
-
-**Learn more about contributing [here](/contributing).**
+Want to help improve these docs? Find out how to contribute [here](/contributing).
