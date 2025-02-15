@@ -5,6 +5,18 @@ outline: false
 ---
 # Glossary
 
+## Backing Paper  
+A protective paper strip that wraps around **120 roll film**, shielding it from light and providing frame numbering for various medium format cameras. 
+The backing paper extends beyond the film at both ends, allowing for easy loading and secure attachment to the take-up spool.  
+
+Key functions of 120 backing paper include:  
+
+- **Light protection** – Prevents accidental exposure before and after shooting.  
+- **Frame markings** – Printed numbers correspond to different format sizes (e.g., 6×4.5, 6×6, 6×7).  
+- **Guidance for loading** – Arrows and markings assist in aligning the film correctly in cameras without automatic film counters.  
+
+Unlike **35mm film**, 120 film does not have perforations or a canister, relying entirely on the backing paper for handling and frame registration.  
+
 ## Depth of field  
 The range of distances within an image that appear acceptably sharp. 
 Depth of field is influenced by three main factors:  
@@ -19,6 +31,18 @@ Diffraction becomes more pronounced at very small apertures (high f-numbers), ca
 
 While stopping down the aperture increases depth of field, excessive diffraction can counteract the benefits by degrading overall resolution. 
 The optimal balance between depth of field and sharpness depends on the lens design, film format, and shooting conditions.  
+
+### Film perforations  
+Small, evenly spaced holes along the edges of photographic film that assist with transport and registration in cameras and projectors. 
+Perforations ensure smooth film advancement and precise frame positioning.  
+
+Different film formats use distinct perforation patterns:  
+
+- **35mm film** – Features perforations on both edges, with variations such as Kodak Standard (KS) and Bell & Howell (BH) perforations.  
+- **16mm and 8mm film** – May have perforations on one or both edges, depending on whether they are single- or double-perforated stocks.  
+- **Motion picture film** – Often has specialized perforation types tailored to specific camera and projection systems.  
+
+Film perforations play a crucial role in maintaining consistent frame spacing and stability during exposure and processing.  
 
 ## Medium format camera  
 A camera that uses film or a digital sensor larger than 35mm but smaller than large format (4×5 inches or larger). 
