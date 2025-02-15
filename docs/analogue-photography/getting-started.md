@@ -88,14 +88,14 @@ To shoot film, you need a working camera. Film cameras come in various types, ea
 
 ### Common types of film cameras  
 
-| Camera type                                         | Best for                                | Example models               |
-|-----------------------------------------------------|-----------------------------------------|------------------------------|
+| Camera type                                       | Best for                                | Example models               |
+|---------------------------------------------------|-----------------------------------------|------------------------------|
 | [Point-and-shoot](/glossary#point-and-shoot-camera) | Casual users, ease of use               | Canon Sure Shot, Olympus mju |
-| [SLR](/glossary#slr-camera)                         | Manual control, interchangeable lenses  | Nikon FM, Canon AE-1         |
-| [Rangefinder](/glossary#rangefinder-camera)         | Compact size, precise focusing          | Leica M series, Canonet      |
-| [Medium format](/glossary#medium-format-camera)     | High image quality, professional use    | Hasselblad 500, Mamiya RB67  |
-| **Instant cameras**                                 | Quick results, fun photography          | Polaroid SX-70, Instax Mini  |
-| **Box cameras**                                     | Simplicity, vintage appeal              | Kodak Brownie, Agfa Box      |
+| [SLR](/glossary#slr-camera)                       | Manual control, interchangeable lenses  | Nikon FM, Canon AE-1         |
+| [Rangefinder](/glossary#rangefinder-camera)       | Compact size, precise focusing          | Leica M series, Canonet      |
+| [Medium format](/glossary#medium-format-camera)   | High image quality, professional use    | Hasselblad 500, Mamiya RB67  |
+| [Instant cameras](/glossary#instant-camera)       | Quick results, fun photography          | Polaroid SX-70, Instax Mini  |
+| [Box cameras](/glossary#box-camera)               | Simplicity, vintage appeal              | Kodak Brownie, Agfa Box      |
 
 ### Checking if a vintage camera is functional  
 

@@ -17,6 +17,18 @@ Key functions of 120 backing paper include:
 
 Unlike **35mm film**, 120 film does not have perforations or a canister, relying entirely on the backing paper for handling and frame registration.  
 
+### Box camera
+Simple, fixed-focus cameras with a basic box-shaped design, typically made for affordability and ease of use. 
+Box cameras were widely popular from the late 19th to mid-20th century, offering an accessible way for the public to take photographs.  
+
+Key characteristics include:  
+
+- **Fixed-focus lens** – Optimized for subjects at moderate distances.  
+- **Single shutter speed and aperture** – Often limited manual controls.  
+- **Medium format film** – Many models use 120 or 620 roll film.  
+
+While basic in functionality, box cameras are valued for their vintage charm and soft-focus rendering, making them appealing to collectors and experimental photographers.  
+
 ## Depth of field  
 The range of distances within an image that appear acceptably sharp. 
 Depth of field is influenced by three main factors:  
@@ -32,7 +44,7 @@ Diffraction becomes more pronounced at very small apertures (high f-numbers), ca
 While stopping down the aperture increases depth of field, excessive diffraction can counteract the benefits by degrading overall resolution. 
 The optimal balance between depth of field and sharpness depends on the lens design, film format, and shooting conditions.  
 
-### Film perforations  
+## Film perforations  
 Small, evenly spaced holes along the edges of photographic film that assist with transport and registration in cameras and projectors. 
 Perforations ensure smooth film advancement and precise frame positioning.  
 
@@ -43,6 +55,18 @@ Different film formats use distinct perforation patterns:
 - **Motion picture film** – Often has specialized perforation types tailored to specific camera and projection systems.  
 
 Film perforations play a crucial role in maintaining consistent frame spacing and stability during exposure and processing.  
+
+## Instant camera 
+Cameras designed to produce self-developing photographs moments after exposure, using specialized instant film. 
+These cameras contain a built-in developing process that eliminates the need for external processing.  
+
+Key characteristics of instant cameras include:  
+
+- **Integral or peel-apart film** – Modern instant cameras use integral film (e.g., Polaroid, Instax), while older models may use peel-apart film.  
+- **Automatic exposure and focus** – Many models are designed for ease of use with minimal manual controls.  
+- **Built-in flash** – Often included to accommodate various lighting conditions.  
+
+Instant cameras are popular for their unique aesthetic, immediate results, and nostalgic appeal, making them a favorite for casual and artistic photography.
 
 ## Medium format camera  
 A camera that uses film or a digital sensor larger than 35mm but smaller than large format (4×5 inches or larger). 
