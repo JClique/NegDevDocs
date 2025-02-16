@@ -115,3 +115,14 @@ img.svg-img {
 .dark img.svg-img {
   filter: invert(1);
 }
+
+.caption {
+    line-height: 0.5 !important;
+    padding-top: 0 !important;
+    margin-top: -0.5rem !important;
+    margin-bottom: 1.5rem !important;
+    font-size: 0.75rem;
+    color: var(--vp-c-text-3);
+    text-align: right;
+    align-self: right;
+}

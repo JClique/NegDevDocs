@@ -7,7 +7,7 @@ Whether you’re picking up your first film camera or refining your darkroom ski
 
 This documentation is designed for easy navigation, allowing you to start at any point:
 
-- **New to film?** - For beginners, start with the [getting started with analogue photography](/analogue-photography/getting-started) section.
+- **New to film?** - For beginners, start with the [analogue photography](/analogue-photography/getting-started) section.
 - **Develop your own film** - Ready to develop film? Explore the film development section *(coming soon)*.
 - **Printing in the darkroom** - Want to print in the darkroom? Check out our darkroom printing section *(coming soon)*.
 

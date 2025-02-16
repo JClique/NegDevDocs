@@ -6,7 +6,7 @@ This guide will help you pick the best film for your needs, understand available
 ## Choosing a film  
 
 The type of film you choose has a significant impact on the look and feel of your photographs. 
-Each type varies in levels of contrast, color tones, and grain structure, and some are better suited to specific lighting conditions.  
+Each type varies in levels of contrast, colour tones, and grain structure, and some are better suited to specific lighting conditions.  
 
 Before selecting a film, consider:  
 - Where and how you'll be shooting  

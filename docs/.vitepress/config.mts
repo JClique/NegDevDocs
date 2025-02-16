@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import lightbox from "vitepress-plugin-lightbox"
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -7,9 +8,11 @@ export default defineConfig({
   lastUpdated: true,
   markdown: {
     image: {
-      // image lazy loading is disabled by default
       lazyLoading: true
-    }
+    },
+    config: (md) => {
+      md.use(lightbox, {});
+    },
   },
   cleanUrls: true,
   appearance: {

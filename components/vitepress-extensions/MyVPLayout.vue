@@ -2,8 +2,24 @@
 import DefaultTheme from 'vitepress/theme';
 import {VPBadge} from 'vitepress/theme';
 const { Layout } = DefaultTheme
+import { onMounted } from "vue";
+import { useRouter } from "vitepress";
+import mediumZoom from "medium-zoom";
+
+const router = useRouter();
 
 const versionNumber = import.meta.env.VITE_DOCS_VERSION_NUMBER;
+
+const setupMediumZoom = () => {
+  mediumZoom("[data-zoomable]", {
+    background: "transparent",
+  });
+};
+
+onMounted(setupMediumZoom);
+
+router.onAfterRouteChanged = setupMediumZoom;
+
 </script>
 
 <template>
@@ -17,3 +33,14 @@ const versionNumber = import.meta.env.VITE_DOCS_VERSION_NUMBER;
 		</template>
 	</Layout>
 </template>
+
+<style>
+.medium-zoom-overlay {
+  backdrop-filter: blur(5rem);
+}
+
+.medium-zoom-overlay,
+.medium-zoom-image--opened {
+  z-index: 999;
+}
+</style>

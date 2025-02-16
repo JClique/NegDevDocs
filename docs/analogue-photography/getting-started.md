@@ -19,6 +19,10 @@ When exposed to light through a camera lens, these crystals undergo a chemical r
 
 Film comes in several different formats, each offering its own unique qualities. The most common formats still being manufactured today include:  
 
+![Film format diagram](../public/diagrams/film-formats.svg){.svg-img}
+
+[Film format diagram](/list-of-illustrations#film-format-diagram) {.caption}
+
 - **35mm** – The most popular film format, used in everything from compact point-and-shoots to professional SLRs. Each roll typically provides 24 or 36 exposures and is easy to find and develop.  
 - **120 (Medium Format)** – A larger film format used in medium format cameras. It offers higher image quality when compared to 35mm and allows for various aspect ratios, such as 6x6, 6x7, or 6x9. The number of exposures depends on the camera and frame size.  
 - **Large Format (4x5, 8x10, etc.)** – Used by photographers who want the ultimate in image quality. Large format film is sheet-based, requiring one piece of film per exposure. Cameras for this format are often used on tripods and offer complete control over focus and perspective.  
@@ -42,13 +46,13 @@ Some film stocks, such as Kodak Vision3, are designed for motion picture cameras
 
 Once a roll of film has been developed, it produces either **negatives** or **positives**, depending on the type of film used.  
 
-- **Negative film** (black and white or color) produces an inverted image where light areas appear dark, and dark areas appear light. Colors are also reversed in color negative film. These negatives must be either scanned digitally or printed in a darkroom to create a final positive image.  
-- **Slide film** produces a **positive image**, meaning the developed film directly represents the colors and tones of the original scene. These can be viewed on a lightbox, projected, or scanned for digital use.  
+- **Negative film** (black and white or colour) produces an inverted image where light areas appear dark, and dark areas appear light. Colors are also reversed in color negative film. These negatives must be either scanned digitally or printed in a darkroom to create a final positive image.  
+- **Slide film** produces a **positive image**, meaning the developed film directly represents the colours and tones of the original scene. These can be viewed on a lightbox, projected, or scanned for digital use.  
 
 For negatives, the most common method of converting them into viewable images is by **printing in a darkroom** or **scanning and digitally inverting** them. 
 In the darkroom, negatives are placed in an enlarger, projected onto light-sensitive photographic paper, and developed using chemicals to produce a final print.  
 
-With digital scanning, negatives are scanned using a specialized film scanner or DSLR setup, then digitally inverted and color-corrected. 
+With digital scanning, negatives are scanned using a specialized film scanner or DSLR setup, then digitally inverted and colour-corrected. 
 This allows film photographers to share and print their images without requiring a full darkroom setup.
 
 ## Why shoot film?
@@ -77,7 +81,7 @@ Physical prints from a darkroom or lab also have a unique, handcrafted feel, mak
 Shooting film opens the door to creative techniques that are difficult or impossible to achieve digitally:  
 
 - **Double exposures:** Exposing the same piece of film twice to blend images together.
-- **Alternative processing:** Cross-processing slide film in C-41 chemicals for surreal colors, or developing black and white film in coffee (caffenol) for an experimental touch.
+- **Alternative processing:** Cross-processing slide film in C-41 chemicals for surreal colours, or developing black and white film in coffee (caffenol) for an experimental touch.
 - **Film souping:** Intentionally damaging the film chemically before or during development to create unpredictable and interesting results.
 
 These techniques make film photography a playground for experimentation.

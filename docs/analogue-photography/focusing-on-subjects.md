@@ -1,15 +1,12 @@
 # Focusing on subjects
 
 Achieving sharp focus is a critical aspect of photography, ensuring that the subject stands out clearly in an image.
-Unlike digital cameras with advanced autofocus systems, most film cameras require manual focusing techniques.
-Different types of cameras use different mechanisms for adjusting focus, each with its own strengths and challenges.
-
 This guide covers how to focus with SLRs, TLRs, and rangefinders, as well as how to use zone focusing for quick, pre-set focusing in fast-paced shooting situations.
 
 ## Manual focus vs autofocus
 
 Film cameras use a variety of focusing methods, from fully manual to automated systems. 
-While some modern film cameras include autofocus, most rely on manual focus, and many **point-and-shoot cameras** use either autofocus or fixed-focus lenses.
+While some modern film cameras include autofocus, most rely on manual focus, and many point-and-shoot cameras use either autofocus or fixed-focus lenses.
 
 - **Manual focus** gives full control over sharpness and is easier than it might seem, especially with the built-in focusing aids found in many cameras.
 - **Autofocus** is quicker but can sometimes struggle in low light or with low-contrast subjects. It is more common in later SLR or point-and-shoot cameras.
@@ -72,8 +69,6 @@ While autofocus in film cameras is generally slower than in digital models, unde
 ## Zone focusing
 
 Zone focusing is a technique that relies on [depth of field](/glossary#depth-of-field) rather than precise focusing adjustments. 
-The **aperture of the lens** controls the depth of field—the range of distances that appear sharp.
-
 Most manual focus lenses include **focus distance markings** and **depth of field indicators** on the barrel. 
 These markings allow photographers to determine which distances will remain in focus at a given aperture.
 

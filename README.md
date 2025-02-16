@@ -9,7 +9,7 @@ This project is built with [VitePress](https://vitepress.dev/), allowing for fas
 ## 📖 What You'll Find
 
 - 📷 **Introduction to Analogue Photography** – Cameras, film types, and exposure basics  
-- 🧪 **Film Development Guides** – Step-by-step instructions for black & white, color, and alternative processes  
+- 🧪 **Film Development Guides** – Step-by-step instructions for black & white, colour, and alternative processes  
 - 🖼 **Darkroom Printing** – Contact sheets, enlarging, contrast control, and toning  
 - 🔧 **Troubleshooting & Techniques** – Common issues, best practices, and creative experimentation  
 - 🛠 **Tools & Resources** – Recommended gear, chemical safety, and further reading  
