@@ -17,7 +17,7 @@ Key functions of 120 backing paper include:
 
 Unlike **35mm film**, 120 film does not have perforations or a canister, relying entirely on the backing paper for handling and frame registration.  
 
-### Box camera
+## Box camera
 Simple, fixed-focus cameras with a basic box-shaped design, typically made for affordability and ease of use. 
 Box cameras were widely popular from the late 19th to mid-20th century, offering an accessible way for the public to take photographs.  
 
