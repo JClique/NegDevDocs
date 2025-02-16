@@ -7,7 +7,7 @@ outline: false
 # List of illustrations
 
 ### Film format diagram
-![Film format diagram](../public/diagrams/film-formats.svg){.svg-img}
+![Film format diagram](./public/diagrams/film-formats.svg){.svg-img}
 
 This diagram compares the frame sizes of 35mm and 120 medium format film. 
 On the left, 35mm film has a fixed frame size of 36×24mm with perforations along the edges. 
