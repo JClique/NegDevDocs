@@ -3,6 +3,7 @@ import lightbox from "vitepress-plugin-lightbox"
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/NegDevDocs/', // For GitHub pages deployment
   title: "Negative Development Docs",
   description: "A documentation of analogue photography, film development and darkroom printing processes. ",
   lastUpdated: true,
