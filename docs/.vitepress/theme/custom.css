@@ -124,5 +124,15 @@ img.svg-img {
     font-size: 0.75rem;
     color: var(--vp-c-text-3);
     text-align: right;
-    align-self: right;
+}
+
+.hidden {
+    height: 1px !important;
+    width: 1px !important;
+    line-height: 1px !important;
+    opacity: 0 !important;
+    margin: 0 !important;
+    border-top: none !important;
+    padding: 0 !important;
+    font-size: 0 !important;
 }
