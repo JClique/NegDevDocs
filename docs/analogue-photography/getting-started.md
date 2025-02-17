@@ -17,16 +17,20 @@ When exposed to light through a camera lens, these crystals undergo a chemical r
 
 ### Film formats  
 
-Film comes in several different formats, each offering its own unique qualities. The most common formats still being manufactured today include:  
-
-![Film format diagram](../public/diagrams/film-formats.svg){.svg-img}
-
-[Film format diagram](/list-of-illustrations#film-format-diagram) {.caption}
+Film comes in several different formats, each using a different sized piece of film to capture an image. 
+The choice of format affects both the level of detail and the overall cost or each image. 
+The most common formats still in production today include:
 
 - **35mm** – The most popular film format, used in everything from compact point-and-shoots to professional SLRs. Each roll typically provides 24 or 36 exposures and is easy to find and develop.  
 - **120 (Medium Format)** – A larger film format used in medium format cameras. It offers higher image quality when compared to 35mm and allows for various aspect ratios, such as 6x6, 6x7, or 6x9. The number of exposures depends on the camera and frame size.  
+
+![Film format diagram](/diagrams/film-formats.svg){.svg-img}
+
+[Film format diagram](/list-of-illustrations#film-format-diagram) {.caption}
+
 - **Large Format (4x5, 8x10, etc.)** – Used by photographers who want the ultimate in image quality. Large format film is sheet-based, requiring one piece of film per exposure. Cameras for this format are often used on tripods and offer complete control over focus and perspective.  
 - **Instant Film** – Available in various formats such as Polaroid and Instax, instant film develops shortly after exposure, making it perfect for fun, spontaneous photography.  
+
 
 Some film formats, such as **APS**, **126**, and **Disc Film**, are no longer in production, but expired rolls can sometimes be found from specialty retailers.  
 

@@ -46,7 +46,7 @@ html.dark {
 
 .VPContent.is-home {
     background-color: #ec0100;
-    background-image: url("/public/background.webp");
+    background-image: url("background.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;

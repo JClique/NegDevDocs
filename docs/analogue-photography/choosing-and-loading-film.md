@@ -1,6 +1,6 @@
 # Choosing and loading film
 
-To start with analogue photography, you need to choose the right film and learn how to load it.  
+To start with analogue photography, you need to choose the right film and learn how to load it.
 This guide will help you pick the best film for your needs, understand available options, and learn how to load film into different types of cameras.
 
 ## Choosing a film  

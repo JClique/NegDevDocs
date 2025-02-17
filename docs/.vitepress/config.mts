@@ -51,6 +51,7 @@ export default defineConfig({
           { text: 'Choosing and loading film', link: '/analogue-photography/choosing-and-loading-film' },
           { text: 'Exposing a scene', link: '/analogue-photography/exposing-a-scene' },
           { text: 'Focusing on subjects', link: '/analogue-photography/focusing-on-subjects' },
+          { text: 'Completing your first roll', link: '/analogue-photography/completing-your-first-roll' },
         ]
       },
       {
