@@ -1,8 +1,11 @@
 # Exposing a scene
 
-Correctly exposing a photograph is one of the most fundamental skills in film photography. The process involves balancing three key settings—ISO, shutter speed, and aperture—to achieve a well-lit image. Together, these settings form what is known as the **exposure triangle**.
+Correctly exposing a photograph is one of the most fundamental skills in film photography. 
+The process involves balancing three key settings—ISO, shutter speed, and aperture—to achieve a well-lit image. 
+Together, these settings form what is known as the **exposure triangle**.
 
-Understanding exposure is essential for creative control, whether you're aiming for a crisp, well-detailed image or an intentionally moody, underexposed shot. This guide covers the core principles of exposure, metering methods, and even how to estimate exposure without a meter.
+Understanding exposure is essential for creative control, whether you're aiming for a crisp, well-detailed image or an intentionally moody, underexposed shot. 
+This guide covers the core principles of exposure, metering methods, and even how to estimate exposure without a meter.
 
 ## The exposure triangle
 
@@ -85,6 +88,8 @@ A lower f-number means a wider aperture, while a higher f-number means a smaller
 
 - **Wide aperture (e.g., f/1.8, f/2.8)**: Allows more light in, creating a shallow depth of field (blurry background).
 - **Narrow aperture (e.g., f/11, f/16)**: Allows less light in, increasing depth of field (sharp background).
+
+![A diagram showing the openings of an aperture within a lens](/diagrams/aperture-openings.svg){.svg-img}
 
 Inside the lens, the **diaphragm** expands or contracts to adjust the size of the opening. 
 A wide aperture creates a shallow [depth of field](/glossary#depth-of-field), isolating the subject, while a small aperture increases depth of field, keeping more of the scene in focus.

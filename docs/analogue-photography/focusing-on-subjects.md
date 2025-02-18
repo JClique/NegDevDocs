@@ -33,27 +33,27 @@ These aids make it easier to achieve sharp focus, especially in low-light condit
 
 ### Manual focusing TLR
 
-Twin-lens reflex (TLR) cameras, such as the Rolleiflex or Yashica models, use a **side-mounted focusing dial** to move the entire lens assembly back and forth. 
-Unlike SLRs, TLR cameras do not use a prism; instead, they have a **waist-level focusing screen** that displays the image from the viewing lens.
+Twin-lens reflex (TLR) cameras, like the Rolleiflex or Yashica models, use a **side-mounted focusing dial** to move the lens assembly back and forth.
+Unlike SLRs, TLR cameras don't use a prism. Instead, they have a **waist-level focusing screen** that displays the image from the viewing lens.
 
 TLRs offer a **larger, exposed focusing screen**, making it easier to manually focus, especially when composing from a lower angle. 
 Some models also include a **flip-out magnifying glass**, which helps achieve precise focus—particularly useful for portrait or macro photography, where fine adjustments are essential.
 
 ### Manual focusing rangefinder
 
-Rangefinder cameras, such as the Leica M series, use a **coincidence rangefinder system** to achieve focus. 
-Instead of looking through the lens, the photographer views a **secondary image overlay** through a viewfinder.
+Rangefinder cameras, such as the Leica M series, use a **coincidence rangefinder system** to achieve focus.
+Instead of looking through the lens, the photographer views a **secondary image overlay** through the viewfinder.
 
-The rangefinder system uses parallax-based depth perception, similar to how human eyes judge distances. 
+The rangefinder system uses parallax-based depth perception, similar to how human eyes judge distances.
 A small mirror or prism shifts the secondary image as the focus ring is adjusted. When the two images align perfectly, the subject is in focus.
 
-Focusing with a rangefinder is most effective when the subject has clear edges or contrast, as the system relies on visible alignment. 
-Many rangefinder cameras feature bright, high-contrast viewfinder patches to aid in focusing, while some models offer adjustable magnification to further enhance accuracy.
+Focusing with a rangefinder is most effective when the subject has clear edges or contrast, as the system relies on visible alignment.
+Many rangefinder cameras feature bright, high-contrast viewfinder patches to aid focusing. Some models offer adjustable magnification to further enhance accuracy.
 
 ### Autofocus SLRs
 
 While most classic SLRs rely on manual focusing, some later models feature autofocus systems with varying levels of sophistication. 
-Autofocus SLRs, such as those from the Canon EOS or Nikon F series, use electronic sensors and motor-driven lenses to adjust focus automatically.
+Autofocus SLRs, such as those from the Canon EOS series, use electronic sensors and motor-driven lenses to adjust focus automatically.
 
 Analogue autofocus systems generally fall into three categories:
 
@@ -61,15 +61,16 @@ Analogue autofocus systems generally fall into three categories:
 - **Continuous autofocus (AF-C)** – Continuously adjusts focus while the shutter button is half-pressed, useful for tracking moving subjects.
 - **Hybrid or manual override systems** – Some cameras allow switching between autofocus and manual focus or provide fine-tuning after autofocus is locked.
 
-Half-pressing the shutter button activates most autofocus systems, locking focus on the subject, often indicated by a confirmation light or beep. 
-More advanced cameras may include multiple focus points, allowing for subject selection within the frame. 
-If the autofocus locks onto the wrong area, recomposing the shot or using a manual override (if available) can help refine focus. 
-While autofocus in film cameras is generally slower than in digital models, understanding how your specific system works ensures more consistent and accurate results.
+Half-pressing the shutter button activates most autofocus systems, locking focus on the subject.
+This is often indicated by a confirmation light or beep. 
+More advanced cameras may include multiple focus points, allowing subject selection within the frame.
+If autofocus locks onto the wrong area, recomposing the shot or using manual override (if available) can help refine focus.
+While autofocus in film cameras is generally slower than in digital models, understanding your specific system ensures more consistent and accurate results.
 
 ## Zone focusing
 
-Zone focusing is a technique that relies on [depth of field](/glossary#depth-of-field) rather than precise focusing adjustments. 
-Most manual focus lenses include **focus distance markings** and **depth of field indicators** on the barrel. 
+Zone focusing is a technique that relies on [depth of field](/glossary#depth-of-field) rather than precise focusing adjustments.
+Most manual focus lenses include **focus distance markings** and **depth of field indicators** on the barrel.
 These markings allow photographers to determine which distances will remain in focus at a given aperture.
 
 **Using zone focusing for quick shots**
@@ -77,7 +78,7 @@ These markings allow photographers to determine which distances will remain in f
 2. Adjust the focus ring so that the desired subject distance falls within the in-focus range.
 3. Use this pre-set focus to capture images quickly without needing to adjust focus for each shot.
 
-This technique is particularly useful for **street photography**, where speed and spontaneity are crucial. 
+This technique is particularly useful for **street photography**, where speed and spontaneity are crucial.
 By pre-focusing the lens, photographers can take candid shots without raising the camera to their eye.
 
 ## Conclusion
@@ -86,4 +87,4 @@ Understanding how to focus manually is essential for film photography.
 Whether using an SLR, TLR, or rangefinder, mastering these techniques allows for greater creative control and ensures consistently sharp images. 
 Additionally, zone focusing provides a practical way to capture quick, in-focus shots without constantly adjusting the lens.
 
-With practice, focusing will become second nature, allowing photographers to concentrate on composition and storytelling.
+With practice, focusing will become second nature, allowing you to concentrate on composition and storytelling.
