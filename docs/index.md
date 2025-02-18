@@ -15,13 +15,13 @@ hero:
       link: /contributing
 
 features:
-  - title: "📸 Analogue Photography"
+  - title: "📸 &nbsp;&nbsp;Analogue Photography"
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
     link: /analogue-photography/getting-started
-  - title: "🎞️ Film Developing"
+  - title: "🎞️ &nbsp;&nbsp;Film Developing"
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
     link: /film-developing
-  - title: "🚨 Darkroom Printing"
+  - title: "🚨&nbsp;&nbsp;Darkroom Printing"
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
     link: /darkroom-printing
 ---

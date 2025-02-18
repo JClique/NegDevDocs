@@ -6,6 +6,14 @@ outline: false
 
 # List of illustrations
 
+### Aperture opening diagram
+![A diagram showing the openings of an aperture within a lens](/diagrams/aperture-opening-diagram.svg){.svg-img}
+
+This diagram shows the diaphragm of a lens, opening to several apertures. 
+On the left, f1.4 which is the largest opening allowing the most amount of light and producing the shallowest depth of field. 
+Next is f2.8, which has a slightly smaller opening, followed by f5.6, which is even smaller.
+Lastly it shows f16 which has the smallest opening of the four, and produces the largest depth of field. 
+
 ### Film format diagram
 ![Film format diagram](./public/diagrams/film-formats.svg){.svg-img}
 
