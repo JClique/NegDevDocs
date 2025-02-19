@@ -1,0 +1,142 @@
+:root {
+    --vp-c-brand-1: #d75151;
+    --vp-c-brand-2: #a63232;
+    --vp-c-brand-3: #930a0a;
+}
+
+/* Dark mode */
+html.dark {
+    --vp-c-brand-1: #d27878;
+    --vp-c-brand-2: #d24141;
+    --vp-c-brand-3: #ad0c0c;
+}
+
+
+
+/*NAVBAR*/
+
+.VPNav .title a {
+    border: none;
+}
+
+.VPNav .title img {
+    width: 120px;
+    height: auto;
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
+}
+
+.VPNav .divider-line {
+    background-color: var(--vp-c-brand-3) !important;
+}
+
+@media (min-width: 960px) {
+    .VPNavBar {
+        background-color: var(--vp-nav-bg-color);
+    }
+}
+
+
+
+/*HOME*/
+
+.VPSidebarItem.level-0 {
+    padding-top: 0.5rem;
+}
+
+.VPContent.is-home {
+    background-color: #ec0100;
+    background-image: url("/background.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.VPContent:not(.is-home) {
+    background-color: var(--vp-c-bg);
+}
+
+html.dark .VPHomeHero .container .main {
+    background-color: rgba(50, 0, 0, 0.5);
+}
+
+.VPHomeHero .container .main {
+    padding: 2rem;
+    width: max-content;
+    flex-grow: inherit;
+    border-radius: 1rem;
+    background-color: rgba(232, 118, 118, 0.2);
+}
+
+.VPHomeHero .name {
+    display: none;
+    -webkit-text-fill-color: #b0b0b0;
+    width: auto;
+    max-width: 800px;
+}
+
+.VPHomeHero .text {
+    color: #eeeeee;
+    width: auto;
+    max-width: 800px;
+}
+
+.VPHomeHero .tagline {
+    color: #eeeeee;
+}
+
+@media (max-width: 900px) {
+    .VPHomeHero .container .main {
+        width: 100%;
+    }
+    .VPHomeHero .name {
+        width: 100%;
+        max-width: none;
+    }
+    .VPHomeHero .text {
+        width: 100%;
+        max-width: none;
+    }
+}
+
+
+/*DOCS*/
+
+.vp-doc .custom-block {
+    margin-top: 32px;
+    margin-bottom: 16px;
+}
+
+img.svg-img {
+  filter: invert(0);
+}
+
+.dark img.svg-img {
+  filter: invert(1);
+}
+
+.caption {
+    line-height: 0.5 !important;
+    padding-top: 0 !important;
+    margin-top: -0.5rem !important;
+    margin-bottom: 1.5rem !important;
+    font-size: 0.75rem;
+    color: var(--vp-c-text-3);
+    text-align: right;
+}
+
+.hidden {
+    height: 1px !important;
+    width: 1px !important;
+    line-height: 1px !important;
+    opacity: 0 !important;
+    margin: 0 !important;
+    border-top: none !important;
+    padding: 0 !important;
+    font-size: 0 !important;
+}
+
+p .link-text-icon:not(a .link-text-icon) {
+    display: none;
+}
