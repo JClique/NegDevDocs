@@ -136,3 +136,7 @@ img.svg-img {
     padding: 0 !important;
     font-size: 0 !important;
 }
+
+p .link-text-icon:not(a .link-text-icon) {
+    display: none;
+}

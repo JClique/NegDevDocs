@@ -15,14 +15,15 @@ hero:
       link: /contributing
 
 features:
-  - title: "📸 &nbsp;&nbsp;Analogue Photography"
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: "📸&nbsp;&nbsp;Analogue Photography"
+    details: "Learn the fundamentals of shooting on film, from choosing and loading your first roll to mastering exposure and focus."
     link: /analogue-photography/getting-started
-  - title: "🎞️ &nbsp;&nbsp;Film Developing"
+    linkText: Start reading
+  - title: "🎞&nbsp;&nbsp;Film Developing"
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /film-developing
+    linkText: Coming soon
   - title: "🚨&nbsp;&nbsp;Darkroom Printing"
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /darkroom-printing
+    linkText: Coming soon
 ---
 

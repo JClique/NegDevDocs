@@ -61,18 +61,15 @@ Once your film has been rewound or secured, proper storage is important to maint
 Once you’re ready, the next step is development.  
 You have several options:  
 
-- **Film labs** – Many professional labs develop various film stocks and processes.  
-  This is the most convenient option, as labs can handle both developing and scanning.  
-- **Home developing** – With the right equipment and chemicals, you can develop film at home.  
-  Black-and-white film is the easiest to develop yourself, while colour film requires stricter temperature control.  
-- **Community darkrooms** – Some cities have shared darkroom spaces (like [ours](https://negativedevelopment.co.uk/)!)  
-  where you can develop film and scan negatives using professional equipment.  
+- **Lab developing** – Many professional labs develop various film stocks and processes. This is the most convenient option, as labs can handle both developing and scanning.  
+- **Home developing** – With the right equipment and chemicals, you can develop film at home. Black-and-white film is the easiest to develop yourself, while colour film requires stricter temperature control.  
+- **Community darkrooms** – Some cities have shared darkroom spaces (like [ours](https://negativedevelopment.co.uk/)!) where you can develop film and scan negatives using professional equipment.  
 
 After development, you'll need to scan the negatives to create digital files.  
 Scanning options include:  
 
 - **Lab scanning** – Many film labs offer high-resolution scans during development.  
-- **Flatbed scanners** – A good option for home scanning, with models like the Epson V600 supporting both 35mm and 120 film.  
+- **Flatbed scanning** – A good option for home scanning, with models like the Epson V600 supporting both 35mm and 120 film.  
 - **dSLR scanning** – Using a digital camera, macro lens, and a light source, you can achieve high-quality scans with greater control over the final image.  
 
 ## Reviewing your results  
