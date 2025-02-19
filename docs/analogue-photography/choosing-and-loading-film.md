@@ -35,9 +35,11 @@ Lower ISO provides finer grain and better detail in bright conditions, while hig
 
 When shopping for film, you’ll find the ISO rating on the box, usually displayed as **100, 200, 400, 800**, or higher.  
 
+![A box of 35mm Ilford Delta 100 film in the original box](/images/ilford-delta-100.webp)
+
 Here’s a quick guide to choosing the right ISO:  
 
-- **ISO 200** – Perfect for bright daylight and outdoor photography.  
+- **ISO 100/200** – Perfect for bright daylight and outdoor photography.  
 - **ISO 400** – A versatile choice, great for a mix of indoor and outdoor shooting.  
 - **ISO 800+** – Best for low-light, evening, or indoor photography without a flash.
 
