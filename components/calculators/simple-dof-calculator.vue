@@ -45,14 +45,14 @@
 
 <script>
 	import FieldItem from "../field-item.vue";
-	import { Form } from "../form-helper.ts";
+	import { useForm } from "../form-helper.ts";
 
 	export default {
 		name: "SimpleDoFCalculator",
 		components: { FieldItem },
 		data() {
 			return {
-				form: new Form({
+				form: useForm({
 					focalLength: 50,
 					apertureNumber: 8,
 					focusingDistance: 50,
