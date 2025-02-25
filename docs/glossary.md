@@ -172,6 +172,12 @@ A cylindrical component in film cameras that winds the exposed film as it advanc
 The take-up spool ensures proper film transport, keeping the film taut and preventing overlapping frames. 
 In some cameras, it is a fixed part of the film advance mechanism, while in others, it may be removable or integrated into a detachable film cartridge.  
 
+### Temperature Coefficient  
+A measure of how temperature affects the rate of development. 
+Higher temperatures accelerate chemical reactions, requiring shorter development times, while lower temperatures slow the process.  
+
+This relationship is usually specified as a **temperature coefficient**, defined as the multiple of the development speed for each **10°C** temperature change.
+For example, a coefficient of **2.5** implies that the development proceeds **2.5 times faster** at **30°C** than at **20°C**.
 
 ## U {.hidden}
 ## V {.hidden}

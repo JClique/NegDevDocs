@@ -1,0 +1,16 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+
+@layer components {
+  @custom-variant dark (&:where(.dark, .dark *)) {
+    /* Your dark mode custom styles */
+    .your-class {
+      background-color: black;
+      color: white;
+    }
+  }
+}

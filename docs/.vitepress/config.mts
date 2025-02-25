@@ -57,7 +57,19 @@ export default defineConfig({
         text: 'Film Developing',
         collapsed: true,
         items: [
-          { text: 'Coming soon'}
+          { text: 'Equipment & materials', link: '/film-developing/equipment-and-materials' },
+          { text: 'Loading a developing tank', link: '/film-developing/loading-a-developing-tank' },
+          {
+            text: 'Developing film',
+            collapsed: true,
+            items: [
+              { text: 'Black & white process', link: '/film-developing/black-and-white-process' },
+              { text: 'C41 process', link: '/film-developing/c41-process' },
+              { text: 'E6 process', link: '/film-developing/e6-process' },
+            ]
+          },
+          { text: 'Washing & drying film', link: '/film-developing/washing-and-drying-film' },
+          { text: 'Scanning film', link: '/film-developing/scanning-film' },
         ]
       },
       {
