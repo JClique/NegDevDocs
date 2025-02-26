@@ -20,22 +20,16 @@
 				type: String,
 				default: "tip",
 				validator(value) {
-					return ["tip", "warning"].includes(value);
+					return ["tip", "warning", "danger"].includes(value);
 				},
 			},
 			title: {
 				type: String,
 				default: "tip",
-				validator(value) {
-					return ["tip", "warning"].includes(value);
-				},
 			},
 			description: {
 				type: String,
 				default: "tip",
-				validator(value) {
-					return ["tip", "warning"].includes(value);
-				},
 			},
 		},
 	};
