@@ -1,7 +1,7 @@
 <template>
 	<div class="grid space-y-4 py-4 sm:grid-cols-2 sm:gap-8 sm:space-y-0">
 		<div class="sm:grid-cols-2 sm:space-y-0">
-			<field-item
+			<v-field-item
 				v-model="form.filmStock"
 				label="Film stock"
 				name="film_stock"
@@ -27,7 +27,7 @@
 				"
 			/>
 
-			<field-item
+			<v-field-item
 				v-show="form.filmStock"
 				v-model="form.filmIso"
 				label="Film ISO"
@@ -58,7 +58,7 @@
 		</div>
 
 		<div class="sm:grid-cols-2 sm:space-y-0">
-			<field-item
+			<v-field-item
 				v-model="form.filmDeveloper"
 				label="Film developer"
 				name="film_developer"
@@ -74,7 +74,7 @@
 				"
 			/>
 
-			<field-item
+			<v-field-item
 				v-show="selectedDeveloper"
 				v-model="form.developerDilution"
 				label="Developer dilution"
@@ -96,7 +96,7 @@
 				"
 			/>
 
-			<field-item
+			<v-field-item
 				v-if="selectedDeveloper"
 				v-model="form.developerTemperature"
 				label="Developer temperature"
@@ -115,7 +115,7 @@
 		</div>
 	</div>
 
-	<field-item
+	<v-field-item
 		v-model="form.rotaryProcessor"
 		label="Using a rotary processor"
 		help-text="A reduction of 15% will be applied to compensate for higher levels of agitation"
@@ -142,7 +142,7 @@
 		</span>
 	</span>
 
-	<field-item
+	<v-field-item
 		v-if="developingTime"
 		label="Optimise for high grain / quick developing time"
 		help-text="Developer temperature and dilution will be set automatically to achieve the quickest results, which generally increases perceived grain."
@@ -150,10 +150,10 @@
 		:disabled="form.optimiseForTime"
 		name="optimise_for_time"
 		type="action"
-		@click="optimiseForTime"
+		@button-click="optimiseForTime"
 	/>
 
-	<field-item
+	<v-field-item
 		v-if="developingTime"
 		label="Optimise for for low grain / slow developing time"
 		help-text="Developer temperature and dilution will be set automatically to achieve the slowest results, which generally reduces perceived grain."
@@ -161,7 +161,7 @@
 		name="optimise_for_grain"
 		:disabled="form.optimiseForGrain"
 		type="action"
-		@click="optimiseForGrain"
+		@button-click="optimiseForGrain"
 	/>
 
 	<v-p-container
@@ -180,7 +180,7 @@
 </template>
 
 <script>
-	import FieldItem from "../field-item.vue";
+	import VFieldItem from "../v-field-item.vue";
 	import { useForm } from "../form-helper.ts";
 	import FilmStockArray from "../enumerables/film-stock-array.json";
 	import FilmDeveloperArray from "../enumerables/film-developer-array.json";
@@ -189,7 +189,7 @@
 
 	export default {
 		name: "BlackAndWhiteDevelopingTimeCalculator",
-		components: { VPContainer, FieldItem },
+		components: { VPContainer, VFieldItem },
 
 		data() {
 			return {

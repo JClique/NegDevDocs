@@ -237,8 +237,9 @@
 			<v-button
 				:disabled="disabled"
 				:name="`${name}_button`"
+				button-style="secondary"
 				:label="buttonLabel"
-				@click="$emit('click', $event)"
+				@click="$emit('button-click', $event)"
 			/>
 		</div>
 	</div>
