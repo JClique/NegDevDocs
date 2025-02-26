@@ -4,7 +4,7 @@
 			{{ `Depth of Field of roughly ${form.isValid ? getDepthOfField : "... "}mm` }}
 		</p>
 
-		<field-item
+		<v-field-item
 			v-model="form.focalLength"
 			label="Focal length (or 35mm eq)"
 			name="focal_length"
@@ -15,7 +15,7 @@
 			@validate="form.setValid($event)"
 		/>
 
-		<field-item
+		<v-field-item
 			v-model="form.focusingDistance"
 			label="Focusing distance"
 			name="focusing_distance"
@@ -25,7 +25,7 @@
 			@validate="form.setValid($event)"
 		/>
 
-		<field-item
+		<v-field-item
 			v-model="form.apertureNumber"
 			label="Aperture"
 			name="aperture"
@@ -44,12 +44,12 @@
 </template>
 
 <script>
-	import FieldItem from "../field-item.vue";
+	import VFieldItem from "../v-field-item.vue";
 	import { useForm } from "../form-helper.ts";
 
 	export default {
 		name: "SimpleDoFCalculator",
-		components: { FieldItem },
+		components: { VFieldItem },
 		data() {
 			return {
 				form: useForm({

@@ -7,6 +7,7 @@
 			<div
 				v-if="!['checkbox', 'radio'].includes(type)"
 				class="flex items-center justify-between space-x-4"
+				:class="{ 'opacity-50': disabled }"
 			>
 				<label
 					v-if="label"
@@ -121,7 +122,7 @@
 								type="checkbox"
 								:checked="modelValue"
 								@change="$emit('update:model-value', !Boolean(modelValue))"
-								class="col-start-1 row-start-1 appearance-none rounded border border-gray-300 bg-white checked:border-indigo-600 checked:bg-indigo-600 indeterminate:border-indigo-600 indeterminate:bg-indigo-600 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 disabled:border-gray-300 disabled:bg-gray-100 disabled:checked:bg-gray-100 forced-colors:appearance-auto"
+								class="col-start-1 row-start-1 appearance-none rounded border border-gray-300 bg-white checked:border-indigo-600 checked:bg-indigo-600 indeterminate:border-indigo-600 indeterminate:bg-indigo-600 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 disabled:border-gray-300 disabled:bg-gray-100 disabled:checked:bg-gray-100 dark:bg-[var(--vp-c-bg)] dark:checked:bg-indigo-600 forced-colors:appearance-auto"
 							/>
 							<svg
 								class="pointer-events-none col-start-1 row-start-1 size-3.5 self-center justify-self-center stroke-white group-has-[:disabled]:stroke-gray-950/25"
@@ -148,13 +149,13 @@
 					<span class="text-sm/6">
 						<span
 							:id="`${name}-label`"
-							class="font-medium text-gray-900"
+							class="font-medium"
 						>
 							{{ label }}
 						</span>
 						<span
 							:id="`${name}-description`"
-							class="block text-xs text-gray-500"
+							class="block text-xs text-gray-500 dark:text-gray-400"
 						>
 							{{ helpText }}
 						</span>
@@ -162,14 +163,14 @@
 				</label>
 				<fieldset v-if="type === 'radio'">
 					<legend
-						:class="disabled ? 'text-gray-300' : 'text-gray-900'"
+						:class="{ 'opacity-50': disabled }"
 						class="text-sm/6 font-medium"
 					>
 						{{ label }}
 					</legend>
 					<span
-						:class="disabled ? 'text-gray-200' : 'text-gray-600'"
-						class="mt-1 text-xs/6 text-gray-600"
+						:class="{ 'opacity-50': disabled }"
+						class="mt-1 text-xs/6"
 					>
 						{{ helpText }}
 					</span>
@@ -191,15 +192,15 @@
 							/>
 							<span>
 								<span
-									:class="disabled || option.disabled ? 'text-gray-300' : 'text-gray-900'"
+									:class="{ 'opacity-50': disabled || option.disabled }"
 									class="block text-xs/4 font-medium"
 								>
 									{{ option.label }}
 								</span>
 								<span
 									v-if="option.helpText"
-									:class="disabled || option.disabled ? 'text-gray-200' : 'text-gray-600'"
-									class="mt-1 block text-xs/4 text-gray-600"
+									:class="{ 'opacity-50': disabled || option.disabled }"
+									class="mt-1 block text-xs/4"
 								>
 									{{ option.helpText }}
 								</span>
@@ -218,7 +219,7 @@
 			</div>
 			<span
 				v-if="helpText && !['checkbox', 'radio'].includes(type)"
-				:class="disabled ? 'text-gray-500' : 'text-gray-600'"
+				:class="{ 'opacity-50': disabled }"
 				class="mt-2 block text-xs dark:text-gray-400"
 				v-html="helpText"
 			/>
@@ -237,8 +238,9 @@
 			<v-button
 				:disabled="disabled"
 				:name="`${name}_button`"
+				button-style="secondary"
 				:label="buttonLabel"
-				@click="$emit('click', $event)"
+				@click="$emit('button-click', $event)"
 			/>
 		</div>
 	</div>
@@ -373,7 +375,7 @@
 			},
 			styleClass() {
 				const textClass = this.disabled
-					? "text-gray-300"
+					? "text-gray-300 "
 					: "text-gray-900 dark:text-gray-100 placeholder:text-gray-500";
 				if (this.isValid) return `border-gray-300 ${textClass}`;
 				return "border-red-500 text-red-600 placeholder:text-red-400 ring-red-400";
