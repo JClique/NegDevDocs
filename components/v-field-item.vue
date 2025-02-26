@@ -88,6 +88,7 @@
 						v-for="(option, optionKey) in optionsArray"
 						:key="`${name}-option-${optionKey}`"
 						:value="option.value"
+						:selected="modelValue === option.value"
 						:disabled="option.disabled"
 					>
 						{{ option.label }}
