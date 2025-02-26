@@ -37,9 +37,6 @@ jobs:
       - name: Remove node_modules and lock file
         run: rm -rf node_modules
 
-      - name: Install dependencies
-        run: npm install --legacy-peer-deps
-
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
