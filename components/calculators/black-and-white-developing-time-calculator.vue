@@ -123,11 +123,12 @@
 
 	<span
 		v-if="developingTime"
-		class="flex flex-col py-6 text-sm/6"
+		:class="{ 'pb-6': !subFiveMinutes && !warmDeveloper }"
+		class="flex flex-col pt-6 text-sm/6"
 	>
 		<span class="block font-medium">Developing time: </span>
 		<span
-			:class="subFiveMinutes || warmDeveloper ? 'text-red-600' : 'text-black'"
+			:class="{ 'text-red-500': subFiveMinutes || warmDeveloper }"
 			class="block text-lg"
 		>
 			{{
@@ -137,6 +138,20 @@
 			}}
 		</span>
 	</span>
+
+	<v-p-container
+		v-if="subFiveMinutes"
+		type="danger"
+		title="⚠ Time too short"
+		description="Film developed for less than 5 minutes may cause uneven development"
+	/>
+
+	<v-p-container
+		v-if="warmDeveloper"
+		type="warning"
+		title="⚠ Developer too warm"
+		description="Film developed above 24°C may cause damage to the emulsion"
+	/>
 
 	<v-field-item
 		v-if="developingTime"
@@ -158,20 +173,6 @@
 		:disabled="form.optimiseForGrain"
 		type="action"
 		@button-click="optimiseForGrain"
-	/>
-
-	<v-p-container
-		v-if="subFiveMinutes"
-		type="danger"
-		title="⚠ Time too short"
-		description="Film developed for less than 5 minutes may cause uneven development"
-	/>
-
-	<v-p-container
-		v-if="warmDeveloper"
-		type="warning"
-		title="⚠ Developer too warm"
-		description="Film developed above 24°C may cause damage to the emulsion"
 	/>
 </template>
 
