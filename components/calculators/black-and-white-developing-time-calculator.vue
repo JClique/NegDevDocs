@@ -13,9 +13,7 @@
 							value: fs.slug,
 							label: fs.label,
 							disabled: selectedDilution
-								? !selectedDilution.starting_times_array.filter(
-										(st) => st.film_slug.toString() === fs.slug,
-									).length
+								? !selectedDilution.starting_times_array.filter((st) => st.film_slug === fs.slug).length
 								: false,
 						};
 					})
@@ -42,9 +40,7 @@
 							label: fs,
 							disabled: selectedDilution
 								? !selectedDilution.starting_times_array.filter(
-										(st) =>
-											st.iso.toString() === fs.toString() &&
-											st.film_slug.toString() === form.filmStock,
+										(st) => st.iso.toString() === fs.toString() && st.film_slug === form.filmStock,
 									).length
 								: false,
 						};
@@ -282,15 +278,36 @@
 			optimiseForTime() {
 				this.form.optimiseForGrain = false;
 				this.form.optimiseForTime = true;
-				this.form.developerTemperature = 24;
-				this.form.developerDilution = "stock";
+
+				let temp = 24;
+				this.form.developerTemperature = temp;
+				while (this.developingTime.minutes <= 5) {
+					temp--;
+					this.form.developerTemperature = temp;
+				}
+
+				const availableDilutions = this.selectedDeveloper.dilution_array.filter((d) => {
+					return !!d.starting_times_array.filter(
+						(st) =>
+							st.iso.toString() === this.form.filmIso.toString() && st.film_slug === this.form.filmStock,
+					).length;
+				});
+				this.form.developerDilution = availableDilutions[0].slug;
 			},
 
 			optimiseForGrain() {
 				this.form.optimiseForTime = false;
 				this.form.optimiseForGrain = true;
+
 				this.form.developerTemperature = 18;
-				this.form.developerDulution = "1-an-3";
+
+				const availableDilutions = this.selectedDeveloper.dilution_array.filter((d) => {
+					return !!d.starting_times_array.filter(
+						(st) =>
+							st.iso.toString() === this.form.filmIso.toString() && st.film_slug === this.form.filmStock,
+					).length;
+				});
+				this.form.developerDilution = availableDilutions[availableDilutions.length - 1].slug;
 			},
 		},
 	};
