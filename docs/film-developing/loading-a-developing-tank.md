@@ -6,7 +6,7 @@ next:
 # Loading a developing tank
 
 Daylight-loading tanks often have specific instructions, so this guide focuses on **dark-loading developing tanks**, referred to simply as *developing tanks*. 
-These require either a **changing bag** or a **completely dark room** to safely load the film.  
+These require either a [changing bag](/film-developing/equipment-and-materials#changing-bag) or a **completely dark room** to safely load the film.  
 
 ## Retrieving the film
 
@@ -18,7 +18,7 @@ These require either a **changing bag** or a **completely dark room** to safely 
 
 ### 120 film
 
-- The backing paper and film must be separated **entirely in the changing bag**.  
+- The [backing paper](/glossary#backing-paper) and film must be separated **entirely in the changing bag**.  
 - To make this easier, fold over the backing paper's end when finishing the roll instead of sealing it flush.
 
 ## Loading the tank
