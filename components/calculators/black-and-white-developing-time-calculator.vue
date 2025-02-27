@@ -139,20 +139,6 @@
 		</span>
 	</span>
 
-	<v-p-container
-		v-if="subFiveMinutes"
-		type="danger"
-		title="⚠ Time too short"
-		description="Film developed for less than 5 minutes may cause uneven development"
-	/>
-
-	<v-p-container
-		v-if="warmDeveloper"
-		type="warning"
-		title="⚠ Developer too warm"
-		description="Film developed above 24°C may cause damage to the emulsion"
-	/>
-
 	<v-field-item
 		v-if="developingTime"
 		label="Optimise for high grain / quick developing time"
@@ -173,6 +159,20 @@
 		:disabled="form.optimiseForGrain"
 		type="action"
 		@button-click="optimiseForGrain"
+	/>
+
+	<v-p-container
+		v-if="subFiveMinutes"
+		type="danger"
+		title="⚠ Time too short"
+		description="Film developed for less than 5 minutes may cause uneven development"
+	/>
+
+	<v-p-container
+		v-if="warmDeveloper"
+		type="warning"
+		title="⚠ Developer too warm"
+		description="Film developed above 24°C may cause damage to the emulsion"
 	/>
 </template>
 

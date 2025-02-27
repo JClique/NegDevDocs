@@ -53,7 +53,7 @@
 					case "main":
 						return "rounded bg-gray-100 enabled:bg-indigo-500 px-2 py-1 text-xs font-semibold text-gray-400 enabled:text-white shadow-sm enabled:hover:bg-indigo-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500";
 					case "secondary":
-						return "rounded bg-gray-100 enabled:bg-white border border-gray-100 enabled:border-indigo-500 px-2 py-1 text-xs font-semibold text-gray-400 enabled:text-indigo-600 shadow-sm enabled:hover:bg-indigo-100";
+						return "rounded bg-gray-100 enabled:bg-white border border-gray-100 enabled:border-indigo-500 px-2 py-1 text-xs font-semibold text-gray-400 enabled:text-indigo-600 shadow-sm enabled:hover:bg-white/20";
 				}
 			},
 		},
