@@ -28,3 +28,15 @@ features:
     linkText: Coming soon
 ---
 
+<script setup>
+import VCtaBlock from '../components/sections/v-cta-block.vue';
+</script>
+
+<v-cta-block
+    title="Black & white film developing calculator"
+    sub-title="Film developing times made easy"
+    description="Find the perfect development time for any film and developer combination with our film developing calculator. Adjust for dilution, optimise for time or grain, and fine-tune settings for rotary processors—all in one easy-to-use tool."
+    link-title="View calculator"
+    link-url="/appendix/black-and-white-film-developing-time-calculator"
+    image-url="/images/film-developing-calculator.webp"
+/>
