@@ -57,6 +57,7 @@ export default defineConfig({
         text: 'Film Developing',
         collapsed: true,
         items: [
+          { text: 'Getting started', link: '/film-developing/getting-started' },
           { text: 'Equipment & materials', link: '/film-developing/equipment-and-materials' },
           { text: 'Loading a developing tank', link: '/film-developing/loading-a-developing-tank' },
           {

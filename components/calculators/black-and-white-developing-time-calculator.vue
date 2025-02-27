@@ -123,11 +123,12 @@
 
 	<span
 		v-if="developingTime"
-		class="flex flex-col py-6 text-sm/6"
+		:class="{ 'pb-6': !subFiveMinutes && !warmDeveloper }"
+		class="flex flex-col pt-6 text-sm/6"
 	>
 		<span class="block font-medium">Developing time: </span>
 		<span
-			:class="subFiveMinutes || warmDeveloper ? 'text-red-600' : 'text-black'"
+			:class="{ 'text-red-500': subFiveMinutes || warmDeveloper }"
 			class="block text-lg"
 		>
 			{{

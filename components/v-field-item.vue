@@ -88,6 +88,7 @@
 						v-for="(option, optionKey) in optionsArray"
 						:key="`${name}-option-${optionKey}`"
 						:value="option.value"
+						:selected="modelValue === option.value"
 						:disabled="option.disabled"
 					>
 						{{ option.label }}
@@ -188,7 +189,7 @@
 								:disabled="disabled || option.disabled"
 								:checked="isChecked(option)"
 								@change="onInput"
-								class="relative size-4 appearance-none rounded-full border border-gray-300 bg-white before:absolute before:inset-1 before:rounded-full before:bg-white checked:border-indigo-600 checked:bg-indigo-600 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 disabled:border-gray-300 disabled:bg-gray-100 disabled:before:bg-gray-400 forced-colors:appearance-auto forced-colors:before:hidden [&:not(:checked)]:before:hidden"
+								class="relative size-4 appearance-none rounded-full border border-gray-300 bg-white before:absolute before:inset-1 before:rounded-full before:bg-white checked:border-indigo-600 checked:bg-indigo-600 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 disabled:border-gray-300 disabled:bg-gray-100 disabled:before:bg-gray-400 dark:bg-[var(--vp-c-bg)] dark:checked:bg-indigo-600 forced-colors:appearance-auto forced-colors:before:hidden [&:not(:checked)]:before:hidden"
 							/>
 							<span>
 								<span

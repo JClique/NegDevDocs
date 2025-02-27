@@ -35,6 +35,12 @@ While basic in functionality, box cameras are valued for their vintage charm and
 
 ## C {.hidden}
 
+### Cross processing
+Cross processing is the technique of developing film in a chemical solution intended for a different type of film than originally intended. 
+The most common example is processing color slide film (E-6 process) in color negative film chemicals (C-41 process), which results in high-contrast, color-shifted images with increased saturation.
+
+This technique was historically an accidental result of lab processing errors but became a popular artistic effect in fashion, experimental, and alternative photography.
+
 ## D {.hidden}
 
 ### Depth of field  

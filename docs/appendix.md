@@ -6,5 +6,5 @@ outline: false
 
 # Appendix
 
-- [Depth of field](/appendix/depth-of-field)
+- [Depth of field calculator](/appendix/depth-of-field-calculator)
 - [Black & white film developing time calculator](/appendix/black-and-white-film-developing-time-calculator)
