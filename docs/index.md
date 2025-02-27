@@ -20,8 +20,9 @@ features:
     link: /analogue-photography/getting-started
     linkText: Start reading
   - title: "🎞&nbsp;&nbsp;Film Developing"
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    linkText: Coming soon
+    details: "Understand the steps to develop your own film and consistently achieve well-balanced negatives, ready for printing or scanning."
+    link: /film-developing/getting-started
+    linkText: Start reading
   - title: "🚨&nbsp;&nbsp;Darkroom Printing"
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
     linkText: Coming soon
