@@ -7,51 +7,98 @@ next:
   link: '/film-developing/washing-and-drying-film'
 ---
 
-# Black & white process
+# Black & white film development
+
+This guide covers the step-by-step process of developing black & white film. 
+The process consists of three main stages: **developing**, **stopping**, and **fixing**.
 
 ## 1. Develop
 
-The first step is to develop the film. Converting the latent image held in the silver halides of your film emulation to metallic silver to create a negative image. The areas exposed to the most light energy will form the densest areas of metallic silver. The areas not exposed to light will form no metallic silver at all. They will remain silver halides to be removed later. 
+The first step is to develop the film, turning the latent image into a visible negative. 
+This is done by converting the exposed [silver halide crystals](/glossary#silver-halide-crystals) into metallic silver. 
+The metallic silver absorbs light and appears black, creating a negative of the light areas of the scene. 
 
-The developing time of black & white film is influenced by your developer choice, its strength and temperature, and the film to be developed. In most cases, each emulsion must be developed separately. That is to say, a roll of Ilford HP5+ and a roll of Kodak Tri-X cannot typically be developed in the same tank, as the developing times for these two films will likely be different.
+- **Light exposure & density**  
+  - Areas that received more light become denser with metallic silver.  
+  - Areas that received no light remain as silver halides, which will be removed later.  
 
-#### Starting time
+### Choosing the right development time  
 
-First, you must find the starting time for your combination of developer and film stock. Most films contain a table of starting times for the most popular developers inside the film box itself. Larger film manufacturers such as [Ilford](https://www.ilfordphoto.com/wp/wp-content/uploads/2017/03/Film-processing-chart-.pdf), publish documentation on most combinations of their developers and emulsions. 
+Development time depends on:  
+- The type of **developer** used (strength & formula).  
+- The **temperature** of the chemicals.  
+- The **film stock** being developed.  
 
-If no developing times can be found for your combination of film and developer, this can be estimated by doing a development test [^1]. Dip a test strip of film into working strength developer and time how long it takes for the exposed film to turn completely dark. Divide the time by three to get the number of minutes required to develop this film. 
+Since different films have unique development times, mixing different emulsions in the same tank is usually not recommended.  
 
-[^1]: [How to find your developing time for any black and white film - Lomography (read 2024)](https://www.lomography.com/magazine/347678-how-to-find-your-developing-time-for-any-black-and-white-film#:~:text=Once%20you%20have%20all%20of,needed%20to%20develop%20the%20film)
+#### Finding the correct time  
 
-For example; If it takes 17.02 seconds to turn the film strip dark, divide this by 3 to get 5.67, which gives you a 5-minute and 40-second starting developing time. 
+1. **Manufacturer recommendations**  
+   - Many film boxes include a table with development times for common developers.  
+   - Major brands like [Ilford](https://www.ilfordphoto.com/wp/wp-content/uploads/2017/03/Film-processing-chart-.pdf) provide online processing guides.  
 
-#### Temperature
+2. **Use our [film developing calculator](/appendix/black-and-white-film-developing-time-calculator)**  
+   - Our **film developing calculator** provides precise times for a wide range of **film & developer combinations**.  
+   - It also adjusts for **temperature variations** and optimizes for **rotary processors, speed, or grain structure**.  
 
-Starting development times are based on your chemistry being 20° C however it is not strictly required for black & white development. 
 
-==TODO: How to adjust development time based on temperature==
+3. **Estimating development time manually**  
+   If no official time is available, you can perform a **development test**:  
+   - Cut a test strip of film and immerse it in the developer.  
+   - Time how long it takes to turn completely dark.  
+   - Divide this time by **three** to estimate the full development time.  
 
-Measure the temperature of your developer solution and adjust your time to compensate. Ilford has published a time compensation chart which can be used to adjust developing times to account for a few degrees 
+   **Example:**  
+   - If a film strip darkens in **17.02 seconds**, divide by **3** → **5 minutes 40 seconds** is the estimated development time.  
 
-#### Agitation
+#### Adjusting for temperature  
 
-To ensure the development occurs evenly, the solution must be agitated regularly allowing fresh chemistry to reach the film emulsion. When developing with a tank agitation is performed by inverting the tank for 15 seconds every minute. This amount of agitation requires no change to your development time. 
+Most development times are based on a standard **20°C** solution temperature. However, temperature adjustments may be necessary.  
 
-Extra agitation can increase the rate of development, which can cause increased contrast in your negatives. To compensate for this when using continuous rotary processors it is recommended to reduce your development time by 15%.  
+- **Measure** the temperature of your developer.  
+- **Adjust** your time using a compensation chart.  
+- Ilford provides a [time compensation chart](https://www.ilfordphoto.com/wp/wp-content/uploads/2017/03/Temperature-compensation-chart.pdf) for minor temperature variations.  
 
+[//]: # (📌 *Diagram suggestion:* A simple table showing how development time changes with different temperatures.  )
+
+#### Agitation technique  
+
+Regular agitation ensures even development by moving fresh chemistry over the film surface.  
+
+- **Standard tank development:**  
+  - Invert the tank for **15 seconds every minute**.  
+  - No adjustment to development time is needed.  
+
+- **Increased agitation:**  
+  - Increases development speed and contrast.  
+  - If using **continuous rotary processors**, reduce development time by **15%**.  
+
+[//]: # (📌 *Diagram suggestion:* A simple visual showing agitation techniques &#40;e.g., inversion vs. rotary processing&#41;.  )
 
 ## 2. Stop
 
-Once the film is developed for the desired time, empty the tank of developing solution and replace it with a stop bath. This citric acid solution shifts the pH of the film emulsion and abruptly stops the developing process. 
+Once development is complete, the process must be stopped immediately to prevent overdevelopment. This is done using a **stop bath** or water rinse.  
 
-Generally speaking, a minute of stop bath with around 15 seconds of agitation throughout should be enough to adequately stop the development using a fresh stop bath solution. 
+### Using a stop bath  
 
-While not strictly necessary, a stop bath can increase the lifespan of your fixer solution by preventing cross-contamination from the developer. If no stop bath is available several rinses of water can be used in its place. 
+- A **citric acid solution** lowers the pH, halting development.  
+- Recommended time: **1 minute** with **15 seconds of agitation**.  
 
+### Alternative: Water rinse  
+
+- If no stop bath is available, multiple rinses of clean water can be used.  
+- However, a stop bath extends the life of the fixer by reducing contamination.  
 
 ## 3. Fix
 
-Fixer is used to remove all remaining unexposed silver halide crystals from the film. These silver halides will be exposed if the film is removed from the developing tank before being thoroughly fixed. This appears as a cloudy fog in the clear areas of your negatives and will disperse if kept in the fixer solution long enough. 
+Fixing removes unexposed silver halide crystals from the film, making the negative stable and light-safe.  
 
-# References
-[How To Process and Print Black and White Film - Z133, Kodak (2005)](https://imaging.kodakalaris.com/sites/default/files/wysiwyg/pro/chemistry/z133.pdf)
+### Why fixing is essential  
+
+- If the film is exposed to light before being fixed, remaining silver halides will darken.  
+- This appears as a **cloudy fog** in the clear areas of the negative.  
+- Proper fixing ensures these halides dissolve completely.  
+
+[//]: # (📌 *Diagram suggestion:* A comparison of a properly fixed negative vs. an under-fixed negative &#40;showing cloudy areas&#41;.  )
+
+This covers the three core steps of black & white film development. Let me know if you need more details or additional diagrams!
