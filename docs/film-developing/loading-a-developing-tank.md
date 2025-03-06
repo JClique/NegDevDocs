@@ -12,7 +12,7 @@ These require either a [changing bag](/film-developing/equipment-and-materials#c
 
 ### 35mm film
 
-1. Use a [leader retriever]('/appendix/how-to-use-a-leader-retriever) to retrieve the leader from inside the canister. 
+1. Use a [leader retriever](/appendix/how-to-use-a-leader-retriever) to retrieve the leader from inside the canister. 
 2. Cut it at a **90° angle** to help the film enter the reel smoothly. 
 3. With **Paterson reels**, you may be able to start loading outside the changing bag. If the film has enough exposed length, you can feed it onto the reel until it reaches the **ball bearings**, which prevent slipping. 
 
