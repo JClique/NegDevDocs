@@ -19,6 +19,10 @@ export default defineConfig({
     initialValue: 'dark',
   },
   themeConfig: {
+    editLink: {
+      pattern: 'https://github.com/JClique/NegDevDocs/edit/main/docs/:path'
+    },
+    externalLinkIcon: true,
     outline: {
       level: [2,3],
     },
@@ -66,7 +70,6 @@ export default defineConfig({
             items: [
               { text: 'Black & white process', link: '/film-developing/black-and-white-process' },
               { text: 'C41 process', link: '/film-developing/c41-process' },
-              { text: 'E6 process', link: '/film-developing/e6-process' },
             ]
           },
           { text: 'Washing & drying film', link: '/film-developing/washing-and-drying-film' },
