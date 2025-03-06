@@ -174,6 +174,28 @@
 		title="⚠ Developer too warm"
 		description="Film developed above 24°C may cause damage to the emulsion"
 	/>
+
+	<span class="mt-40 flex">
+		<span class="text-xs">
+			The information provided in this calculator uses data from official sources, such as
+			<a
+				href="https://www.ilfordphoto.com/wp/wp-content/uploads/2017/03/Film-processing-chart-.pdf"
+				target="_blank"
+				>Ilford</a
+			>
+			and
+			<a
+				href="https://business.kodakmoments.com/sites/default/files/wysiwyg/pro/chemistry/j78.pdf"
+				target="_blank"
+				>Kodak</a
+			>, as well as data verified in our
+			<a
+				href="https://www.negativedevelopment.co.uk/"
+				target="_blank"
+				>community darkroom</a
+			>.
+		</span>
+	</span>
 </template>
 
 <script>

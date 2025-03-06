@@ -35,15 +35,15 @@ Higher ISO films have larger grains, making them more reactive to light but also
 
 Since ISO cannot be changed between shots on film cameras, it must be set correctly when loading the film.
 
-- **Manual ISO dial (most SLRs & rangefinders)**  
-  - Locate the ISO (or ASA) dial, usually near the rewind crank or shutter speed dial.  
+- **Manual ISO dial (most SLRs & rangefinders)** 
+  - Locate the ISO (or ASA) dial, usually near the rewind crank or shutter speed dial. 
   - Lift and rotate the dial to match the ISO of your film.
 
-- **DX-coded cameras (most point & shoots & some SLRs)**  
-  - These cameras automatically detect the film’s ISO from DX-coded canisters.  
+- **DX-coded cameras (most point & shoots & some SLRs)** 
+  - These cameras automatically detect the film’s ISO from DX-coded canisters. 
   - If using non-DX film, check if your camera allows manual ISO override.
 
-- **Fully manual cameras (older & mechanical models)**  
+- **Fully manual cameras (older & mechanical models)** 
   - Some older cameras have no ISO setting. Instead, you must manually adjust shutter speed and aperture based on the film's rated ISO.
 
 Setting the correct ISO ensures the camera’s light meter provides accurate exposure recommendations.
@@ -69,13 +69,13 @@ Shutter speed is usually controlled by a dedicated dial or an electronic setting
 On most cameras, the **shutter speed dial only shows the denominator** of the fraction. 
 For example, "500" on the dial represents **1/500th of a second**, and "60" represents **1/60th of a second**.
 
-- **SLRs & rangefinders with a shutter speed dial**  
-  - Many **mechanical and electronic** SLRs and rangefinders have a physical shutter speed dial.  
+- **SLRs & rangefinders with a shutter speed dial** 
+  - Many **mechanical and electronic** SLRs and rangefinders have a physical shutter speed dial. 
   - Turn the dial to select the desired shutter speed, usually in full stops (e.g., 1/125s, 1/250s).
 
-- **Fully automatic & aperture priority cameras**  
-  - In **Aperture priority (A or Av) mode**, the camera selects the shutter speed automatically based on your chosen aperture.  
-  - In **Fully automatic (Auto) mode**, the camera controls both aperture and shutter speed to achieve a balanced exposure.  
+- **Fully automatic & aperture priority cameras** 
+  - In **Aperture priority (A or Av) mode**, the camera selects the shutter speed automatically based on your chosen aperture. 
+  - In **Fully automatic (Auto) mode**, the camera controls both aperture and shutter speed to achieve a balanced exposure. 
   - Many point-and-shoot cameras only offer automatic exposure, meaning shutter speed cannot be manually adjusted.
 
 Shutter speed should be set based on lighting conditions and subject movement.
@@ -102,14 +102,14 @@ A wide aperture creates a shallow [depth of field](/glossary#depth-of-field), is
 
 Aperture is usually controlled by the lens or an electronic setting.
 
-- **SLRs & rangefinders with manual aperture control**  
+- **SLRs & rangefinders with manual aperture control** 
   - Rotate the aperture ring on the lens to select the desired f-stop.
 
-- **Electronic cameras (some SLRs & point & shoots)**  
-  - If the camera has a mode dial, select **Aperture Priority (A or Av)** and adjust aperture manually.  
+- **Electronic cameras (some SLRs & point & shoots)** 
+  - If the camera has a mode dial, select **Aperture Priority (A or Av)** and adjust aperture manually. 
   - In **Manual (M) mode**, both aperture and shutter speed must be set manually.
 
-- **Fixed-lens cameras (point & shoots & some rangefinders)**  
+- **Fixed-lens cameras (point & shoots & some rangefinders)** 
   - Many compact cameras have a fixed aperture or limited manual control.
 
 Aperture should be set based on lighting, subject isolation, and desired depth of field.
@@ -146,23 +146,23 @@ Most analogue cameras built after the late 60s feature built-in light meters, wh
 
 External light meters offer **greater precision** than built-in meters and come in two main forms:
 
-1. **Professional light meters**  
-   - Used in film and studio photography.  
-   - Measures **incident light** (falling on the subject) rather than reflected light.  
+1. **Professional light meters** 
+   - Used in film and studio photography. 
+   - Measures **incident light** (falling on the subject) rather than reflected light. 
    - Provides accurate exposure values for complex lighting situations.
 
-2. **Smartphone light meter apps**  
-   - Apps like **myLightMeter Pro** or **Light Meter Free** use the phone’s camera to estimate exposure.  
+2. **Smartphone light meter apps** 
+   - Apps like **myLightMeter Pro** or **Light Meter Free** use the phone’s camera to estimate exposure. 
    - Less precise but convenient for quick readings.
 
 ## Metering by eye
 
 Experienced photographers can estimate exposure without a light meter by using the simple and effective **Sunny 16 Rule** for daylight exposure:
 
-- Set **aperture to f/16** in bright sunlight.  
+- Set **aperture to f/16** in bright sunlight. 
 - Set **shutter speed to match ISO** (e.g., ISO 100 → 1/100s, ISO 200 → 1/200s).
 
-Adjust for different lighting conditions:  
+Adjust for different lighting conditions: 
 
 | Condition         | Aperture | 100 ISO | 200 ISO  |
 |-------------------|----------|---------|----------|

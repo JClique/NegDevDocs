@@ -22,7 +22,7 @@ This documentation is designed for easy navigation, allowing you to start at any
 Easily search through all articles to find specific information. 
 Use key phrases or terms to quickly locate relevant content.
 
-### Interactive features in the docs  
+### Interactive features in the docs 
 
 To enhance learning, some sections include interactive features to help you engage with the material more dynamically. 
 These tools provide immediate, practical feedback and help tailor information to your needs:
