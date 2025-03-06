@@ -19,6 +19,9 @@ export default defineConfig({
     initialValue: 'dark',
   },
   themeConfig: {
+    editLink: {
+      pattern: 'https://github.com/JClique/NegDevDocs/edit/main/docs/:path'
+    },
     externalLinkIcon: true,
     outline: {
       level: [2,3],
