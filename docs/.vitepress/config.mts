@@ -6,6 +6,16 @@ export default defineConfig({
   title: "Negative Development Docs",
   description: "A documentation of analogue photography, film development and darkroom printing processes. ",
   lastUpdated: true,
+  head: [
+    [
+      'script',
+      {
+        defer: '',
+        'data-domain': 'negativedevelopment.co.uk',
+        src: 'https://plausible.io/js/script.js'
+      }
+    ]
+  ],
   markdown: {
     image: {
       lazyLoading: true
@@ -34,11 +44,18 @@ export default defineConfig({
 
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
       {
-        text: 'Contributing',
+        text: 'Home',
+        link: '/'
+      },
+      {
+        text: 'Contribute',
         link: '/contributing'
-      }
+      },
+      {
+        text: 'Visit our darkroom',
+        link: 'https://www.negativedevelopment.co.uk/'
+      },
     ],
 
     sidebar: [

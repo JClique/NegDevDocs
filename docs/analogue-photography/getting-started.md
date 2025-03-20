@@ -17,8 +17,9 @@ When exposed to light through a camera lens, these crystals undergo a chemical r
 
 ### Film formats 
 
-Film comes in several different formats, each using a different sized piece of film to capture an image. 
+Film comes in several formats, each using a different sized piece of film to capture an image. 
 The choice of format affects both the level of detail and the overall cost or each image. 
+
 The most common formats still in production today include:
 
 - **35mm** – The most popular film format, used in everything from compact point-and-shoots to professional SLRs. Each roll typically provides 24 or 36 exposures and is easy to find and develop. 
