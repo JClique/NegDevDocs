@@ -1,14 +1,23 @@
 # Introduction
 
 Welcome to the **Negative Development Docs**—your guide to the world of analogue photography, film developing, and darkroom printing. 
-Whether you’re picking up your first film camera or refining your darkroom skills, this resource is here to help every step of the way.
+Whether you’re a beginner looking for a structured way to learn, an experienced photographer in need of reference materials, or an educator building a curriculum, this documentation is designed to be a comprehensive and practical guide.
+
+## Why this exists
+
+This documentation is made possible by the support for our [physical darkroom](https://www.negativedevelopment.co.uk/), a community space hosted in Pollard Yard, Manchester.
+The workshop sales and direct support from our community fund not only the physical space but also the hosting and ongoing development of these resources. 
+Our goal is to ensure that the knowledge and techniques of analogue photography remain accessible to everyone, regardless of location or background.
 
 ## How to use these docs
+
+The documentation is structured to provide clear, practical guidance for independent learning. 
+While our physical darkroom offers hands-on workshops, these docs are designed to stand on their own—giving you everything you need to start experimenting with film at home or in your own workspace.
 
 This documentation is designed for easy navigation, allowing you to start at any point:
 
 - **New to film?** - For beginners, start with the [analogue photography](/analogue-photography/getting-started) section.
-- **Develop your own film** - Ready to develop film? Explore the film development section *(coming soon)*.
+- **Develop your own film** - Ready to develop film? Explore the [film development section](/film-developing/getting-started).
 - **Printing in the darkroom** - Want to print in the darkroom? Check out our darkroom printing section *(coming soon)*.
 
 ### Additional resources
@@ -32,9 +41,8 @@ These tools provide immediate, practical feedback and help tailor information to
 
 All interactive features include written descriptions to ensure the information is accessible to all users.
 
-## A community-driven resource
+## Get involved
 
-Negative Development Docs is **open-source**, meaning anyone can contribute to improving the content. 
-If you spot an error, have a suggestion, or want to share your expertise, you can help make this guide even better.
-
-Want to help improve these docs? Find out how to contribute [here](/contributing).
+We believe knowledge should be open and community-driven. 
+If you find areas that could be improved, expanded, or clarified, we welcome contributions!
+You can find more details on how to contribute in the [contribution guide](/contributing) section of this documentation.

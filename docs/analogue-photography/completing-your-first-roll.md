@@ -82,16 +82,4 @@ If issues arise, they may indicate problems during exposure, film handling, or d
 - **No images and no film borders** – A problem occurred during development, such as incorrect chemical use or an exhausted developer. 
 - **Incorrect exposure** – If your images are too light or too dark, revisit the [exposing a scene](/analogue-photography/exposing-a-scene) section. 
 - **Incorrect focus** – If your images are blurry when they shouldn’t be, refer to the [focusing on subjects](/analogue-photography/focusing-on-subjects) section. 
-- **Consistent issues** – If your negatives are consistently overexposed, underexposed, or out of focus despite correct technique, your camera may need servicing. 
-
-## Conclusion 
-
-Finishing your first roll of film is an exciting step in your journey with analogue photography.
-Each roll you shoot helps you build confidence in handling, exposing, and processing film. 
-
-By following the steps to rewind or secure your film, store it safely, and review your results, you’ll develop a better understanding of how your camera and film interact.
-If your images turn out as expected, you’re on the right track—if not, analysing your negatives can help you refine your technique. 
-
-Whether you choose to have your film processed at a lab, develop it yourself, or explore community darkrooms, the experience of shooting film doesn’t end when you press the shutter. 
-With each roll, you’ll improve your skills and deepen your appreciation for the process. 
-Keep shooting, experimenting, and learning—you’re just getting started.  
+- **Consistent issues** – If your negatives are consistently overexposed, underexposed, or out of focus despite correct technique, your camera may need servicing.

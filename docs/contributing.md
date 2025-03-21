@@ -16,21 +16,26 @@ VitePress extras, such as custom containers and enhanced linking, can also be us
 Where necessary, we use inline custom Vue components to offer complex calculators or interactive learning materials. 
 These components are stored in the repository and can be referenced or extended as needed.
 
-### Formatting rules
-
-- Headings should be created with article navigation in mind. Headings 2 and 3 appear in the right sidebar and can be used for quick navigation. Use sentence case for headings.
-- Ensure high levels of readability.
-- Be concise.
-- Spelling should follow British English conventions (e.g., *colour film*, not *color film*).
-- Insert a single newline after each sentence in Markdown, rather than leaving sentences on the same line. Do not add two spaces at the end of a line, as this forces a line break in Markdown.
-- Use lists, bullet points, text formatting, and imagery where necessary to avoid dense blocks of text.
-- Link to glossary entries the first time a word is mentioned but not repeatedly throughout an article.
-- Illustrations should be included in the List of Illustrations whenever they are added to an article. The List of Illustrations entry should include a paragraph of text to further explain the diagram, improving accessibility.
 
 ### General structure
 
 The docs consist of an Introduction, three sections; Analogue photography, Film developing, Darkroom printing. 
-Followed by a List of Illustrations page, an Appending and a Glossary. 
+Followed by a List of Illustrations page, an Appending and a Glossary.
+
+### Tone of voice 
+- Be concise — keep sentences clear and to the point. Avoid unnecessary complexity.
+- Ensure high levels of readability — use plain language and break up long paragraphs where needed.
+- Maintain a neutral and informative tone — aim for clarity over persuasion. The goal is to educate and guide the reader.
+- Use an inclusive and welcoming approach — write with the assumption that readers may be new to analogue photography or film developing. Avoid jargon where possible, and define technical terms in the glossary when necessary.
+- Keep instructions actionable — where guidance is given, make steps clear and easy to follow.
+
+### Formatting rules
+
+- Headings should be made with navigation in mind. Headings 2 and 3 appear in the right sidebar and can be used for quick navigation. Use sentence case for headings.
+- Spelling should follow British English conventions (e.g., *colour film*, not *color film*).
+- Link to glossary entries the first time a word is mentioned but not repeatedly throughout an article.
+- Illustrations should be included in the List of Illustrations whenever included in an article. The List of Illustrations entry should include a paragraph of text to further explain the diagram, improving accessibility.
+- Use lists, bullet points, text formatting, and imagery where necessary to avoid dense blocks of text.
 
 ## Versioning
 

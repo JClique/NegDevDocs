@@ -29,7 +29,7 @@ It is measured using an ISO (or ASA) rating (e.g., 100, 400, 1600).
 Film sensitivity is determined by the size of the [silver halide grains](/glossary#silver-halide-crystals) in the emulsion. 
 Higher ISO films have larger grains, making them more reactive to light but also producing more visible grain in the image.
 
-**Tip:** While film ISO is **fixed once loaded**, it is possible to alter exposure by [pushing or pulling](/glossary#push-pull-processing) during development.
+**Tip:** While film ISO is **fixed once loaded**, it is possible to alter exposure of the entire roll by [pushing or pulling](/glossary#push-pull-processing) during development.
 
 #### How to set ISO on your camera
 
@@ -50,8 +50,7 @@ Setting the correct ISO ensures the camera’s light meter provides accurate exp
 
 ### Shutter speed
 
-Shutter speed controls **how long** light is allowed to reach the film. 
-It’s measured in fractions of a second (e.g., 1/1000s, 1/60s, 1s).
+Shutter speed controls **the amount of time** the film is exposed to light.
 
 - **Faster shutter speed (e.g., 1/1000s, 1/500s, 1/250s)**: Reduces motion blur, ideal for capturing fast-moving subjects.
 - **Slower shutter speed (e.g., 1/30s, 1s)**: Increases motion blur, useful for low-light shots and creative effects like light trails.
@@ -61,7 +60,9 @@ Inside the camera, the [shutter curtain](/glossary#shutter-curtain) (or leaf shu
 A fast shutter speed means the curtain opens and shuts quickly, limiting light exposure. 
 A slow shutter speed means the curtain stays open longer, increasing exposure.
 
-**Tip:** Handheld shots at slower speeds (below 1/60s) risk camera shake, so use a tripod when necessary.
+::: tip Tip 
+Handheld shots at slower speeds (below 1/60s) risk camera shake, so use a tripod when necessary.
+:::
 
 #### How to set shutter speed on your camera
 
@@ -140,20 +141,21 @@ Most analogue cameras built after the late 60s feature built-in light meters, wh
 
 - **Needle and dial meters** – A mechanical needle moves up or down in response to light levels. The goal is to adjust settings until the needle aligns with a central mark.
 - **LED or LCD meters** – Some electronic cameras use a series of LEDs or a numerical display to indicate whether the image is underexposed, correctly exposed, or overexposed.
-- **Fully automatic** – Fully automatic cameras may not provide any indication of the shutter speed or aperture settings to be used, but will warn the user when a correct exposure cannot be achieved.
+- **Fully automatic** – Fully automatic cameras may not provide any indication of the shutter speed or aperture settings to be used, but may warn the user when a correct exposure cannot be achieved.
 
 ### External meters
 
-External light meters offer **greater precision** than built-in meters and come in two main forms:
+External light meters can offer **greater precision** and **more consistency** than built-in meters and come in two main forms:
 
 1. **Professional light meters** 
    - Used in film and studio photography. 
-   - Measures **incident light** (falling on the subject) rather than reflected light. 
+   - Measures **[incident light](/glossary#incident-light)** (falling on the subject) rather than reflected light. 
    - Provides accurate exposure values for complex lighting situations.
 
 2. **Smartphone light meter apps** 
-   - Apps like **myLightMeter Pro** or **Light Meter Free** use the phone’s camera to estimate exposure. 
-   - Less precise but convenient for quick readings.
+   - Light meter apps use the phone’s camera to estimate exposure. 
+   - Less precise but convenient for quick readings. 
+   - Can typically be controlled a little more than built-in meters.
 
 ## Metering by eye
 
@@ -173,8 +175,3 @@ Adjust for different lighting conditions:
 | Shade             | f/4      | 1/100s  | 1/200s   |
 
 This method provides a solid starting point for correct exposure when a meter is unavailable.
-
-## Conclusion
-
-Mastering exposure takes practice, but understanding the **exposure triangle**, **metering modes**, and **rules of thumb** will help you take control of your photography. 
-Whether you're using a built-in meter, an external device, or your own judgment, proper exposure ensures your film captures the scene exactly as intended.

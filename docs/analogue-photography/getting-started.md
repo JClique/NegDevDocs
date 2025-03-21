@@ -17,8 +17,9 @@ When exposed to light through a camera lens, these crystals undergo a chemical r
 
 ### Film formats 
 
-Film comes in several different formats, each using a different sized piece of film to capture an image. 
+Film comes in several formats, each using a different sized piece of film to capture an image. 
 The choice of format affects both the level of detail and the overall cost or each image. 
+
 The most common formats still in production today include:
 
 - **35mm** – The most popular film format, used in everything from compact point-and-shoots to professional SLRs. Each roll typically provides 24 or 36 exposures and is easy to find and develop. 
@@ -48,16 +49,10 @@ Some film stocks, such as Kodak Vision3, are designed for motion picture cameras
 
 ### Negatives and positives
 
-Once a roll of film has been developed, it produces either **negatives** or **positives**, depending on the type of film used. 
+Developed film produces either a **negative** or **positive** depending on the type of film used. 
 
-- **Negative film** (black and white or colour) produces an inverted image where light areas appear dark, and dark areas appear light. Colours are also reversed in color negative film. These negatives must be either scanned digitally or printed in a darkroom to create a final positive image. 
-- **Slide film** produces a **positive image**, meaning the developed film directly represents the colours and tones of the original scene. These can be viewed on a lightbox, projected, or scanned for digital use. 
-
-For negatives, the most common method of converting them into viewable images is by **printing in a darkroom** or **scanning and digitally inverting** them. 
-In the darkroom, negatives are placed in an enlarger, projected onto light-sensitive photographic paper, and developed using chemicals to produce a final print. 
-
-With digital scanning, negatives are scanned using a specialized film scanner or DSLR setup, then digitally inverted and colour-corrected. 
-This allows film photographers to share and print their images without requiring a full darkroom setup.
+- **Negative film** produces an inverted image where light areas appear dark, and dark areas appear light. Colour negative film also inverts colours. These negatives must be printed or scanned to create a final positive image.
+- **Slide film** produces a positive image directly on film itself. Positive slides can either be viewed on a lightbox, projected, or scanned for digital use. Darkroom prints of slide film requires positive printing paper.
 
 ## Why shoot film?
 
@@ -70,7 +65,7 @@ The combination of film grain, dynamic range, and chemical processing results in
 
 ### A slower, more thoughtful process 
 
-With only 24 or 36 shots per roll, film encourages a more deliberate approach. 
+With only 24 or 36 shots per roll of 35mm, film encourages a more deliberate approach. 
 Photographers take time to compose each image and carefully consider their settings, leading to more thoughtful and intentional photography. 
 Unlike digital photography, where it's easy to take hundreds of images without much thought, film encourages precision and patience. 
 
@@ -84,7 +79,7 @@ Physical prints from a darkroom or lab also have a unique, handcrafted feel, mak
 
 Shooting film opens the door to creative techniques that are difficult or impossible to achieve digitally: 
 
-- **Double exposures:** Exposing the same piece of film twice to blend images together.
+- **Double exposures:** Exposing the same piece of film twice to blend images together. While achievable on some digital cameras, the unexpected results of film double exposures is hard to replicate.
 - **Alternative processing:** Cross-processing slide film in C-41 chemicals for surreal colours, or developing black and white film in coffee (caffenol) for an experimental touch.
 - **Film souping:** Intentionally damaging the film chemically before or during development to create unpredictable and interesting results.
 
@@ -114,10 +109,4 @@ Before loading film into a vintage camera, check for the following:
 - **Lens condition** – Look for fog, fungus, or scratches that may affect image quality. 
 - **Battery compartment** – If the camera has electronics, check for corrosion and ensure it powers on. 
 
-Many cameras, especially mechanical ones, can function without batteries, but some require power for light meters or shutters. 
-
-## Conclusion 
-
-Analogue cameras remain a fascinating and rewarding way to explore photography. 
-Whether you find a simple point-and-shoot or a classic SLR, many vintage cameras can still be used today with a little care and maintenance. 
-Checking basic functionality before loading film ensures a smooth shooting experience, keeping the magic of film photography alive.
+Many cameras, especially mechanical ones, can function without batteries, but some require power for light meters or shutters.
