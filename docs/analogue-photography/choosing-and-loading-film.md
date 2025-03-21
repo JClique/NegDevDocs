@@ -83,9 +83,3 @@ Medium format cameras vary greatly in design, but all **120 film is mounted on b
 3. Pull the [backing paper](/glossary#backing-paper) across the camera body or film back to the take-up spool. 
 4. Thread the backing paper onto the take-up spool and wind until the start marker aligns with the camera’s indicator. 
 5. Close the back and advance the film to the first frame.
-
-## Conclusion
-
-Choosing the right film depends on your shooting environment, processing preferences, and desired aesthetic. 
-Once you've selected your film, proper loading ensures that you get the best results from your camera. 
-Take your time, follow the steps carefully, and most importantly—enjoy the process of shooting film!

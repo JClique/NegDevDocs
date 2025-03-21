@@ -115,10 +115,4 @@ Before loading film into a vintage camera, check for the following:
 - **Lens condition** – Look for fog, fungus, or scratches that may affect image quality. 
 - **Battery compartment** – If the camera has electronics, check for corrosion and ensure it powers on. 
 
-Many cameras, especially mechanical ones, can function without batteries, but some require power for light meters or shutters. 
-
-## Conclusion 
-
-Analogue cameras remain a fascinating and rewarding way to explore photography. 
-Whether you find a simple point-and-shoot or a classic SLR, many vintage cameras can still be used today with a little care and maintenance. 
-Checking basic functionality before loading film ensures a smooth shooting experience, keeping the magic of film photography alive.
+Many cameras, especially mechanical ones, can function without batteries, but some require power for light meters or shutters.

@@ -173,8 +173,3 @@ Adjust for different lighting conditions:
 | Shade             | f/4      | 1/100s  | 1/200s   |
 
 This method provides a solid starting point for correct exposure when a meter is unavailable.
-
-## Conclusion
-
-Mastering exposure takes practice, but understanding the **exposure triangle**, **metering modes**, and **rules of thumb** will help you take control of your photography. 
-Whether you're using a built-in meter, an external device, or your own judgment, proper exposure ensures your film captures the scene exactly as intended.

@@ -80,11 +80,3 @@ These markings allow photographers to determine which distances will remain in f
 
 This technique is particularly useful for **street photography**, where speed and spontaneity are crucial.
 By pre-focusing the lens, photographers can take candid shots without raising the camera to their eye.
-
-## Conclusion
-
-Understanding how to focus manually is essential for film photography. 
-Whether using an SLR, TLR, or rangefinder, mastering these techniques allows for greater creative control and ensures consistently sharp images. 
-Additionally, zone focusing provides a practical way to capture quick, in-focus shots without constantly adjusting the lens.
-
-With practice, focusing will become second nature, allowing you to concentrate on composition and storytelling.
