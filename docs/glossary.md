@@ -98,6 +98,14 @@ Film perforations play a crucial role in maintaining consistent frame spacing an
 ## H {.hidden}
 ## I {.hidden}
 
+### Incident light  
+
+Light that falls directly onto a subject from a natural or artificial source, without being reflected off other surfaces. 
+Incident light is measured using an incident light meter, which reads the intensity of light before it interacts with the subject.  
+
+Unlike reflected light readings, which measure the light bouncing off a subject and can be influenced by its color and texture, incident light readings provide a more accurate exposure measurement. 
+This makes them particularly useful in studio photography and controlled lighting environments.
+
 ### Instant camera 
 Cameras designed to produce self-developing photographs moments after exposure, using specialized instant film. 
 These cameras contain a built-in developing process that eliminates the need for external processing. 
