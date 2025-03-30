@@ -2,10 +2,10 @@
 prev: false
 ---
 
-# Getting started with film developing
+# Understanding film developing
 
 Film developing is an essential step in the analogue photography process. 
-Whether you're processing film at home or using a lab, understanding the basics will help you achieve the best results. 
+Whether you're processing film at home or using a lab, our guide to understanding the basics will help you achieve the best results. 
 
 ## What is film developing?
 

@@ -60,10 +60,6 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Introduction',
-        link: '/introduction',
-      },
-      {
         text: 'Analogue Photography',
         collapsed: true,
         items: [

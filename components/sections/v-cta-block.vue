@@ -1,83 +1,67 @@
 <template>
-	<component
-		:is="linkUrl ? 'a' : 'div'"
-		:href="linkUrl"
-		class="!no-underline"
-	>
-		<div
-			class="group relative mt-16 cursor-pointer rounded-xl border border-transparent bg-[var(--vp-c-bg-soft)] transition-all duration-300 ease-in-out hover:border-[var(--vp-c-brand-1)]"
-		>
-			<div
-				class="relative h-80 overflow-hidden rounded-bl-none rounded-tl-xl rounded-tr-xl bg-red-800 md:absolute md:left-0 md:h-full md:w-1/3 md:rounded-bl-xl md:rounded-tr-none lg:w-1/2"
-			>
-				<img
-					class="size-full rounded-bl-none rounded-tl-xl rounded-tr-xl object-cover object-top transition-all duration-300 ease-in-out group-hover:opacity-90 md:rounded-bl-xl md:rounded-tr-none"
-					:src="imageUrl"
-					:alt="title"
-				/>
-			</div>
-			<div class="relative mx-auto max-w-7xl py-12 lg:px-8">
-				<div class="pl-6 pr-6 md:ml-auto md:w-2/3 md:pl-12 lg:w-1/2 lg:pl-20 lg:pr-0">
-					<span
-						v-if="subTitle"
-						class="!mt-4 block text-base font-semibold text-red-500"
-					>
-						{{ subTitle }}
-					</span>
-					<span class="mt-2 block text-xl font-semibold tracking-tight text-white sm:text-2xl">
-						{{ title }}
-					</span>
-					<span class="mt-6 block text-base/7 text-[var(--vp-c-text-2)]">
-						{{ description }}
-					</span>
-					<div
-						v-if="linkUrl && linkTitle"
-						class="my-8"
-					>
-						<a
-							:href="linkUrl"
-							class="inline-flex items-center space-x-2 text-sm text-[var(--vp-c-brand-1)] !no-underline"
-						>
-							<span>
-								{{ linkTitle }}
-							</span>
-							<span class="vpi-arrow-right link-text-icon" />
-						</a>
-					</div>
-				</div>
+	<div class="w-full bg-[var(--vp-c-bg-soft)] relative isolate px-6 py-32 sm:py-40 lg:px-8">
+		<svg
+			class="absolute inset-0 -z-10 size-full stroke-white/10 [mask-image:radial-gradient(100%_100%_at_top_right,white,transparent)]"
+			aria-hidden="true">
+			<defs>
+				<pattern id="1d4240dd-898f-445f-932d-e2872fd12de3" width="200" height="200" x="50%" y="0"
+				         patternUnits="userSpaceOnUse">
+					<path d="M.5 200V.5H200" fill="none"/>
+				</pattern>
+			</defs>
+			<svg x="50%" y="0" class="overflow-visible fill-gray-800/20">
+				<path d="M-200 0h201v201h-201Z M600 0h201v201h-201Z M-400 600h201v201h-201Z M200 800h201v201h-201Z"
+				      stroke-width="0"/>
+			</svg>
+			<rect width="100%" height="100%" stroke-width="0" fill="url(#1d4240dd-898f-445f-932d-e2872fd12de3)"/>
+		</svg>
+		<div class="mx-auto max-w-2xl text-center">
+			<span class="block text-balance text-4xl font-semibold tracking-tight text-white sm:text-5xl">
+				{{ title }}
+			</span>
+			<span
+				class="block mx-auto mt-6 max-w-xl text-lg/8 text-gray-300"
+			    v-html="description"
+			/>
+			<div class="mt-10 flex items-center justify-center gap-x-6">
+				<a
+					:href="linkUrl">
+					{{ linkTitle }}
+					<span aria-hidden="true">&rarr;</span>
+				</a>
 			</div>
 		</div>
-	</component>
+	</div>
 </template>
 
 <script>
-	export default {
-		name: "VCTABlock",
-		props: {
-			title: {
-				type: String,
-				required: true,
-			},
-			imageUrl: {
-				type: String,
-				required: true,
-			},
-			subTitle: {
-				type: String,
-				default: undefined,
-			},
-			description: {
-				type: String,
-				required: true,
-			},
-			linkUrl: {
-				type: String,
-				required: true,
-			},
-			linkTitle: {
-				type: String,
-				required: true,
-			},
+export default {
+	name: "VCTABlock",
+	props: {
+		title: {
+			type: String,
+			required: true,
 		},
-	};
+		imageUrl: {
+			type: String,
+			required: true,
+		},
+		subTitle: {
+			type: String,
+			default: undefined,
+		},
+		description: {
+			type: String,
+			required: true,
+		},
+		linkUrl: {
+			type: String,
+			required: true,
+		},
+		linkTitle: {
+			type: String,
+			required: true,
+		},
+	},
+}
 </script>

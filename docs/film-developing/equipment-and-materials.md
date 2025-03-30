@@ -46,16 +46,6 @@ However, other processes like C41 and E6 require strict temperature control.
 A changing bag provides a **light-tight space** for loading film, which is necessary when using a dark-loading developing tank.
 Changing bags are a safer and more convenient alternative to using a dark room or cupboard. 
 
-**How to use a changing bag:** 
-1. Place the film and tank inside. 
-2. Zip the bag shut. 
-3. Insert your hands through the sleeves. 
-4. Load the film onto the reel and into the tank. 
-
-::: warning ⚠ **Don't expose the film!** 
-Avoid wearing watches or devices that emit light inside the bag. 
-If you must remove your hands before the film is safely loaded, be careful not to allow light in through the sleeve holes.
-:::
 
 ## Helpful tools 
 
@@ -68,7 +58,10 @@ Clips help secure the film to either a hook, or line of string mounted high enou
 
 - **Film clips** – designed to pierce film for secure hanging 
 - **Wooden pegs** – a simple alternative 
-- 🚫 Avoid metal bulldog clips – they can rust and damage film 
+
+::: warning 
+Avoid metal bulldog clips which can rust over time and damage film. Some stainless steel clips designed for film can be used as long as they remain clean and rust-free.
+:::
 
 ### Leader retriever 
 
