@@ -40,6 +40,10 @@ html.dark {
 
 /*HOME*/
 
+.VPContent.is-home .VPHome {
+    margin-bottom: 0;
+}
+
 .VPSidebarItem.level-0 {
     padding-top: 0.5rem;
 }
@@ -59,6 +63,12 @@ html.dark {
 
 html.dark .VPHomeHero .container .main {
     background-color: rgba(50, 0, 0, 0.5);
+}
+
+.VPContent.is-home .vp-doc.container {
+    padding: 0 !important;
+    margin: 4rem 0 0 0  !important;
+    max-width: 100%;
 }
 
 .VPHomeHero .container .main {

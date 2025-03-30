@@ -1,7 +1,7 @@
 # Contributing
 
 The Negative Development documentation is an open-source project that relies on community contributions. 
-Whether you want to fix a typo, improve clarity, or add entirely new sections, your help is appreciated.
+Whether you want to fix a typo, improve clarity, or add entirely new sections, your help is greatly appreciated.
 
 ## How to contribute
 
@@ -33,9 +33,9 @@ Followed by a List of Illustrations page, an Appending and a Glossary.
 
 - Headings should be made with navigation in mind. Headings 2 and 3 appear in the right sidebar and can be used for quick navigation. Use sentence case for headings.
 - Spelling should follow British English conventions (e.g., *colour film*, not *color film*).
-- Link to glossary entries the first time a word is mentioned but not repeatedly throughout an article.
-- Illustrations should be included in the List of Illustrations whenever included in an article. The List of Illustrations entry should include a paragraph of text to further explain the diagram, improving accessibility.
 - Use lists, bullet points, text formatting, and imagery where necessary to avoid dense blocks of text.
+- Links to glossary entries should not be repeated more than once in the same article.
+- All illustrations should be included in the List of Illustrations section, including a paragraph of text to further explain the diagram.
 
 ## Versioning
 

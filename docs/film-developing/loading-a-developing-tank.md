@@ -12,9 +12,9 @@ These require either a [changing bag](/film-developing/equipment-and-materials#c
 
 ### 35mm film
 
-1. Use a [leader retriever](/appendix/how-to-use-a-leader-retriever) to retrieve the leader from inside the canister. 
-2. Cut it at a **90° angle** to help the film enter the reel smoothly. 
-3. With **Paterson reels**, you may be able to start loading outside the changing bag. If the film has enough exposed length, you can feed it onto the reel until it reaches the **ball bearings**, which prevent slipping. 
+- Use a [leader retriever](/appendix/how-to-use-a-leader-retriever) to retrieve the leader from inside the canister. 
+- Cut it at a **90° angle** to help the film enter the reel smoothly. 
+- With **Paterson reels**, you may be able to start loading outside the changing bag. If the film has enough exposed length, you can feed it onto the reel until it reaches the **ball bearings**, which prevent slipping. 
 
 ### 120 film
 
@@ -23,11 +23,31 @@ These require either a [changing bag](/film-developing/equipment-and-materials#c
 
 ## Loading the tank
 
+To load your film safely into the developing tank it is advised you use a changing bag.
+
+**How to use a changing bag:** 
+
+1. Place the film and tank inside. 
+2. Zip the bag shut. 
+3. Insert your hands through the sleeves. 
+4. Load the film onto the reel and into the tank. 
+
+::: warning ⚠ **Don't expose the film!** 
+Avoid wearing watches or devices that emit light inside the bag. 
+If you must remove your hands before the film is safely loaded, be careful not to allow light in through the sleeve holes.
+:::
+
 ### Plastic reels
 
 - Load the film from the **outside** by moving the reel sides back and forth. 
 - **Avoid buckling or bending** the film. 
-- If the film comes free from the track, **rewind and start again**. 
+- If the film comes free from the track, **rewind the film and start again**. 
+
+::: tip 
+With **Paterson reels**, you may be able to start loading outside the changing bag. 
+If the film has enough exposed length, feed it onto the reel until it reaches the **ball bearings**, which prevent the film from slipping.
+Carefully place the film in your changing bag and use the back-and-forth motion of the patterson reel to advance the film along the reel. 
+:::
 
 ### Metal reels
 
