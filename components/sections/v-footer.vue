@@ -1,23 +1,23 @@
 <template>
-	<footer class="bg-[var(--vp-c-bg-alt)] ">
-		<div class="mx-auto max-w-7xl px-6 pb-8 pt-10 sm:pt-18 lg:px-8 lg:pt-24">
+	<footer class="bg-[var(--vp-c-bg)] dark:bg-[var(--vp-c-bg-alt)]">
+		<div class="mx-auto max-w-7xl px-6 pb-8 pt-10 lg:px-8">
 			<div class="xl:grid xl:grid-cols-4 xl:gap-2 ">
-				<div class="space-y-8">
+				<div class="space-y-8 mt-8">
 					<img
 						src="/logo.png"
 						alt="Negative development logo"
-						class="h-12 my-8"
+						class="h-12 block"
 					/>
 					<a
 						href="https://www.negativedevelopment.co.uk/"
-						class="text-xs"
+						class="text-xs flex"
 						target="_blank">
 						www.negativedevelopment.co.uk
 					</a>
 					<div class="flex gap-x-6">
 						<a
 							href="https://www.instagram.com/negative.dev/"
-							class="!text-white">
+							class="!text-black dark:!text-white">
 							<span class="sr-only">Instagram</span>
 							<svg class="size-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
 								<path fill-rule="evenodd"
@@ -27,7 +27,7 @@
 						</a>
 						<a
 							href="https://github.com/JClique/NegDevDocs"
-							class="!text-white">
+							class="!text-black dark:!text-white">
 							<span class="sr-only">GitHub</span>
 							<svg class="size-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
 								<path fill-rule="evenodd"
@@ -41,7 +41,7 @@
 					<div
 					    v-for="(group, index) in footerWithItems"
                         :key="index">
-						<h3 class="text-sm/6 font-semibold text-white">
+						<h3 class="text-sm/6 font-semibold">
 							{{ group.text }}
 						</h3>
 						<ul role="list" class="mt-6 space-y-4 !p-0">

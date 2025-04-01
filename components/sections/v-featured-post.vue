@@ -1,5 +1,17 @@
 <template>
 	<div class="bg-[var(--vp-c-bg-soft)] pb-24 sm:pb-32 pt-12 sm:pt-20">
+		<div
+			v-if="title || description"
+			class="mx-auto max-w-2xl lg:text-center px-6 lg:px-8">
+			<span class="block mt-2 text-pretty text-4xl font-semibold tracking-tight sm:text-5xl lg:text-balance">
+				{{ title }}
+			</span>
+			<span
+				class="block mt-6 text-pretty text-lg/8 text-[var(--vp-c-text-2)]"
+				v-html="description"
+			/>
+		</div>
+		<v-spacer class="mt-20 mb-20" />
 		<div class="mx-auto grid max-w-7xl grid-cols-1 gap-x-8 gap-y-12 px-6 sm:gap-y-16 lg:grid-cols-2 lg:px-8">
 			<article class="mx-auto w-full max-w-2xl lg:mx-0 lg:max-w-lg">
 				<span
@@ -80,9 +92,20 @@
 </template>
 
 <script>
+import VSpacer from './v-spacer.vue';
+
 export default {
 	name: 'VFeaturedPost',
+	components: {VSpacer},
 	props: {
+		title: {
+			type: String,
+			required: true,
+		},
+		description: {
+			type: String,
+			required: true,
+		},
 		articles: {
 			type: Array,
 			required: true,

@@ -1,15 +1,19 @@
 <template>
-	<div class="px-8 pb-24 sm:pb-32 pt-16 sm:pt-24 bg-[var(--vp-c-bg-alt)]">
-		<div class="mx-auto max-w-2xl lg:text-center">
+	<div
+		class="px-8 py-12 sm:py-20 bg-[var(--vp-c-bg)] dark:bg-[var(--vp-c-bg-alt)]">
+		<div
+			v-if="title"
+			class="mx-auto max-w-2xl lg:text-center">
 			<span class="block mt-2 text-pretty text-4xl font-semibold tracking-tight sm:text-5xl lg:text-balance">
 				{{ title }}
 			</span>
-			<span class="block mt-6 text-pretty text-lg/8 text-[var(--vp-c-text-2)]">
-				{{ description}}
-			</span>
+			<span
+				class="block mt-6 text-pretty text-lg/8 text-[var(--vp-c-text-2)]"
+				v-html="description"
+			/>
 		</div>
-		<v-spacer class="mt-20" />
-		<div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">
+		<v-spacer v-if="title" class="mt-20 mb-20" />
+		<div class="mx-auto max-w-2xl lg:max-w-4xl">
 			<dl class="grid max-w-xl grid-cols-1 gap-x-20 gap-y-10 lg:max-w-none lg:grid-cols-2 lg:gap-y-16">
 				<div class="relative pl-16">
 					<dt class="text-base/7 font-semibold">

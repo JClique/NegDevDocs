@@ -32,6 +32,8 @@ const footerGroups = theme.value.sidebar;
 </script>
 
 <v-featured-post
+    title="Clear, practical guidance for independent learning"
+    description="While our <a href='https://negativedevelopment.co.uk/' target='_blank'>physical darkroom</a> offers hands-on workshops, these docs are designed to stand on their own—giving you everything you need to start experimenting with film at home or in your own workspace."
     :articles="[
         {
             title: 'Getting started with analogue photography',
@@ -52,8 +54,6 @@ const footerGroups = theme.value.sidebar;
 />
 
 <v-cta-2x2-block
-    title="Clear, practical guidance for independent learning"
-    description="While our physical darkroom offers hands-on workshops, these docs are designed to stand on their own—giving you everything you need to start experimenting with film at home or in your own workspace."
     :blocks="[
         {
             title: 'Visual guides & images',
@@ -95,7 +95,6 @@ const footerGroups = theme.value.sidebar;
     "
 />
 
-<div class="pb-12 block bg-[var(--vp-c-bg-soft)]"/>
 
 <v-cta-block
     title="Black & white film developing times made easy"

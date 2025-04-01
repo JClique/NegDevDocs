@@ -29,16 +29,6 @@ While our physical darkroom offers hands-on workshops, these docs are designed t
 Easily search through all articles to find specific information. 
 Use key phrases or terms to quickly locate relevant content.
 
-### Interactive features in the docs 
-
-To enhance learning, some sections include interactive features to help you engage with the material more dynamically. 
-These tools provide immediate, practical feedback and help tailor information to your needs:
-
-- **Calculators** – Use interactive calculators for precise measurements like film development time, dilution ratios, and exposure compensation.
-- **Animations** – Learn through animations that explain processes like shutter speeds, aperture effects, and film loading.
-
-All interactive features include written descriptions to ensure the information is accessible to all users.
-
 ## Get involved
 
 We believe knowledge should be open and community-driven. 
