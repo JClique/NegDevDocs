@@ -18,9 +18,9 @@ The first step is to develop the film, turning the latent image into a visible n
 This is done by converting the exposed [silver halide crystals](/glossary#silver-halide-crystals) into metallic silver. 
 The metallic silver absorbs light and appears black, creating a negative of the light areas of the scene. 
 
-- **Light exposure & density** 
-  - Areas that received more light become denser with metallic silver. 
-  - Areas that received no light remain as silver halides, which will be removed later. 
+**Light exposure & density** 
+- Areas that received more light become denser with metallic silver. 
+- Areas that received no light remain as silver halides, which will be removed later. 
 
 ### Development time & temperature 
 
@@ -66,13 +66,13 @@ Our [black & white film developing time calculator](/appendix/black-and-white-fi
 
 Regular agitation ensures even development by moving fresh chemistry over the film surface. 
 
-- **Standard tank development:** 
-  - Invert the tank for **15 seconds every minute**. 
-  - No adjustment to development time is needed. 
+**Standard tank development:** 
+- Invert the tank for **15 seconds every minute**. 
+- No adjustment to development time is needed. 
 
-- **Rotary processors:** 
-  - Agitation speeds up development and can lead to increased contrast if excessive.
-  - When using **continuous rotary processors**, reduce development time by **15%**. 
+**Rotary processors:** 
+- Agitation speeds up development and can lead to increased contrast if excessive.
+- When using **continuous rotary processors**, reduce development time by **15%**. 
 
 ## 2. Stop
 
@@ -101,5 +101,3 @@ This appears as a **cloudy fog** in the clear areas of the negative.
 - Agitation: **Continuous or 10 seconds every 30 seconds** 
 
 If fogging appears after fixing, the negatives can be re-fixed to clear the remaining halides.
-
-[//]: # (📌 *Diagram suggestion:* A comparison of a properly fixed negative vs. an under-fixed negative &#40;showing cloudy areas&#41;.  )

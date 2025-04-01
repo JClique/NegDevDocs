@@ -19,17 +19,17 @@ The first step is to develop the film, turning the latent image into a visible n
 As with black & white film, this is done by converting the exposed [silver halide crystals](/glossary#silver-halide-crystals) into metallic silver. 
 The metallic silver absorbs light and appears black, creating a negative of the light areas of the scene. 
 
-- **Light exposure & density** 
-  - Areas that received more light become denser with metallic silver. 
-  - Areas that received no light remain as silver halides, which will be removed later. 
+**Light exposure & density** 
+- Areas that received more light become denser with metallic silver. 
+- Areas that received no light remain as silver halides, which will be removed later. 
 
 Unlike black & white film, C-41 developer also contains dye couplers which forms a colour dye around each of the metallic silver grains.
 The colour of this dye is the opposite of the colour of light that exposed the film. 
 
-- **Colour negatives**
-  - Areas that received red light form cyan dye
-  - Areas that received green light form magenta dye
-  - Areas that received blue light form yellow dye
+**Colour negatives**
+- Areas that received red light form cyan dye
+- Areas that received green light form magenta dye
+- Areas that received blue light form yellow dye
 
 Through the combination of cyan, magenta and yellow dyes the colours and contrast of the image are formed. 
 
@@ -100,5 +100,3 @@ The stabiliser prevents colour shifts and fading over time. It contains chemical
 - Standard time: **1 minute** 
 - Temperature: Not as critical, but keeping it close to **38°C** is ideal 
 - Agitation: **Continuous or 10 seconds every 30 seconds**
-
-[//]: # (📌 *Diagram suggestion:* A visual timeline showing each step and its duration.)
