@@ -37,7 +37,7 @@ const footerGroups = theme.value.sidebar;
     :articles="[
         {
             title: 'Getting started with analogue photography',
-            description: 'Photography is the art of capturing light. While digital photography has become the standard in recent decades, analogue photography remains a beloved medium for many. This guide covers the basics of analogue photography, including what film is and why many photographers still use it today. You’ll also learn about different types of film cameras, how they work, and what to check before using a vintage camera for the first time.',
+            description: 'Analogue photography involves using light-sensitive film to capture images—a method that predates digital technology but remains deeply valued for its hands-on approach and distinctive results. This guide covers the essential principles of working with film, explains how different types of cameras function, and offers guidance on selecting and preparing a vintage camera for use. It\'s designed to help you build a strong foundation in the medium, with practical advice to support your first steps into film photography.',
             url: '/analogue-photography/getting-started',
         },
         {
@@ -46,9 +46,9 @@ const footerGroups = theme.value.sidebar;
             url:  '/film-developing/getting-started',
         },
         {
-            title: 'Getting started with darkroom printing',
-            description: 'Lorem ipsum dolar solem. Lorem ipsum dolar solem. Lorem ipsum dolar solem. Lorem ipsum dolar solem. Lorem ipsum dolar solem. ',
-            url: '/introduction',
+            title: 'A beginner’s guide to darkroom printing',
+            description: 'Darkroom printing is the process of turning your developed film into a final photographic print. This guide explains the basic steps involved, from setting up your workspace to making your first print, and offers tips to help you improve with practice.',
+            url:  '/darkroom-printing/getting-started',
         },
     ]"
 />

@@ -20,7 +20,7 @@ These components are stored in the repository and can be referenced or extended 
 ### General structure
 
 The docs consist of an Introduction, three sections; Analogue photography, Film developing, Darkroom printing. 
-Followed by a List of Illustrations page, an Appending and a Glossary.
+Followed by a List of Illustrations page, an Appendix and a Glossary.
 
 ### Tone of voice 
 - Be concise — keep sentences clear and to the point. Avoid unnecessary complexity.

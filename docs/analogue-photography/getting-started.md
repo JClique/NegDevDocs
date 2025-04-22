@@ -80,7 +80,7 @@ Physical prints from a darkroom or lab also have a unique, handcrafted feel, mak
 Shooting film opens the door to creative techniques that are difficult or impossible to achieve digitally: 
 
 - **Double exposures:** Exposing the same piece of film twice to blend images together. While achievable on some digital cameras, the unexpected results of film double exposures is hard to replicate.
-- **Alternative processing:** Cross-processing slide film in C-41 chemicals for surreal colours, or developing black and white film in coffee (caffenol) for an experimental touch.
+- **Alternative processing:** Cross-processing slide film in C-41 chemicals for surreal colours, or developing black & white film in coffee (caffenol) for an experimental touch.
 - **Film souping:** Intentionally damaging the film chemically before or during development to create unpredictable and interesting results.
 
 These techniques make film photography a playground for experimentation.

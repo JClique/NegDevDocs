@@ -14,6 +14,20 @@ On the left, f1.4 which is the largest opening allowing the most amount of light
 Next is f2.8, which has a slightly smaller opening, followed by f5.6, which is even smaller.
 Lastly it shows f16 which has the smallest opening of the four, and produces the largest depth of field. 
 
+### Darkroom printing 
+![Darkroom printing workflow](/diagrams/b-and-w-darkroom-printing-workflow.svg){.svg-img}
+
+Diagram of the black and white darkroom printing workflow. 
+The process begins with a test strip made to display multiple exposures.
+Based on the test strip, a test print of a single exposure is made.
+The test print is evaluated to confirm the highlights are pure white.
+If not, increased exposure is needed. 
+Where pure white is found, asses the blacks and ensure they are as dark as required. 
+To increase blacks in a darkroom print, increase the contrast grade used during printing. 
+Special care should be made to ensure the density of the print is consistent with the previous test. 
+Increase to exposure time should be used to match the density of the previous test print.
+When both the whites and the blacks of a test print are acceptable, a full print can be made.
+
 ### Film format diagram
 ![Film format diagram](./public/diagrams/film-formats.svg){.svg-img}
 

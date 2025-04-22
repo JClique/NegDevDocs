@@ -27,7 +27,7 @@
 					<div class="flex">
 						<a
 							:href="articles[0].url"
-							class="text-sm/6 font-semibold text-indigo-600"
+							class="lg:text-sm/6 font-semibold text-indigo-600"
 							aria-describedby="featured-post">
 							Continue reading
 							<span aria-hidden="true">&rarr;</span>
@@ -42,17 +42,17 @@
 						<div class="group relative max-w-xl">
 							<span
 								id="featured-post-1"
-							    class="block my-4 text-pretty text-2xl font-semibold tracking-tight sm:text-3xl">
+							    class="block my-4 text-pretty text-4xl font-semibold tracking-tight sm:text-3xl">
 								{{ articles[1].title }}
 							</span>
-							<span class="mt-4 text-sm/6">
+							<span class="mt-4 leading-8 lg:text-sm/6">
 								{{ articles[1].description }}
 							</span>
 							<span
-								class="block mt-4 text-sm/6 font-semibold text-indigo-600">
+								class="block mt-4 lg:text-sm/6 font-semibold text-indigo-600">
 								<a
 									:href="articles[1].url"
-									class="text-sm/6 font-semibold text-indigo-600"
+									class="lg:text-sm/6 font-semibold text-indigo-600"
 									aria-describedby="featured-post-1">
 									<span class="absolute inset-0"></span>
 									Continue reading
@@ -66,17 +66,17 @@
 						<div class="group relative max-w-xl">
 							<span
 								id="featured-post-1"
-							    class="block my-4 text-pretty text-2xl font-semibold tracking-tight sm:text-3xl">
+							    class="block my-4 text-pretty text-4xl font-semibold tracking-tight sm:text-3xl">
 								{{ articles[2].title }}
 							</span>
-							<span class="mt-4 text-sm/6">
+							<span class="mt-4 leading-8 lg:text-sm/6">
 								{{ articles[2].description }}
 							</span>
 							<span
-								class="block mt-4 text-sm/6 font-semibold text-indigo-600">
+								class="block mt-4 lg:text-sm/6 font-semibold text-indigo-600">
 								<a
 									:href="articles[2].url"
-									class="text-sm/6 font-semibold text-indigo-600"
+									class="lg:text-sm/6 font-semibold text-indigo-600"
 									aria-describedby="featured-post-1">
 									<span class="absolute inset-0"></span>
 									Continue reading

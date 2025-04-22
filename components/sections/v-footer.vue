@@ -1,7 +1,7 @@
 <template>
 	<footer class="bg-[var(--vp-c-bg)] dark:bg-[var(--vp-c-bg-alt)]">
 		<div class="mx-auto max-w-7xl px-6 pb-8 pt-10 lg:px-8">
-			<div class="xl:grid xl:grid-cols-4 xl:gap-2 ">
+			<div class="md:grid md:grid-cols-2 lg:grid-cols-4 md:gap-2">
 				<div class="space-y-8 mt-8">
 					<img
 						src="/logo.png"
@@ -37,22 +37,21 @@
 						</a>
 					</div>
 				</div>
-				<div class="mt-16 grid grid-cols-1 sm:grid-cols-3 gap-10 xl:col-span-3 xl:mt-0">
-					<div
-					    v-for="(group, index) in footerWithItems"
-                        :key="index">
-						<h3 class="text-sm/6 font-semibold">
-							{{ group.text }}
-						</h3>
-						<ul role="list" class="mt-6 space-y-4 !p-0">
-							<li
-					            v-for="item in group.items"
-					            :key="item.link"
-								class="list-none !mt-4 text-xs">
-								<a :href="item.link" class="text-sm leading-none">{{ item.text }}</a>
-							</li>
-						</ul>
-					</div>
+				<div
+				    v-for="(group, index) in footerWithItems"
+                    :key="index"
+					class="mt-16 md:mt-0">
+					<h3 class="text-sm/6 font-semibold">
+						{{ group.text }}
+					</h3>
+					<ul role="list" class="mt-6 space-y-4 !p-0">
+						<li
+				            v-for="item in group.items"
+				            :key="item.link"
+							class="list-none !mt-4 text-xs">
+							<a :href="item.link" class="text-sm leading-none">{{ item.text }}</a>
+						</li>
+					</ul>
 				</div>
 			</div>
 

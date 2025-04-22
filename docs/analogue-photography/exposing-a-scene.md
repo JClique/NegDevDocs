@@ -87,17 +87,19 @@ Aperture controls the **size of the lens opening**, determining how much light r
 It is measured in **f-stops** (e.g., f/2.8, f/8, f/16). 
 A lower f-number means a wider aperture, while a higher f-number means a smaller aperture.
 
-- **Wide aperture (e.g., f/1.8, f/2.8)**: Allows more light in, creating a shallow depth of field (blurry background).
-- **Narrow aperture (e.g., f/11, f/16)**: Allows less light in, increasing depth of field (sharp background).
+Inside the lens, the **diaphragm** expands or contracts to adjust the size of the opening. 
+A wide aperture creates a shallow [depth of field](/glossary#depth-of-field), isolating the subject, while a small aperture increases depth of field, keeping more of the scene in focus.
 
 ![A diagram showing the openings of an aperture within a lens](/diagrams/aperture-opening-diagram.svg){.svg-img}
 
 [Aperture-opening diagram](/list-of-illustrations#aperture-opening-diagram) {.caption}
 
-Inside the lens, the **diaphragm** expands or contracts to adjust the size of the opening. 
-A wide aperture creates a shallow [depth of field](/glossary#depth-of-field), isolating the subject, while a small aperture increases depth of field, keeping more of the scene in focus.
+- **Wide aperture (e.g., f/1.8, f/2.8)**: Allows more light in, creating a shallow depth of field (blurry background).
+- **Narrow aperture (e.g., f/11, f/16)**: Allows less light in, increasing depth of field (sharp background).
 
-**Tip:** While stopping down increases depth of field, excessively small apertures (e.g., f/22, f/32) can cause [diffraction](/glossary#diffraction), reducing overall image sharpness.
+::: tip 
+While stopping down increases depth of field, excessively small apertures (e.g., f/22, f/32) can cause [diffraction](/glossary#diffraction), reducing overall image sharpness.
+:::
 
 #### How to set aperture on your camera
 
@@ -107,7 +109,7 @@ Aperture is usually controlled by the lens or an electronic setting.
   - Rotate the aperture ring on the lens to select the desired f-stop.
 
 - **Electronic cameras (some SLRs & point & shoots)** 
-  - If the camera has a mode dial, select **Aperture Priority (A or Av)** and adjust aperture manually. 
+  - If the camera has a mode dial, select **Aperture Priority (A or Av)** and adjust aperture manually and have the camera set the shutter speed. 
   - In **Manual (M) mode**, both aperture and shutter speed must be set manually.
 
 - **Fixed-lens cameras (point & shoots & some rangefinders)** 

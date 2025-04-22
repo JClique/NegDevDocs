@@ -61,7 +61,6 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Analogue Photography',
-        collapsed: true,
         items: [
           { text: 'Getting started', link: '/analogue-photography/getting-started' },
           { text: 'Choosing and loading film', link: '/analogue-photography/choosing-and-loading-film' },
@@ -72,14 +71,13 @@ export default defineConfig({
       },
       {
         text: 'Film Developing',
-        collapsed: true,
         items: [
           { text: 'Getting started', link: '/film-developing/getting-started' },
           { text: 'Equipment & materials', link: '/film-developing/equipment-and-materials' },
           { text: 'Loading a developing tank', link: '/film-developing/loading-a-developing-tank' },
           {
             text: 'Developing film',
-            collapsed: true,
+            link: '/film-developing/developing-film',
             items: [
               { text: 'Black & white process', link: '/film-developing/black-and-white-process' },
               { text: 'C41 process', link: '/film-developing/c41-process' },
@@ -91,9 +89,19 @@ export default defineConfig({
       },
       {
         text: 'Darkroom Printing',
-        collapsed: true,
         items: [
-          { text: 'Coming soon'}
+          { text: 'Getting started', link: '/darkroom-printing/getting-started' },
+          { text: 'Equipment & materials', link: '/darkroom-printing/equipment-and-materials' },
+          { text: 'Preparing an enlarger', link: '/darkroom-printing/preparing-an-enlarger' },
+          {
+            text: 'Making prints',
+            link: '/darkroom-printing/makings-prints',
+            items: [
+              { text: 'Black & white process', link: '/darkroom-printing/black-and-white-process' },
+              { text: 'RA4 process', link: '/darkroom-printing/ra4-process' },
+            ]
+          },
+          { text: 'Washing & drying prints', link: '/darkroom-printing/washing-and-drying-prints' },
         ]
       },
       {

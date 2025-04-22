@@ -4,8 +4,8 @@ prev: false
 
 # Understanding film developing
 
-Film developing is an essential step in the analogue photography process. 
-Whether you're processing film at home or using a lab, our guide to understanding the basics will help you achieve the best results. 
+Film developing is an essential step in analogue photography. 
+Whether you process film at home or in a lab, our guide to understanding the basics will help you achieve the best results.
 
 ## What is film developing?
 
@@ -20,7 +20,7 @@ The exact steps depend on the type of film being developed:
 
 Each process is covered in depth within this documentation.  
 
-### Why does film need to be developed?
+## Why does film need to be developed?
 
 When light exposes film, it creates a **latent image**—an invisible imprint of the scene. 
 Developing film makes this image visible by converting the exposed [silver halides](/glossary#silver-halide-crystals) into metallic silver (for black & white) or forming dye clouds (for colour films). 
