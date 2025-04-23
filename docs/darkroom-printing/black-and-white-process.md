@@ -66,7 +66,7 @@ To determine the right exposure, we use **test strips**—small sections of pape
 After developing the strip, you can compare each section to see which exposure gives the best result.
 
 ::: tip
-We use an [enlarger exposure scale](http://localhost:5173/darkroom-printing/equipment-and-materials#exposure-printing-scale) in place of traditional test strips in our community darkroom. 
+We use an [enlarger exposure scale](/darkroom-printing/equipment-and-materials#exposure-printing-scale) in place of traditional test strips in our community darkroom. 
 This helps reduce paper waste and helps keep test prints labelled and easy to understand.
 ::: 
 
