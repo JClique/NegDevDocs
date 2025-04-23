@@ -62,7 +62,7 @@ An exposure printing scale helps you find the right exposure time for your darkr
 It works by placing a step wedge—a strip with areas of varying darkness—under the enlarger light and exposing it onto photo paper. 
 The resulting print shows how different exposure times affect the paper. 
 By examining this print, you can quickly estimate the best exposure time for your negative.
-This tool us useful for getting accurate prints quickly, reducing paper waste during test prints and keeping your results consistent across multiple sessions.
+This tool is useful for getting accurate prints quickly, reducing paper waste during test prints and keeping your results consistent across multiple sessions.
 
 ## Luxury tools 
 

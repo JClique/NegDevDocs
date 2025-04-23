@@ -39,7 +39,6 @@ The developing process typically involves three chemical stages, each in its own
 ## Determine exposure settings
 
 There are two main ways to control how much light reaches the paper: aperture and exposure time.
-
 The aperture is the opening inside the enlarger’s lens, and exposure time is how long the light is on. These two settings work together to determine the final print’s exposure. 
 
 ::: warning
@@ -71,16 +70,50 @@ We use an [enlarger exposure scale](http://localhost:5173/darkroom-printing/equi
 This helps reduce paper waste and helps keep test prints labelled and easy to understand.
 ::: 
 
+## Contrast filters
+
+Contrast filters allow you to control the tonal range of your black and white prints. 
+The contrast of a print affects how deep the blacks are, how bright the whites appear, and how much separation exists between different tones in your image.
+
+You can control contrast either by selecting a specific type of photographic paper (graded) or by using contrast filters with multigrade paper.
+
+### Graded paper
+
+Graded paper has a fixed contrast level, and each grade corresponds to a different level of contrast:
+
+- **Grade 0–1**: Low contrast – useful for taming very contrasty negatives.
+- **Grade 2**: Medium contrast – considered a standard starting point.
+- **Grade 3–5**: High contrast – helps boost flat or underexposed negatives.
+
+The paper’s grade is usually printed on the box or individual packaging, often as a number. 
+When using graded paper, choose a grade based on your negative’s density and the look you want to achieve and disable or remove any contrast filters in your enlarger.
+
+### Multigrade paper
+
+Multigrade paper is more flexible. It responds to coloured contrast filters placed in the light path of your enlarger. These filters adjust the paper’s contrast without needing to switch to a different type of paper.
+
+- **Lower-numbered filters (00–1)**: Produce softer, low-contrast prints.
+- **Middle filters (2–3)**: Provide a standard or balanced contrast.
+- **Higher-numbered filters (4–5)**: Produce stronger, high-contrast prints.
+
+Contrast filters are often part of a numbered set from 00 (softest) to 5 (hardest). 
+Each filter alters the way different wavelengths of light reach the paper, effectively changing how the paper responds to the image being projected.
+
+You’ll often find multigrade paper labelled with terms like “variable contrast”, “VC” or "MG" on the box. 
+It's the most commonly used paper in modern darkrooms because of its adaptability—ideal for both test prints and final prints across a range of negatives.
 
 ## Printing workflow
 
 The diagram below provides a visual overview of the darkroom printing process for black and white photographs. 
-It maps out the key stages involved, from selecting a negative to producing a final print, and highlights how each step connects to the next. 
 This workflow is designed to help you understand the sequence of actions, and the role of creative decision-making along the way.
 
 ![Darkroom printing workflow](/diagrams/b-and-w-darkroom-printing-workflow.svg){.svg-img}
 
+[Darkroom printing workflow digram](/list-of-illustrations#darkroom-printing-workflow) {.caption}
+
+::: info
 Notes such as “Increase exposure” or “Decrease contrast fade” are intended as helpful prompts rather than precise instructions—they should be approached with your best judgement based on the image you’re printing and the results you’re seeing.
+:::
 
 Once you’ve made a final print you’re happy with, decide how many copies to make. It’s easier to make extra prints now, while your enlarger and settings are dialled in, than trying to recreate the same print later.
 

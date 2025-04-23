@@ -14,7 +14,7 @@ On the left, f1.4 which is the largest opening allowing the most amount of light
 Next is f2.8, which has a slightly smaller opening, followed by f5.6, which is even smaller.
 Lastly it shows f16 which has the smallest opening of the four, and produces the largest depth of field. 
 
-### Darkroom printing 
+### Darkroom printing workflow
 ![Darkroom printing workflow](/diagrams/b-and-w-darkroom-printing-workflow.svg){.svg-img}
 
 Diagram of the black and white darkroom printing workflow. 

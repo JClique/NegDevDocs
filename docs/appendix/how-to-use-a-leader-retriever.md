@@ -13,16 +13,16 @@ This is useful when a film is accidentally rewound too far or when preparing for
 The leader retriever consists of three thin plastic blades, two of which are movable. 
 Before starting ensure the blades are fully retracted, and
 
-1. **Insert the blades**
+1. **Insert the blades**  
 Insert all three plastic blades gently into the thin opening along the side of the film canister. 
 
-2. **Extend the first blade** 
+2. **Extend the first blade**  
 Moving the first tab closest to the film canister, usually labelled 'A', extend the first plastic blade fully into the film canister.
 
 3. **Engage the film**  
 Rotate the film spool slowly in the direction of winding (clockwise when viewed from the top). As the film moves, you may hear or feel a slight "click" as it slips between the two blades.
 
-4. **Extend the second blade**
+4. **Extend the second blade**  
 Moving the second tab furthest away from the film canister, usually labelled 'B', extend the second plastic blade fully into the film cannister.
 
 5. **Pull out the leader**  
