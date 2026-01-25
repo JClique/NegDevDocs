@@ -58,7 +58,7 @@ const footerGroups = theme.value.sidebar;
         {
             title: 'Visual guides & images',
             description: 'Revisit key diagrams and images in our list of illustrations.',
-            url: '/list-of-illustrations',
+            url: '/illustrations',
         },
         {
             title: 'Searching',

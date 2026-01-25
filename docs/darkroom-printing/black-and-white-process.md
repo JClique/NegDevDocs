@@ -109,7 +109,7 @@ This workflow is designed to help you understand the sequence of actions, and th
 
 ![Darkroom printing workflow](/diagrams/b-and-w-darkroom-printing-workflow.svg){.svg-img}
 
-[Darkroom printing workflow digram](/list-of-illustrations#darkroom-printing-workflow) {.caption}
+[Darkroom printing workflow digram](/illustrations#darkroom-printing-workflow) {.caption}
 
 ::: info
 Notes such as “Increase exposure” or “Decrease contrast fade” are intended as helpful prompts rather than precise instructions—they should be approached with your best judgement based on the image you’re printing and the results you’re seeing.

@@ -92,7 +92,7 @@ A wide aperture creates a shallow [depth of field](/glossary#depth-of-field), is
 
 ![A diagram showing the openings of an aperture within a lens](/diagrams/aperture-opening-diagram.svg){.svg-img}
 
-[Aperture-opening diagram](/list-of-illustrations#aperture-opening-diagram) {.caption}
+[Aperture-opening diagram](/illustrations#aperture-opening-diagram) {.caption}
 
 - **Wide aperture (e.g., f/1.8, f/2.8)**: Allows more light in, creating a shallow depth of field (blurry background).
 - **Narrow aperture (e.g., f/11, f/16)**: Allows less light in, increasing depth of field (sharp background).

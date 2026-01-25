@@ -105,8 +105,12 @@ export default defineConfig({
         ]
       },
       {
+        text: 'Documents',
+        link: '/documents'
+      },
+      {
         text: 'List of illustrations',
-        link: '/list-of-illustrations'
+        link: '/illustrations'
       },
       {
         text: 'Appendix',

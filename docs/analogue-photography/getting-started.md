@@ -27,7 +27,7 @@ The most common formats still in production today include:
 
 ![Film format diagram](/diagrams/film-formats.svg){.svg-img}
 
-[Film format diagram](/list-of-illustrations#film-format-diagram) {.caption}
+[Film format diagram](/illustrations#film-format-diagram) {.caption}
 
 - **Large Format (4x5, 8x10, etc.)** – Used by photographers who want the ultimate in image quality. Large format film is sheet-based, requiring one piece of film per exposure. Cameras for this format are often used on tripods and offer complete control over focus and perspective. 
 - **Instant Film** – Available in various formats such as Polaroid and Instax, instant film develops shortly after exposure, making it perfect for fun, spontaneous photography. 

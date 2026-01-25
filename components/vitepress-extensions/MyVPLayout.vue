@@ -1,6 +1,7 @@
 <script setup>
 import DefaultTheme from 'vitepress/theme';
 import {VPBadge} from 'vitepress/theme';
+import VPPrintHeader from './VPPrintHeader.vue';
 const { Layout } = DefaultTheme
 import { onMounted } from "vue";
 import { useRouter } from "vitepress";
@@ -30,6 +31,10 @@ router.onAfterRouteChanged = setupMediumZoom;
 				style="margin-left: -0.75rem;"
 				:text="`Version ${versionNumber}`"
 			/>
+		</template>
+
+		<template #doc-before>
+			<VPPrintHeader/>
 		</template>
 	</Layout>
 </template>

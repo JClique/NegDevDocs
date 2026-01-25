@@ -20,7 +20,7 @@ While our physical darkroom offers hands-on workshops, these docs are designed t
 
 ### Additional resources
 
-- **Visual guides & images** - Revisit key diagrams and images in our [list of illustrations](/list-of-illustrations).
+- **Visual guides & images** - Revisit key diagrams and images in our [list of illustrations](/illustrations).
 - **Further reading** - The [appendix](/appendix) offers in-depth coverage of related topics.
 - **Glossary** - Our [glossary](/glossary) explains key terms and phrases to help you understand the language of analogue photography.
 
