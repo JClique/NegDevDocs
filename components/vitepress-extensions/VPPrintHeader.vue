@@ -10,7 +10,7 @@
 			<div class="flex flex-col text-right font-regular">
 				<span class="text-lg font-bold">Negative Development Documentation</span>
 				<span class="text-sm">Read latest version:</span>
-				<span class="text-xs">{{ fullUrl }}</span>
+				<span class="text-[0.5rem]">{{ fullUrl }}</span>
 			</div>
 
 			<img
