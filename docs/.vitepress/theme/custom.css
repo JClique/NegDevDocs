@@ -171,7 +171,16 @@ select:disabled {
     display: none !important;
 }
 
+@page {
+    margin: 0;
+}
+
 @media print {
+    * {
+        font-size: 0.8rem;
+        line-height: 20px !important;
+    }
+
     .VPNavBar, .VPFooter, .VPLocalNav, .VPDocFooter, .VPSidebar, .VPLocalNav, .VPNav {
         display: none;
     }
