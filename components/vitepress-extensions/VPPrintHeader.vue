@@ -40,6 +40,10 @@ const fullUrl = computed(() => {
 		return new URL(path, origin + base).toString();
 	}
 	catch (e) {
+		console.error(base);
+		console.error(origin);
+		console.error(path);
+
 		console.error(e);
 	}
 })
