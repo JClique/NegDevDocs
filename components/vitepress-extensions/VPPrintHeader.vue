@@ -30,7 +30,7 @@ const { site, page } = useData()
 
 const fullUrl = computed(() => {
 	const base = site.value.base || '/'
-	const origin = site.value.origin
+	const origin = site.value.origin || 'https://docs.negativedevelopment.co.uk'
 
 	const path = page.value.relativePath
 		.replace(/\.md$/, '')
