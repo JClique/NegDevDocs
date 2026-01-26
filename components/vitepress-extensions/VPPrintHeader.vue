@@ -29,13 +29,18 @@ import { computed } from 'vue'
 const { site, page } = useData()
 
 const fullUrl = computed(() => {
-  const base = site.value.base || '/'
-  const origin = site.value.origin || window.location.origin
+	const base = site.value.base || '/'
+	const origin = site.value.origin
 
-  const path = page.value.relativePath
-    .replace(/\.md$/, '')
-    .replace(/index$/, '')
+	const path = page.value.relativePath
+		.replace(/\.md$/, '')
+		.replace(/index$/, '')
 
-  return new URL(path, origin + base).toString()
+	try {
+		return new URL(path, origin + base).toString();
+	}
+	catch (e) {
+		console.error(e);
+	}
 })
 </script>
