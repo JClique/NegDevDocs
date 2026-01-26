@@ -171,6 +171,8 @@ select:disabled {
     display: none !important;
 }
 
+
+/*PRINTING*/
 @page {
     margin: 0;
 }
@@ -196,5 +198,16 @@ select:disabled {
 
     .VPPrintHeader {
         display: flex !important;
+    }
+
+    a {
+        font-weight: 400 !important;
+        color: black !important;
+        text-decoration: none !important;
+        text-underline-offset: 0;
+    }
+
+    a::after {
+        display: none !important;
     }
 }
