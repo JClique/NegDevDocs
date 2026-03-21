@@ -49,11 +49,11 @@
 			buttonStyleClass() {
 				switch (this.buttonStyle) {
 					case "primary":
-						return "rounded bg-gray-100 enabled:bg-indigo-50 px-2 py-1 text-xs font-semibold text-gray-400 enabled:text-indigo-600 shadow-sm enabled:hover:bg-indigo-100";
+						return "rounded border border-indigo-500 bg-transparent px-2 py-1 text-xs font-semibold text-indigo-600 dark:text-indigo-400 shadow-sm hover:bg-indigo-500/10 dark:hover:bg-indigo-400/20 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500 disabled:opacity-50 disabled:cursor-not-allowed";
 					case "main":
-						return "rounded bg-gray-100 enabled:bg-indigo-500 px-2 py-1 text-xs font-semibold text-gray-400 enabled:text-white shadow-sm enabled:hover:bg-indigo-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500";
+						return "rounded bg-indigo-600 dark:bg-indigo-500 px-2 py-1 text-xs font-semibold text-white shadow-sm hover:bg-indigo-700 dark:hover:bg-indigo-600 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500 disabled:opacity-50 disabled:cursor-not-allowed";
 					case "secondary":
-						return "rounded bg-gray-100 enabled:bg-white border border-gray-100 enabled:border-indigo-500 px-2 py-1 text-xs font-semibold text-gray-400 enabled:text-indigo-600 shadow-sm enabled:hover:bg-white/20";
+						return "rounded border border-indigo-500/50 dark:border-indigo-400/50 bg-transparent px-2 py-1 text-xs font-semibold text-indigo-600 dark:text-indigo-400 shadow-sm hover:border-indigo-500 hover:bg-indigo-500/10 dark:hover:bg-indigo-400/20 disabled:opacity-50 disabled:cursor-not-allowed";
 				}
 			},
 		},
