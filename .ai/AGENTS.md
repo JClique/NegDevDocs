@@ -11,7 +11,7 @@ This is a documentation site for **Negative Development**, a community darkroom 
 
 ## Git Workflow
 
-- Work is done on the `development` branch
+- All changes are made on the `development` branch (unless explicitly specified otherwise)
 - Commit messages should be concise and descriptive
 - Commits are made after completing features/tasks, not after every single change
 
