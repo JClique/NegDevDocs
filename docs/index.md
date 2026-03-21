@@ -3,17 +3,16 @@
 layout: home
 
 hero:
-  name: Negative Development Docs
-  text: "Modern documentation for analogue photography, \nfilm developing and \ndarkroom printing processes."
-  tagline: Open sourced. Community supported. 
-  actions:
-    - theme: brand
-      text: Get started
-      link: /introduction
-    - theme: alt
-      text: Contributing
-      link: /contributing
-
+    name: Negative Development Docs
+    text: "Modern documentation for analogue photography, \nfilm developing and \ndarkroom printing processes."
+    tagline: Open sourced. Community supported.
+    actions:
+        - theme: brand
+          text: Get started
+          link: /introduction
+        - theme: alt
+          text: Contributing
+          link: /contributing
 ---
 
 <script setup>
@@ -79,7 +78,7 @@ const footerGroups = theme.value.sidebar;
 
 <v-one-column-text
     title="Why this resource exists"
-    description="This documentation is made possible by the support for our <a href='https://www.negativedevelopment.co.uk/' target='_blank'>physical darkroom</a>, a community space hosted in Pollard Yard, Manchester.
+    description="This documentation is made possible by the support for our <a href='https://www.negativedevelopment.co.uk/' target='_blank'>physical darkroom</a>, a community space hosted at SEESAW, Manchester.
         The workshop sales and direct support from our community fund not only the physical space but also the hosting and ongoing development of this resource. 
         Our goal is to ensure that the knowledge and techniques of analogue photography remain accessible to everyone, regardless of location.
     "
@@ -94,7 +93,6 @@ const footerGroups = theme.value.sidebar;
         You can find more details on how to contribute in the <a href='/contributing'>contribution guide</a> section of this documentation.
     "
 />
-
 
 <v-cta-block
     title="Black & white film developing times made easy"
