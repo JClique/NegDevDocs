@@ -33,6 +33,10 @@ This is a documentation site for **Negative Development**, a community darkroom 
 - `/components/` - Vue components used in the site
 - `/components/enumerables/` - JSON data arrays (film stocks, developers, etc.)
 
+### Reading Order
+
+The sidebar menu order in `.vitepress/config.mts` may differ from alphabetical file order. When asked to edit the "next" article, always check the sidebar configuration to find the correct file.
+
 ### Key References
 
 - Community darkroom: **SEESAW, Manchester**

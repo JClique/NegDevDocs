@@ -1,85 +1,70 @@
-# Completing your first roll of film 
+# Completing your first roll of film
 
-Reaching the end of your first roll of film is an exciting milestone. 
-Whether you've carefully composed each shot or taken a more spontaneous approach, the next steps ensure your film is safely handled and ready for development. 
-This guide will walk you through securing the roll, storing it correctly, and preparing for processing. 
+Once you've finished shooting, the next steps keep your film safe until development. This guide covers rewinding, storage, and what to expect when you get your negatives back.
 
-## Securing the film 
+## Rewinding 35mm film
 
-Once you've exposed the final frame, you need to secure the film before development. 
-The process depends on the camera and film format you’re using. 
+Most 35mm cameras require manual rewinding before removal. Some cameras count frames up from zero, while others count down and rewind as they expose.
 
-### 35mm: rewinding and storage 
-
-Most 35mm cameras require you to rewind the film before removing it. 
-While many cameras count frames upwards from zero, some preload the film and count down instead, rewinding as they expose frames. 
-
-::: warning ⚠ Waring
-Although careful loading may allow an extra frame or two, forcing the film to advance too far risks breaking the film or the camera itself. 
+::: warning ⚠ **Don't force the film**
+Pushing film advancement too far risks breaking the film or damaging the camera. An extra frame or two isn't worth the risk.
 :::
 
-#### Manual cameras (SLRs and rangefinders)
+### Manual cameras
 
-1. Press the rewind release button (usually on the bottom of the camera). 
-2. Flip out the rewind crank and turn it in the direction indicated by the arrow. 
-3. Continue turning until you feel resistance, then keep rewinding until the tension releases—this means the film has disengaged from the take-up spool. 
-4. Keep rewinding until the leader is fully pulled into the cassette. 
-5. Open the camera and remove the film, keeping it in its canister until development. 
+1. Press the rewind release button (usually on the camera's bottom)
+2. Flip out the rewind crank and turn in the direction of the arrow
+3. Keep turning until you feel resistance, then continue until the tension releases (the film has disengaged from the take-up spool)
+4. Continue until the leader is fully inside the cassette
+5. Open the camera and remove the film—keep it in its canister until development
 
-#### Automatic cameras (point-and-shoot and modern SLRs)
+### Automatic cameras
 
-Many electronic cameras rewind the film automatically when the last frame is exposed. 
-Some require you to press a rewind button, while others do this as soon as the film advances past the final frame. 
+Many electronic cameras rewind automatically when the last frame is exposed. Some need a rewind button pressed instead.
 
-Always wait for the process to complete before opening the camera. 
+Always wait for rewinding to finish before opening the camera.
 
-### 120 film: securing and storage 
+## Securing 120 film
 
-Unlike 35mm film, 120 film does not need to be rewound. 
-Instead, as you advance through the roll, the film winds onto the take-up spool. 
-After the final exposure, continue advancing until the backing paper is fully wrapped around the take-up spool. 
+Unlike 35mm, 120 film doesn't rewind. The film winds directly onto the take-up spool.
 
-Once removed from the camera, ensure the backing paper remains tightly wound around the spool to avoid light exposure to the film. 
-Secure the roll using the adhesive tab attached to the backing paper.
-
+After your final exposure, keep advancing until the backing paper fully wraps the spool. Once removed, keep the backing paper tightly wound to protect the film from light. Secure it with the adhesive tab.
 
 ::: tip
-Fold the end of your backing paper over before securing the adhesive tab.
-This provides a neat, secure edge that is easier to peel back when developing without damaging the backing paper or the film.
+Fold the backing paper end over before sealing. This creates a neat edge that's easier to peel back when developing.
 :::
 
-## Storing your film 
+## Storing your film
 
-Once your film has been rewound or secured, proper storage is important to maintain image quality before development. 
+- **Short-term (days)** – Room temperature in a dry place is fine
+- **Long-term (weeks or months)** – Cool, dry, and away from direct sunlight
+- **120 film** – Keep tightly sealed to prevent light exposure
+- **35mm** – Store in its plastic canister to keep out dust
 
-- **Short-term storage** – If you plan to develop your film within a few days, keeping it at room temperature in a dry place is usually fine. 
-- **Long-term storage** – If you won’t be developing your film for weeks or months, store it in a cool, dry place away from direct sunlight. 
-- **Protect the film** – Keep 120 film tightly sealed to prevent accidental exposure to light. For 35mm, store it in its plastic canister to prevent dust or dirt from entering the cartridge. 
+## Developing and scanning
 
-## Developing and scanning 
+When you're ready to process:
 
-Once you’re ready, the next step is development. 
-You have several options: 
+**Development options**
 
-- **Lab developing** – Many professional labs develop various film stocks and processes. This is the most convenient option, as labs can handle both developing and scanning. 
-- **Home developing** – With the right equipment and chemicals, you can develop film at home. Black-and-white film is the easiest to develop yourself, while colour film requires stricter temperature control. 
-- **Community darkrooms** – Some cities have shared darkroom spaces (like [ours](https://negativedevelopment.co.uk/)!) where you can develop film and scan negatives using professional equipment. 
+- **Lab** – Most convenient; labs handle developing and scanning
+- **Home** – Requires equipment and chemicals. Black & white is easiest; colour needs strict temperature control
+- **Community darkrooms** – Shared spaces like [ours](https://negativedevelopment.co.uk/) offer professional equipment
 
-After development, you'll need to scan the negatives to create digital files. 
-Scanning options include: 
+**Scanning options**
 
-- **Lab scanning** – Many film labs offer high-resolution scans during development. 
-- **Flatbed scanning** – A good option for home scanning, with models like the Epson V600 supporting both 35mm and 120 film. 
-- **dSLR scanning** – Using a digital camera, macro lens, and a light source, you can achieve high-quality scans with greater control over the final image. 
+- **Lab scanning** – High-resolution scans often included with development
+- **Flatbed scanners** – Good for home use. The Epson V600 handles 35mm and 120
+- **dSLR scanning** – Use a digital camera with a macro lens and light source for maximum control
 
-## Reviewing your results 
+## Reviewing your results
 
-Once your negatives are developed and scanned, it’s time to evaluate the results. 
-Well-exposed images should be clear, sharp, and properly dense. 
-If issues arise, they may indicate problems during exposure, film handling, or development. 
+Well-exposed images should be clear, sharp, and properly dense. If something looks wrong, check the troubleshooting below.
 
-- **No images, but film borders are visible** – The film was not loaded correctly, or the camera did not expose the film properly. 
-- **No images and no film borders** – A problem occurred during development, such as incorrect chemical use or an exhausted developer. 
-- **Incorrect exposure** – If your images are too light or too dark, revisit the [exposing a scene](/analogue-photography/exposing-a-scene) section. 
-- **Incorrect focus** – If your images are blurry when they shouldn’t be, refer to the [focusing on subjects](/analogue-photography/focusing-on-subjects) section. 
-- **Consistent issues** – If your negatives are consistently overexposed, underexposed, or out of focus despite correct technique, your camera may need servicing.
+| **Problem**                                   | **Likely cause**                                                                   |
+| --------------------------------------------- | ---------------------------------------------------------------------------------- |
+| No images, but borders visible                | Film wasn't loaded correctly or camera failed to fire                              |
+| No images and no borders                      | Development error (wrong chemicals or exhausted developer)                         |
+| Images too light or dark                      | Exposure issue—see [exposing a scene](/analogue-photography/exposing-a-scene)      |
+| Images blurry                                 | Focus issue—see [focusing on subjects](/analogue-photography/focusing-on-subjects) |
+| Consistent problems despite correct technique | Camera needs servicing                                                             |
