@@ -1,85 +1,71 @@
 # Choosing and loading film
 
-To start with analogue photography, you need to choose the right film and learn how to load it.
-This guide will help you pick the best film for your needs, understand available options, and learn how to load film into different types of cameras.
+This guide covers two essential skills: picking the right film and loading it into your camera.
 
-## Choosing a film 
+## Choosing a film
 
-The type of film you choose has a significant impact on the look and feel of your photographs. 
-Each type varies in levels of contrast, colour tones, and grain structure, and some are better suited to specific lighting conditions. 
+Film comes in two main types, each with a distinct look. Your choice depends on where you'll shoot, how you plan to develop, and the style of images you want.
 
-Before selecting a film, consider: 
-- Where and how you'll be shooting 
-- Whether you want to develop it yourself 
-- The final image style you're aiming for 
+### Black & white or colour
 
-This section will guide you in choosing between black & white or colour film, understanding film ISO, and selecting the best option for your needs.
+| **Film type**     | **Look**               | **Development**                  |
+| ----------------- | ---------------------- | -------------------------------- |
+| **Black & white** | Classic, high contrast | Easy to develop at home          |
+| **Colour (C41)**  | Vibrant, natural tones | Needs a lab or special chemicals |
 
-### Black & white or colour 
+**Home developing?** Start with black & white. It needs minimal equipment and a straightforward process.
 
-One of the first decisions is whether to shoot in black & white or colour.
-Both offer unique creative possibilities, and your choice will depend on your desired aesthetic and how you plan to develop the film. 
+**Using a lab?** Colour negative (C41) film is widely available, affordable, and forgiving with exposure mistakes.
 
-| **Film type**     | **Best for**                                      | **Development**                     |
-|-------------------|---------------------------------------------------|-------------------------------------|
-| **Black & white** | Classic, high contrast, easier to develop at home | Simple home processing              |
-| **Colour (C41)**  | Vibrant, natural tones                            | Requires a lab or special chemicals |
+### Understanding film ISO
 
-- If you want to **develop your own film**, black & white film is the best choice. It requires minimal equipment and has a straightforward development process. 
-- If you plan to **use a lab**, colour negative (C41) film is your best bet. It’s widely available, affordable to process, and generally more forgiving in exposure than slide film. 
+ISO measures how sensitive film is to light. You'll find it on the box as **100, 200, 400, 800**, or higher.
 
-### Understanding film ISO 
+- **ISO 100/200** – Bright daylight and outdoor shoots
+- **ISO 400** – Versatile choice for mixed indoor and outdoor light
+- **ISO 800+** – Low light, evenings, or indoor without flash
 
-ISO (or film speed / box speed) determines how sensitive the film is to light.
-Lower ISO provides finer grain and better detail in bright conditions, while higher ISO performs better in low light.
-
-When shopping for film, you’ll find the ISO rating on the box, usually displayed as **100, 200, 400, 800**, or higher. 
+Lower ISO means finer grain and more detail. Higher ISO handles dark conditions but adds visible grain.
 
 ![A box of 35mm Ilford Delta 100 film in the original box](/images/ilford-delta-100.webp)
 
-Here’s a quick guide to choosing the right ISO: 
-
-- **ISO 100/200** – Perfect for bright daylight and outdoor photography. 
-- **ISO 400** – A versatile choice, great for a mix of indoor and outdoor shooting. 
-- **ISO 800+** – Best for low-light, evening, or indoor photography without a flash.
-
 ## Loading a film camera
 
-Every camera has its own specific loading procedure, so always check the manual. However, these general steps apply to most cameras. 
+Always check your camera's manual for specific instructions. These steps cover most 35mm cameras.
 
-::: warning ⚠ **Handle with care!** 
-Avoid touching the [shutter curtain](/glossary#shutter-curtain)—it’s delicate and costly to repair. Always handle the film carefully and keep fingers away from the shutter. 
+::: warning ⚠ **Handle with care!**
+Avoid touching the [shutter curtain](/glossary#shutter-curtain)—it's delicate and costly to repair.
 :::
 
-### Loading point-and-shoot cameras 
+### Point-and-shoot cameras
 
-Most point-and-shoot cameras make loading simple: 
+These cameras are the easiest to load:
 
-1. Open the back of the camera. 
-2. Insert the film canister into the film chamber. 
-3. Pull the film leader across to the [take-up spool](/glossary#take-up-spool). 
-4. Align the film with any guide markers. 
-5. Close the back of the camera. 
+1. Open the camera back
+2. Insert the film canister into the film chamber
+3. Pull the film leader across to the [take-up spool](/glossary#take-up-spool)
+4. Align the film with any guide markers
+5. Close the back
 
-Some point-and-shoot cameras **automatically advance the film**, while others require manual winding using a small thumb wheel or lever. 
+Some advance the film automatically. Others use a small thumb wheel or lever.
 
-### Loading 35mm SLR cameras 
+### 35mm SLR cameras
 
-SLR cameras require a more hands-on approach when loading film: 
+SLR cameras need more careful loading:
 
-1. Open the camera back. 
-2. Insert the film leader into the take-up spool **before** pulling the film across. 
-3. Gently pull the film across and drop the film canister into the chamber, while holding the film secured in the take-up spool.
-4. Ensure the [film perforations](/glossary#film-perforations) align with the camera’s sprockets. 
-5. Use the advance lever to wind the film slightly, checking that it moves smoothly. 
-6. Close the camera back and fire a few blank shots to ensure proper advancement. 
+1. Open the camera back
+2. Insert the film leader into the take-up spool first
+3. Hold the film in the spool while lowering the canister into the chamber
+4. Ensure the [film perforations](/glossary#film-perforations) catch on the sprockets
+5. Wind the film slightly with the advance lever, checking it moves smoothly
+6. Close the back and fire a few blank shots to confirm proper advancement
 
-### Loading medium format cameras 
+### Medium format cameras
 
-Medium format cameras vary greatly in design, but all **120 film is mounted on backing paper**, which helps guide the film through the camera. 
+Medium format cameras vary widely in design. All use **120 film mounted on backing paper**, which guides the film through the camera.
 
-1. Open the film back or camera body. 
-2. Insert a new roll of **120 film** into the supply side. Often the supply side will contain the empty spool from the previous roll. 
-3. Pull the [backing paper](/glossary#backing-paper) across the camera body or film back to the take-up spool. 
-4. Thread the backing paper onto the take-up spool and wind until the start marker aligns with the camera’s indicator. 
-5. Close the back and advance the film to the first frame.
+1. Open the film back
+2. Place the new 120 roll on the supply side (the empty spool from your last roll often goes here)
+3. Pull the [backing paper](/glossary#backing-paper) across to the take-up spool
+4. Thread the backing paper onto the spool and wind until the start marker meets the indicator
+5. Close the back and advance to the first frame

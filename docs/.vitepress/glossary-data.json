@@ -1,0 +1,217 @@
+{
+	"aperture": {
+		"term": "Aperture",
+		"definition": "The opening in a lens that controls the amount of light passing through. In darkroom printing, stopping the enlarger lens down a few stops improves sharpness and controls exposure without strong creative effect",
+		"definitionHtml": "<p>The opening in a lens that controls the amount of light passing through. In darkroom printing, stopping the enlarger lens down a few stops improves sharpness and controls exposure without strong creative effect.</p>\n"
+	},
+	"bleach-fix-blix": {
+		"term": "Bleach-fix (BLIX)",
+		"definition": "A combined bleaching and fixing solution used in colour printing and processing. BLIX removes metallic silver while fixing the image, simplifying RA‑4 workflows by replacing separate bleach and fix baths",
+		"definitionHtml": "<p>A combined bleaching and fixing solution used in colour printing and processing. BLIX removes metallic silver while fixing the image, simplifying RA‑4 workflows by replacing separate bleach and fix baths.</p>\n"
+	},
+	"backing-paper": {
+		"term": "Backing Paper",
+		"definition": "A protective paper strip that wraps around 120 roll film, shielding it from light and providing frame numbering for various medium format cameras. The backing paper extends beyond the film at both ends, allowing for easy loading and secure attachment to the take-up spool. Key functions of 120 backing paper include: - Light protection – Prevents accidental exposure before and after shooting. - Frame markings – Printed numbers correspond to different format sizes (e.g., 6×4.5, 6×6, 6×7). - Guidance for loading – Arrows and markings assist in aligning the film correctly in cameras without automatic film counters. Unlike 35mm film, 120 film does not have perforations or a canister, relying entirely on the backing paper for handling and frame registration",
+		"definitionHtml": "<p>A protective paper strip that wraps around <strong>120 roll film</strong>, shielding it from light and providing frame numbering for various medium format cameras.\nThe backing paper extends beyond the film at both ends, allowing for easy loading and secure attachment to the take-up spool.</p>\n<p>Key functions of 120 backing paper include:</p>\n<ul>\n<li><strong>Light protection</strong> – Prevents accidental exposure before and after shooting.</li>\n<li><strong>Frame markings</strong> – Printed numbers correspond to different format sizes (e.g., 6×4.5, 6×6, 6×7).</li>\n<li><strong>Guidance for loading</strong> – Arrows and markings assist in aligning the film correctly in cameras without automatic film counters.</li>\n</ul>\n<p>Unlike <strong>35mm film</strong>, 120 film does not have perforations or a canister, relying entirely on the backing paper for handling and frame registration.</p>\n"
+	},
+	"bleach-bypass": {
+		"term": "Bleach Bypass",
+		"definition": "Bleach bypass is a film processing technique that retains the silver halide layer in colour film by skipping or reducing the bleaching step during development. This results in an image that combines both the colour dyes and the black-and-white silver image, producing a high-contrast, desaturated look with increased grain. Originally used in cinema for its dramatic and moody effect, bleach bypass is also applied to C-41 (colour negative) and E-6 (slide) films in still photography. The intensity of the effect depends on how much bleaching is bypassed, with partial bleach bypass allowing some colour retention while maintaining higher contrast",
+		"definitionHtml": "<p>Bleach bypass is a film processing technique that retains the silver halide layer in colour film by skipping or reducing the bleaching step during development.\nThis results in an image that combines both the colour dyes and the black-and-white silver image, producing a high-contrast, desaturated look with increased grain.</p>\n<p>Originally used in cinema for its dramatic and moody effect, bleach bypass is also applied to C-41 (colour negative) and E-6 (slide) films in still photography.\nThe intensity of the effect depends on how much bleaching is bypassed, with partial bleach bypass allowing some colour retention while maintaining higher contrast.</p>\n"
+	},
+	"box-camera": {
+		"term": "Box camera",
+		"definition": "Simple, fixed-focus cameras with a basic box-shaped design, typically made for affordability and ease of use. Box cameras were widely popular from the late 19th to mid-20th century, offering an accessible way for the public to take photographs. Key characteristics include: - Fixed-focus lens – Optimized for subjects at moderate distances. - Single shutter speed and aperture – Often limited manual controls. - Medium format film – Many models use 120 or 620 roll film. While basic in functionality, box cameras are valued for their vintage charm and soft-focus rendering, making them appealing to collectors and experimental photographers",
+		"definitionHtml": "<p>Simple, fixed-focus cameras with a basic box-shaped design, typically made for affordability and ease of use.\nBox cameras were widely popular from the late 19th to mid-20th century, offering an accessible way for the public to take photographs.</p>\n<p>Key characteristics include:</p>\n<ul>\n<li><strong>Fixed-focus lens</strong> – Optimized for subjects at moderate distances.</li>\n<li><strong>Single shutter speed and aperture</strong> – Often limited manual controls.</li>\n<li><strong>Medium format film</strong> – Many models use 120 or 620 roll film.</li>\n</ul>\n<p>While basic in functionality, box cameras are valued for their vintage charm and soft-focus rendering, making them appealing to collectors and experimental photographers.</p>\n"
+	},
+	"c-41": {
+		"term": "C-41",
+		"definition": "The standard chromogenic process for developing colour negative film. C‑41 negatives are typically printed on RA‑4 colour paper",
+		"definitionHtml": "<p>The standard chromogenic process for developing colour negative film. C‑41 negatives are typically printed on RA‑4 colour paper.</p>\n"
+	},
+	"cross-processing": {
+		"term": "Cross processing",
+		"definition": "Cross processing is the technique of developing film in a chemical solution intended for a different type of film than originally intended. The most common example is processing colour slide film (E-6 process) in colour negative film chemicals (C-41 process), which results in high-contrast, colour-shifted images with increased saturation. This technique was historically an accidental result of lab processing errors but became a popular artistic effect in fashion, experimental, and alternative photography",
+		"definitionHtml": "<p>Cross processing is the technique of developing film in a chemical solution intended for a different type of film than originally intended.\nThe most common example is processing colour slide film (E-6 process) in colour negative film chemicals (C-41 process), which results in high-contrast, colour-shifted images with increased saturation.</p>\n<p>This technique was historically an accidental result of lab processing errors but became a popular artistic effect in fashion, experimental, and alternative photography.</p>\n"
+	},
+	"developer": {
+		"term": "Developer",
+		"definition": "The chemical that reduces exposed silver halide crystals to metallic silver, making the latent image visible. Used in both film and paper processing",
+		"definitionHtml": "<p>The chemical that reduces exposed silver halide crystals to metallic silver, making the latent image visible. Used in both film and paper processing.</p>\n"
+	},
+	"dodging-and-burning": {
+		"term": "Dodging and burning",
+		"definition": "Selective lightening (dodging) or darkening (burning) of areas during exposure under an enlarger to refine local tone and contrast",
+		"definitionHtml": "<p>Selective lightening (dodging) or darkening (burning) of areas during exposure under an enlarger to refine local tone and contrast.</p>\n"
+	},
+	"depth-of-field": {
+		"term": "Depth of field",
+		"definition": "The range of distances within an image that appear acceptably sharp. Depth of field is influenced by three main factors: - Aperture – A wider aperture (lower f-number) results in a shallower depth of field, while a smaller aperture (higher f-number) increases depth of field. - Focal length – Longer focal lengths produce a shallower depth of field, whereas shorter focal lengths provide greater depth of field. - Subject distance – The closer the subject is to the camera, the shallower the depth of field; increasing the distance enhances depth of field",
+		"definitionHtml": "<p>The range of distances within an image that appear acceptably sharp.\nDepth of field is influenced by three main factors:</p>\n<ul>\n<li><strong>Aperture</strong> – A wider aperture (lower f-number) results in a shallower depth of field, while a smaller aperture (higher f-number) increases depth of field.</li>\n<li><strong>Focal length</strong> – Longer focal lengths produce a shallower depth of field, whereas shorter focal lengths provide greater depth of field.</li>\n<li><strong>Subject distance</strong> – The closer the subject is to the camera, the shallower the depth of field; increasing the distance enhances depth of field.</li>\n</ul>\n"
+	},
+	"diffraction": {
+		"term": "Diffraction",
+		"definition": "An optical phenomenon that occurs when light waves bend around the edges of an aperture, reducing image sharpness. Diffraction becomes more pronounced at very small apertures (high f-numbers), causing fine details to appear softer. While stopping down the aperture increases depth of field, excessive diffraction can counteract the benefits by degrading overall resolution. The optimal balance between depth of field and sharpness depends on the lens design, film format, and shooting conditions",
+		"definitionHtml": "<p>An optical phenomenon that occurs when light waves bend around the edges of an aperture, reducing image sharpness.\nDiffraction becomes more pronounced at very small apertures (high f-numbers), causing fine details to appear softer.</p>\n<p>While stopping down the aperture increases depth of field, excessive diffraction can counteract the benefits by degrading overall resolution.\nThe optimal balance between depth of field and sharpness depends on the lens design, film format, and shooting conditions.</p>\n"
+	},
+	"dye-couplers": {
+		"term": "Dye couplers",
+		"definition": "C-41 dye couplers are chemical compounds embedded in colour negative film that form visible dyes during the C-41 development process. These couplers react with oxidized colour developers to produce cyan, magenta, and yellow dyes, which correspond to the complementary colours of red, green, and blue in the final image. Each layer of C-41 film contains dye couplers specific to its sensitivity to light: - Cyan dye couplers in the red-sensitive layer - Magenta dye couplers in the green-sensitive layer - Yellow dye couplers in the blue-sensitive layer The precise formulation of these couplers contributes to the film’s colour balance, contrast, and tonal characteristics, making them essential to the reproduction of accurate colours in C-41 processed negatives",
+		"definitionHtml": "<p>C-41 dye couplers are chemical compounds embedded in colour negative film that form visible dyes during the C-41 development process.\nThese couplers react with oxidized colour developers to produce cyan, magenta, and yellow dyes, which correspond to the complementary colours of red, green, and blue in the final image.</p>\n<p>Each layer of C-41 film contains dye couplers specific to its sensitivity to light:</p>\n<ul>\n<li>Cyan dye couplers in the red-sensitive layer</li>\n<li>Magenta dye couplers in the green-sensitive layer</li>\n<li>Yellow dye couplers in the blue-sensitive layer</li>\n</ul>\n<p>The precise formulation of these couplers contributes to the film’s colour balance, contrast, and tonal characteristics, making them essential to the reproduction of accurate colours in C-41 processed negatives.</p>\n"
+	},
+	"easel": {
+		"term": "Easel",
+		"definition": "A hinged or masked frame that holds photographic paper flat and square under the enlarger, helping set borders and alignment",
+		"definitionHtml": "<p>A hinged or masked frame that holds photographic paper flat and square under the enlarger, helping set borders and alignment.</p>\n"
+	},
+	"emulsion": {
+		"term": "Emulsion",
+		"definition": "The light‑sensitive coating on film and photographic paper that contains silver halide crystals (and dye couplers in colour materials)",
+		"definitionHtml": "<p>The light‑sensitive coating on film and photographic paper that contains silver halide crystals (and dye couplers in colour materials).</p>\n"
+	},
+	"enlarger": {
+		"term": "Enlarger",
+		"definition": "An optical device that projects a negative onto photographic paper to make a print. It consists of a light source, negative carrier, lens, and height/focus controls",
+		"definitionHtml": "<p>An optical device that projects a negative onto photographic paper to make a print. It consists of a light source, negative carrier, lens, and height/focus controls.</p>\n"
+	},
+	"exposure-time": {
+		"term": "Exposure time",
+		"definition": "The duration the enlarger light exposes the paper. Controlled with a timer and balanced with aperture to achieve correct print density",
+		"definitionHtml": "<p>The duration the enlarger light exposes the paper. Controlled with a timer and balanced with aperture to achieve correct print density.</p>\n"
+	},
+	"fibre-based-fb-paper": {
+		"term": "Fibre-based (FB) paper",
+		"definition": "Photographic paper with a paper fibre base. Favoured for rich tonality and archival permanence but requires longer washing and drying",
+		"definitionHtml": "<p>Photographic paper with a paper fibre base. Favoured for rich tonality and archival permanence but requires longer washing and drying.</p>\n"
+	},
+	"film-perforations": {
+		"term": "Film perforations",
+		"definition": "Small, evenly spaced holes along the edges of photographic film that assist with transport and registration in cameras and projectors. Perforations ensure smooth film advancement and precise frame positioning. Different film formats use distinct perforation patterns: - 35mm film – Features perforations on both edges, with variations such as Kodak Standard (KS) and Bell & Howell (BH) perforations. - 16mm and 8mm film – May have perforations on one or both edges, depending on whether they are single- or double-perforated stocks. - Motion picture film – Often has specialized perforation types tailored to specific camera and projection systems. Film perforations play a crucial role in maintaining consistent frame spacing and stability during exposure and processing",
+		"definitionHtml": "<p>Small, evenly spaced holes along the edges of photographic film that assist with transport and registration in cameras and projectors.\nPerforations ensure smooth film advancement and precise frame positioning.</p>\n<p>Different film formats use distinct perforation patterns:</p>\n<ul>\n<li><strong>35mm film</strong> – Features perforations on both edges, with variations such as Kodak Standard (KS) and Bell &amp; Howell (BH) perforations.</li>\n<li><strong>16mm and 8mm film</strong> – May have perforations on one or both edges, depending on whether they are single- or double-perforated stocks.</li>\n<li><strong>Motion picture film</strong> – Often has specialized perforation types tailored to specific camera and projection systems.</li>\n</ul>\n<p>Film perforations play a crucial role in maintaining consistent frame spacing and stability during exposure and processing.</p>\n"
+	},
+	"fixer": {
+		"term": "Fixer",
+		"definition": "The chemical bath that dissolves unexposed silver halide crystals, making the image permanent and light‑safe",
+		"definitionHtml": "<p>The chemical bath that dissolves unexposed silver halide crystals, making the image permanent and light‑safe.</p>\n"
+	},
+	"grain-focuser": {
+		"term": "Grain focuser",
+		"definition": "A magnifier used on the baseboard to view film grain and achieve critical focus when setting up the enlarger",
+		"definitionHtml": "<p>A magnifier used on the baseboard to view film grain and achieve critical focus when setting up the enlarger.</p>\n"
+	},
+	"graded-paper": {
+		"term": "Graded paper",
+		"definition": "Black‑and‑white paper manufactured at a fixed contrast grade (e.g., 1–5). The chosen grade controls the overall tonal separation",
+		"definitionHtml": "<p>Black‑and‑white paper manufactured at a fixed contrast grade (e.g., 1–5). The chosen grade controls the overall tonal separation.</p>\n"
+	},
+	"incident-light": {
+		"term": "Incident light",
+		"definition": "Light that falls directly onto a subject from a natural or artificial source, without being reflected off other surfaces. Incident light is measured using an incident light meter, which reads the intensity of light before it interacts with the subject. Unlike reflected light readings, which measure the light bouncing off a subject and can be influenced by its color and texture, incident light readings provide a more accurate exposure measurement. This makes them particularly useful in studio photography and controlled lighting environments",
+		"definitionHtml": "<p>Light that falls directly onto a subject from a natural or artificial source, without being reflected off other surfaces.\nIncident light is measured using an incident light meter, which reads the intensity of light before it interacts with the subject.</p>\n<p>Unlike reflected light readings, which measure the light bouncing off a subject and can be influenced by its color and texture, incident light readings provide a more accurate exposure measurement.\nThis makes them particularly useful in studio photography and controlled lighting environments.</p>\n"
+	},
+	"instant-camera": {
+		"term": "Instant camera",
+		"definition": "Cameras designed to produce self-developing photographs moments after exposure, using specialized instant film. These cameras contain a built-in developing process that eliminates the need for external processing. Key characteristics of instant cameras include: - Integral or peel-apart film – Modern instant cameras use integral film (e.g., Polaroid, Instax), while older models may use peel-apart film. - Automatic exposure and focus – Many models are designed for ease of use with minimal manual controls. - Built-in flash – Often included to accommodate various lighting conditions. Instant cameras are popular for their unique aesthetic, immediate results, and nostalgic appeal, making them a favorite for casual and artistic photography",
+		"definitionHtml": "<p>Cameras designed to produce self-developing photographs moments after exposure, using specialized instant film.\nThese cameras contain a built-in developing process that eliminates the need for external processing.</p>\n<p>Key characteristics of instant cameras include:</p>\n<ul>\n<li><strong>Integral or peel-apart film</strong> – Modern instant cameras use integral film (e.g., Polaroid, Instax), while older models may use peel-apart film.</li>\n<li><strong>Automatic exposure and focus</strong> – Many models are designed for ease of use with minimal manual controls.</li>\n<li><strong>Built-in flash</strong> – Often included to accommodate various lighting conditions.</li>\n</ul>\n<p>Instant cameras are popular for their unique aesthetic, immediate results, and nostalgic appeal, making them a favorite for casual and artistic photography.</p>\n"
+	},
+	"latent-image": {
+		"term": "Latent image",
+		"definition": "The invisible image formed in a light-sensitive emulsion when it is exposed to light. The exposure creates a small change in the silver halide crystals that is not yet visible. During development this latent image is amplified by the developer into a visible photograph, either as a negative on film or a print on photographic paper",
+		"definitionHtml": "<p>The invisible image formed in a light-sensitive emulsion when it is exposed to light. The exposure creates a small change in the silver halide crystals that is not yet visible.</p>\n<p>During development this latent image is amplified by the developer into a visible photograph, either as a negative on film or a print on photographic paper.</p>\n"
+	},
+	"light-meter": {
+		"term": "Light meter",
+		"definition": "A device that measures light intensity to help determine correct exposure settings. Built into most cameras or available as separate handheld units",
+		"definitionHtml": "<p>A device that measures light intensity to help determine correct exposure settings. Built into most cameras or available as separate handheld units.</p>\n"
+	},
+	"multigrade-paper": {
+		"term": "Multigrade paper",
+		"definition": "Variable‑contrast black‑and‑white paper that changes contrast in response to coloured filters in the enlarger, allowing a wide range of contrast from a single paper type",
+		"definitionHtml": "<p>Variable‑contrast black‑and‑white paper that changes contrast in response to coloured filters in the enlarger, allowing a wide range of contrast from a single paper type.</p>\n"
+	},
+	"medium-format-camera": {
+		"term": "Medium format camera",
+		"definition": "A camera that uses film or a digital sensor larger than 35mm but smaller than large format (4×5 inches or larger). Medium format film typically comes in 120 and 220 roll film formats, producing negatives with greater detail, dynamic range, and tonal depth compared to 35mm film. Common medium format aspect ratios include: - 6×4.5 cm (645 format) – A balance between portability and image quality. - 6×6 cm (square format) – Popular in classic twin-lens reflex (TLR) and modular cameras. - 6×7 cm and larger – Often used in professional studio and landscape photography for their high resolution. Medium format cameras are favored for commercial, portrait, and fine art photography due to their superior image quality and distinctive rendering",
+		"definitionHtml": "<p>A camera that uses film or a digital sensor larger than 35mm but smaller than large format (4×5 inches or larger).\nMedium format film typically comes in <strong>120 and 220 roll film</strong> formats, producing negatives with greater detail, dynamic range, and tonal depth compared to 35mm film.</p>\n<p>Common medium format aspect ratios include:</p>\n<ul>\n<li><strong>6×4.5 cm (645 format)</strong> – A balance between portability and image quality.</li>\n<li><strong>6×6 cm (square format)</strong> – Popular in classic twin-lens reflex (TLR) and modular cameras.</li>\n<li><strong>6×7 cm and larger</strong> – Often used in professional studio and landscape photography for their high resolution.</li>\n</ul>\n<p>Medium format cameras are favored for commercial, portrait, and fine art photography due to their superior image quality and distinctive rendering.</p>\n"
+	},
+	"negative": {
+		"term": "Negative",
+		"definition": "An image on film in which tones are inverted: light subjects appear dark and vice versa. Used as the source for producing positive prints on photographic paper",
+		"definitionHtml": "<p>An image on film in which tones are inverted: light subjects appear dark and vice versa. Used as the source for producing positive prints on photographic paper.</p>\n"
+	},
+	"negative-carrier": {
+		"term": "Negative carrier",
+		"definition": "The component of an enlarger that holds the film flat and aligned in the light path during exposure",
+		"definitionHtml": "<p>The component of an enlarger that holds the film flat and aligned in the light path during exposure.</p>\n"
+	},
+	"photographic-paper": {
+		"term": "Photographic paper",
+		"definition": "Light‑sensitive paper used to make prints in the darkroom. Available as resin‑coated (RC) and fibre‑based (FB) with various surface finishes",
+		"definitionHtml": "<p>Light‑sensitive paper used to make prints in the darkroom. Available as resin‑coated (RC) and fibre‑based (FB) with various surface finishes.</p>\n"
+	},
+	"print-tongs": {
+		"term": "Print tongs",
+		"definition": "Plastic or metal tools used to transfer prints between chemical trays without touching the emulsion, preventing damage and contamination",
+		"definitionHtml": "<p>Plastic or metal tools used to transfer prints between chemical trays without touching the emulsion, preventing damage and contamination.</p>\n"
+	},
+	"point-and-shoot-camera": {
+		"term": "Point-and-shoot camera",
+		"definition": "A compact, user-friendly camera designed for automatic operation with minimal manual controls. Point-and-shoot cameras typically feature: - Fixed or zoom lenses – Often with autofocus and automatic exposure settings. - Built-in flash – For low-light photography. - Motorized film advance and rewind – In film models. These cameras are popular for casual photography due to their simplicity, portability, and ease of use, making them a convenient option for beginners and everyday shooting",
+		"definitionHtml": "<p>A compact, user-friendly camera designed for automatic operation with minimal manual controls.\nPoint-and-shoot cameras typically feature:</p>\n<ul>\n<li><strong>Fixed or zoom lenses</strong> – Often with autofocus and automatic exposure settings.</li>\n<li><strong>Built-in flash</strong> – For low-light photography.</li>\n<li><strong>Motorized film advance and rewind</strong> – In film models.</li>\n</ul>\n<p>These cameras are popular for casual photography due to their simplicity, portability, and ease of use, making them a convenient option for beginners and everyday shooting.</p>\n"
+	},
+	"push-pull-processing": {
+		"term": "Push / pull processing",
+		"definition": "A technique used creatively to achieve specific aesthetic effects or to adapt to challenging lighting conditions. - Push processing involves extending development time to increase contrast and apparent sensitivity, typically used when a film has been underexposed. This can result in increased grain and higher contrast. - Pull processing reduces development time to lower contrast and compensate for overexposure, often leading to finer grain and reduced density in highlights",
+		"definitionHtml": "<p>A technique used creatively to achieve specific aesthetic effects or to adapt to challenging lighting conditions.</p>\n<ul>\n<li><strong>Push processing</strong> involves extending development time to increase contrast and apparent sensitivity, typically used when a film has been underexposed. This can result in increased grain and higher contrast.</li>\n<li><strong>Pull processing</strong> reduces development time to lower contrast and compensate for overexposure, often leading to finer grain and reduced density in highlights.</li>\n</ul>\n"
+	},
+	"ra-4": {
+		"term": "RA-4",
+		"definition": "The standard chromogenic process for making colour prints from colour negatives. Uses a colour developer followed by bleach and fix (or BLIX) and requires precise temperature control",
+		"definitionHtml": "<p>The standard chromogenic process for making colour prints from colour negatives. Uses a colour developer followed by bleach and fix (or BLIX) and requires precise temperature control.</p>\n"
+	},
+	"resin-coated-rc-paper": {
+		"term": "Resin-coated (RC) paper",
+		"definition": "Photographic paper sealed with a polyethylene layer. Washes and dries quickly and is ideal for proofing and general printing",
+		"definitionHtml": "<p>Photographic paper sealed with a polyethylene layer. Washes and dries quickly and is ideal for proofing and general printing.</p>\n"
+	},
+	"rangefinder-camera": {
+		"term": "Rangefinder camera",
+		"definition": "!A rangefinder camera A type of camera that uses a rangefinder focusing mechanism, allowing photographers to measure subject distance and achieve precise focus. Unlike SLR cameras, rangefinders do not use a reflex mirror; instead, they feature a separate optical viewfinder with a superimposed focusing patch that aligns when the subject is in focus. Key characteristics include: - Compact, quiet operation – No mirror slap or blackout during exposure. - Parallax error – Due to the separation between the viewfinder and the lens, particularly noticeable at close distances. - Interchangeable or fixed lenses – Many classic rangefinders support high-quality prime lenses. Rangefinder cameras are valued for their discreet size, sharp optics, and precise manual focusing, making them popular for street and documentary photography",
+		"definitionHtml": "<p><img src=\"/images/rangefinder-test.jpeg\" alt=\"A rangefinder camera\"></p>\n<p>A type of camera that uses a rangefinder focusing mechanism, allowing photographers to measure subject distance and achieve precise focus.\nUnlike SLR cameras, rangefinders do not use a reflex mirror; instead, they feature a separate optical viewfinder with a <strong>superimposed focusing patch</strong> that aligns when the subject is in focus.</p>\n<p>Key characteristics include:</p>\n<ul>\n<li><strong>Compact, quiet operation</strong> – No mirror slap or blackout during exposure.</li>\n<li><strong>Parallax error</strong> – Due to the separation between the viewfinder and the lens, particularly noticeable at close distances.</li>\n<li><strong>Interchangeable or fixed lenses</strong> – Many classic rangefinders support high-quality prime lenses.</li>\n</ul>\n<p>Rangefinder cameras are valued for their discreet size, sharp optics, and precise manual focusing, making them popular for street and documentary photography.</p>\n"
+	},
+	"stop-bath": {
+		"term": "Stop bath",
+		"definition": "An acidic bath (often a weak acetic or citric acid solution) that immediately halts development and stabilises pH before fixing. Using a stop bath increases process consistency and extends fixer life",
+		"definitionHtml": "<p>An acidic bath (often a weak acetic or citric acid solution) that immediately halts development and stabilises pH before fixing. Using a stop bath increases process consistency and extends fixer life.</p>\n"
+	},
+	"shutter-curtain": {
+		"term": "Shutter curtain",
+		"definition": "A moving component in focal-plane shutter cameras that controls the exposure time by covering and uncovering the film. Shutter curtains typically operate in two main types: - Cloth shutter curtain – Often found in classic rangefinder and SLR cameras, moving horizontally across the film plane. - Metal shutter curtain – Common in more modern cameras, typically moving vertically for faster shutter speeds. The shutter curtain mechanism consists of a first curtain that opens to expose the film and a second curtain that closes to end the exposure. The gap between the curtains determines the effective shutter speed",
+		"definitionHtml": "<p>A moving component in focal-plane shutter cameras that controls the exposure time by covering and uncovering the film.\nShutter curtains typically operate in two main types:</p>\n<ul>\n<li><strong>Cloth shutter curtain</strong> – Often found in classic rangefinder and SLR cameras, moving horizontally across the film plane.</li>\n<li><strong>Metal shutter curtain</strong> – Common in more modern cameras, typically moving vertically for faster shutter speeds.</li>\n</ul>\n<p>The shutter curtain mechanism consists of a first curtain that opens to expose the film and a second curtain that closes to end the exposure.\nThe gap between the curtains determines the effective shutter speed.</p>\n"
+	},
+	"silver-halide-crystals": {
+		"term": "Silver halide crystals",
+		"definition": "Light-sensitive compounds used in photographic emulsions. When exposed to light, silver halide crystals undergo a chemical change that forms the latent image, which is later developed into a visible photograph. Common types include silver bromide, silver chloride, and silver iodide, each contributing to the sensitivity and tonal characteristics of the film or photographic paper",
+		"definitionHtml": "<p>Light-sensitive compounds used in photographic emulsions.\nWhen exposed to light, silver halide crystals undergo a chemical change that forms the latent image, which is later developed into a visible photograph.\nCommon types include silver bromide, silver chloride, and silver iodide, each contributing to the sensitivity and tonal characteristics of the film or photographic paper.</p>\n"
+	},
+	"slr-camera": {
+		"term": "SLR camera",
+		"definition": "A Single-Lens Reflex (SLR) camera is a type of camera that uses a mirror and prism system to allow the photographer to view the scene directly through the taking lens. This provides an accurate representation of framing, focus, and depth of field. Key characteristics of SLR cameras include: - Interchangeable lenses – Offering versatility for different types of photography. - Optical viewfinder – Uses a pentaprism or pentamirror to direct the image to the photographer’s eye. - Reflex mirror mechanism – Flips up during exposure, allowing light to reach the film or sensor",
+		"definitionHtml": "<p>A <strong>Single-Lens Reflex (SLR) camera</strong> is a type of camera that uses a mirror and prism system to allow the photographer to view the scene directly through the taking lens.\nThis provides an accurate representation of framing, focus, and depth of field.</p>\n<p>Key characteristics of SLR cameras include:</p>\n<ul>\n<li><strong>Interchangeable lenses</strong> – Offering versatility for different types of photography.</li>\n<li><strong>Optical viewfinder</strong> – Uses a pentaprism or pentamirror to direct the image to the photographer’s eye.</li>\n<li><strong>Reflex mirror mechanism</strong> – Flips up during exposure, allowing light to reach the film or sensor.</li>\n</ul>\n"
+	},
+	"test-strip": {
+		"term": "Test strip",
+		"definition": "A small piece of photographic paper exposed in steps at different times to determine the correct exposure for a print",
+		"definitionHtml": "<p>A small piece of photographic paper exposed in steps at different times to determine the correct exposure for a print.</p>\n"
+	},
+	"take-up-spool": {
+		"term": "Take up spool",
+		"definition": "A cylindrical component in film cameras that winds the exposed film as it advances through the camera. The take-up spool ensures proper film transport, keeping the film taut and preventing overlapping frames. In some cameras, it is a fixed part of the film advance mechanism, while in others, it may be removable or integrated into a detachable film cartridge",
+		"definitionHtml": "<p>A cylindrical component in film cameras that winds the exposed film as it advances through the camera.\nThe take-up spool ensures proper film transport, keeping the film taut and preventing overlapping frames.\nIn some cameras, it is a fixed part of the film advance mechanism, while in others, it may be removable or integrated into a detachable film cartridge.</p>\n"
+	},
+	"temperature-coefficient": {
+		"term": "Temperature Coefficient",
+		"definition": "A measure of how temperature affects the rate of development. Higher temperatures accelerate chemical reactions, requiring shorter development times, while lower temperatures slow the process. This relationship is usually specified as a temperature coefficient, defined as the multiple of the development speed for each 10°C temperature change. For example, a coefficient of 2.5 implies that the development proceeds 2.5 times faster at 30°C than at 20°C",
+		"definitionHtml": "<p>A measure of how temperature affects the rate of development.\nHigher temperatures accelerate chemical reactions, requiring shorter development times, while lower temperatures slow the process.</p>\n<p>This relationship is usually specified as a <strong>temperature coefficient</strong>, defined as the multiple of the development speed for each <strong>10°C</strong> temperature change.\nFor example, a coefficient of <strong>2.5</strong> implies that the development proceeds <strong>2.5 times faster</strong> at <strong>30°C</strong> than at <strong>20°C</strong>.</p>\n"
+	}
+}
