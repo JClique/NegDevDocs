@@ -23,6 +23,7 @@ This is a documentation site for **Negative Development**, a community darkroom 
 - Concise responses - avoid unnecessary preamble
 - Use British English spelling (e.g., "colour", "developing")
 - Technical terms should be explained or linked to the glossary
+- Never use the em dash character (—) in any output. Use hyphens (-), colons (:), or commas (,) instead.
 
 ### Documentation Structure
 

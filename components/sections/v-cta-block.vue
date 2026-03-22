@@ -1,5 +1,5 @@
 <template>
-	<div class="w-full bg-[var(--vp-c-bg-soft)] relative isolate px-6 py-32 sm:py-40 lg:px-8">
+	<div class="w-full bg-[var(--vp-c-bg-soft)] relative isolate px-6 pb-28 pt-32 sm:pt-40 lg:px-8">
 		<svg
 			class="absolute inset-0 -z-10 size-full stroke-black/10 dark:stroke-white/10 [mask-image:radial-gradient(100%_100%_at_top_right,white,transparent)]"
 			aria-hidden="true">
