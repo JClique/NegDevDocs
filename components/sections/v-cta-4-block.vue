@@ -35,7 +35,7 @@
 								/>
 							</svg>
 						</div>
-						<span>{{ blocks[0].title }}</span>
+						<span class="text-2xl leading-10">{{ blocks[0].title }}</span>
 					</dt>
 					<dd class="mt-2 block text-base/7">
 						{{ blocks[0].description }}
@@ -65,7 +65,7 @@
 								/>
 							</svg>
 						</div>
-						<span>{{ blocks[1].title }}</span>
+						<span class="text-2xl leading-10">{{ blocks[1].title }}</span>
 					</dt>
 					<dd class="mt-2 block text-base/7">
 						{{ blocks[1].description }}
@@ -95,7 +95,7 @@
 								/>
 							</svg>
 						</div>
-						<span>{{ blocks[2].title }}</span>
+						<span class="text-2xl leading-10">{{ blocks[2].title }}</span>
 					</dt>
 					<dd class="mt-2 block text-base/7">
 						{{ blocks[2].description }}
@@ -125,7 +125,7 @@
 								/>
 							</svg>
 						</div>
-						<span>{{ blocks[3].title }}</span>
+						<span class="text-2xl leading-10">{{ blocks[3].title }}</span>
 					</dt>
 					<dd class="mt-2 block text-base/7">
 						{{ blocks[3].description }}

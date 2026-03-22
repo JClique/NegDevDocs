@@ -16,9 +16,9 @@
 				<div
 					v-for="(section, sectionKey) in sections"
 					:key="sectionKey"
-					class="py-8 first:pt-0 last:pb-0 lg:grid lg:grid-cols-12 lg:gap-8"
+					class="py-8 first:pt-0 last:pb-0 lg:grid lg:grid-cols-12 lg:gap-12"
 				>
-					<dt class="text-base/7 font-semibold text-[var(--vp-c-text-1)] lg:col-span-5">
+					<dt class="text-xl font-semibold text-[var(--vp-c-text-1)] lg:col-span-5">
 						{{ section.title }}
 					</dt>
 					<dd class="mt-4 lg:col-span-7 lg:mt-0">
@@ -31,7 +31,7 @@
 						>
 							<a
 								:href="section.url"
-								class="mt-4 block"
+								class="my-2 block"
 							>
 								{{ section.linkTitle || "Read more" }}
 								<span aria-hidden="true">&rarr;</span>

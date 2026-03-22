@@ -4,7 +4,7 @@ layout: home
 
 hero:
     name: Negative Development Docs
-    text: "Modern documentation for analogue photography, \nfilm developing and \ndarkroom printing processes."
+    text: "Open, practical documentation for analogue photography: \nfilm developing and darkroom printing."
     tagline: Free. Forever. Community-powered.
     actions:
         - theme: brand

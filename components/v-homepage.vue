@@ -9,7 +9,7 @@
 
 	<v-faq-block
 		title="Where to start"
-		description="Three interconnected skills form the foundation of analogue photography. Each builds on the last - start with shooting, move to developing, then printing."
+		description="Start with making the image on film, move into developing the negative, then take it further in the darkroom through printing. Each section breaks the process down into clear steps, so you can explore at your own pace, build confidence, and begin creating finished work by hand."
 		:sections="[
 			{
 				title: 'Getting started with analogue photography',
@@ -64,13 +64,6 @@
 		]"
 	/>
 
-	<v-one-column-text
-		title="Built by the community, for the community"
-		description="This documentation is made possible by the support for our <a href='https://www.negativedevelopment.co.uk/' target='_blank'>physical darkroom</a>, a community space hosted at SEESAW, Manchester.
-        Workshop sales and direct community support fund both the physical space and this resource. Our goal is to keep analogue photography knowledge accessible to everyone, regardless of location.
-    "
-	/>
-
 	<v-footer :footer="footerGroups" />
 </template>
 
@@ -81,9 +74,7 @@
 	const footerGroups = theme.value.sidebar;
 	import VCtaBlock from "../components/sections/v-cta-block.vue";
 	import VCta4Block from "../components/sections/v-cta-4-block.vue";
-	import VSpacer from "../components/sections/v-spacer.vue";
 	import VTitleWithImage from "./sections/v-title-with-image.vue";
-	import VOneColumnText from "../components/sections/v-one-column-text.vue";
 	import VFooter from "./sections/v-footer.vue";
 	import VFaqBlock from "./sections/v-faq-block.vue";
 </script>
