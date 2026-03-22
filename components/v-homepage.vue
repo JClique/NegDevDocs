@@ -64,6 +64,8 @@
 		]"
 	/>
 
+	<v-spacer />
+
 	<v-footer :footer="footerGroups" />
 </template>
 
@@ -76,5 +78,6 @@
 	import VCta4Block from "../components/sections/v-cta-4-block.vue";
 	import VTitleWithImage from "./sections/v-title-with-image.vue";
 	import VFooter from "./sections/v-footer.vue";
+	import VSpacer from "./sections/v-spacer.vue";
 	import VFaqBlock from "./sections/v-faq-block.vue";
 </script>

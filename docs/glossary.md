@@ -134,6 +134,12 @@ Instant cameras are popular for their unique aesthetic, immediate results, and n
 
 ## L {.hidden}
 
+### Latent image
+
+The invisible image formed in a light-sensitive emulsion when it is exposed to light. The exposure creates a small change in the silver halide crystals that is not yet visible.
+
+During development this latent image is amplified by the developer into a visible photograph, either as a negative on film or a print on photographic paper.
+
 ### Light meter
 
 A device that measures light intensity to help determine correct exposure settings. Built into most cameras or available as separate handheld units.

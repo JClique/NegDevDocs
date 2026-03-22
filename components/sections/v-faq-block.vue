@@ -11,7 +11,7 @@
 				{{ description }}
 			</p>
 			<dl
-				class="mt-20 divide-y divide-[var(--vp-c-bg-soft)] rounded-md bg-gray-200 px-8 py-12 backdrop-blur-lg dark:bg-white/10"
+				class="mt-20 divide-y divide-[var(--vp-c-bg-soft)] sm:rounded-md bg-gray-200 px-8 py-12 backdrop-blur-lg dark:bg-white/10"
 			>
 				<div
 					v-for="(section, sectionKey) in sections"
