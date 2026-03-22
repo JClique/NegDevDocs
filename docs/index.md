@@ -5,7 +5,7 @@ layout: home
 hero:
     name: Negative Development Docs
     text: "Modern documentation for analogue photography, \nfilm developing and \ndarkroom printing processes."
-    tagline: Open sourced. Community supported.
+    tagline: Free. Forever. Community-powered.
     actions:
         - theme: brand
           text: Get started
@@ -36,7 +36,7 @@ const footerGroups = theme.value.sidebar;
     :articles="[
         {
             title: 'Getting started with analogue photography',
-            description: 'Analogue photography involves using light-sensitive film to capture images—a method that predates digital technology but remains deeply valued for its hands-on approach and distinctive results. This guide covers the essential principles of working with film, explains how different types of cameras function, and offers guidance on selecting and preparing a vintage camera for use. It\'s designed to help you build a strong foundation in the medium, with practical advice to support your first steps into film photography.',
+            description: 'Learn how film cameras work, how to choose and prepare a camera, and the essential principles of working with light-sensitive film.',
             url: '/analogue-photography/getting-started',
         },
         {
@@ -46,7 +46,7 @@ const footerGroups = theme.value.sidebar;
         },
         {
             title: 'A beginner’s guide to darkroom printing',
-            description: 'Darkroom printing is the process of turning your developed film into a final photographic print. This guide explains the basic steps involved, from setting up your workspace to making your first print, and offers tips to help you improve with practice.',
+            description: 'Turn your developed negatives into prints. This guide covers workspace setup, basic techniques, and tips to help you improve with practice.',
             url:  '/darkroom-printing/getting-started',
         },
     ]"
@@ -56,7 +56,7 @@ const footerGroups = theme.value.sidebar;
     :blocks="[
         {
             title: 'Visual guides & images',
-            description: 'Revisit key diagrams and images in our list of illustrations.',
+            description: 'Explore diagrams, schematics, and reference images for darkroom setup and processes.',
             url: '/illustrations',
         },
         {
@@ -65,22 +65,21 @@ const footerGroups = theme.value.sidebar;
         },
         {
             title: 'Glossary',
-            description: 'Our glossary explains key terms and phrases to help you understand the language of analogue photography.',
+            description: 'Confused by a term? Our glossary explains the language of analogue photography.',
             url: '/glossary',
         },
         {
             title: 'Further reading',
-            description: 'The appendix offers in-depth coverage of related topics.',
+            description: 'Deep dives into related topics, techniques, and reference materials.',
             url: '/appendix',
         },
     ]"
 />
 
 <v-one-column-text
-    title="Why this resource exists"
+    title="Built by the community, for the community"
     description="This documentation is made possible by the support for our <a href='https://www.negativedevelopment.co.uk/' target='_blank'>physical darkroom</a>, a community space hosted at SEESAW, Manchester.
-        The workshop sales and direct support from our community fund not only the physical space but also the hosting and ongoing development of this resource. 
-        Our goal is to ensure that the knowledge and techniques of analogue photography remain accessible to everyone, regardless of location.
+        Workshop sales and direct community support fund both the physical space and this resource. Our goal is to keep analogue photography knowledge accessible to everyone, regardless of location.
     "
 />
 
@@ -88,10 +87,7 @@ const footerGroups = theme.value.sidebar;
 
 <v-one-column-text
     title="Get involved"
-    description="We believe knowledge should be open and community-driven. 
-        If you find areas that could be improved, expanded, or clarified, we welcome contributions!
-        You can find more details on how to contribute in the <a href='/contributing'>contribution guide</a> section of this documentation.
-    "
+    description="Found an error? Know something we don't? Contributions are welcome - see our <a href='/contributing'>contribution guide</a> to learn how you can help."
 />
 
 <v-cta-block
