@@ -74,7 +74,7 @@ Very small apertures (f/22, f/32) can cause [diffraction](/glossary#diffraction)
 
 ## Metering in camera
 
-Your camera measures light to suggest exposure settings. Most built after the 1960s have a light meter inside.
+Your camera measures light to suggest exposure settings. Most built after the 1960s have a [light meter](/glossary#light-meter) inside.
 
 ### Metering modes
 

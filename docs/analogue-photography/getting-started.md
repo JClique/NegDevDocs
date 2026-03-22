@@ -8,11 +8,11 @@ Photography is the art of capturing light.
 While digital photography has become the standard in recent decades, analogue photography remains a beloved medium for many.
 
 This guide covers the basics of analogue photography, including what film is and why many photographers still use it today.
-You’ll also learn about different types of film cameras, how they work, and what to check before using a vintage camera for the first time.
+You’ll also learn about different types of film cameras, how they work, and what to check before using an analogue camera for the first time.
 
 ## What is film?
 
-Photographic film is the material that captures an image when exposed to light.
+Photographic film is a material that captures an image when exposed to light.
 It has a plastic base coated with layers of emulsion containing [silver halide crystals](/glossary#silver-halide-crystals).
 When exposed to light through a camera lens, these crystals undergo a chemical reaction that creates a latent image, which is later developed in a darkroom or lab.
 
@@ -50,7 +50,7 @@ Despite this, film remains popular for its unique qualities and creative possibi
 
 ### A unique look
 
-Film has a distinct aesthetic that digital often struggles to replicate. Film grain, dynamic range, and chemical processing create images with organic character.
+Film has a distinct aesthetic that digital often struggles to replicate. Films grain, dynamic range, and chemical processing combine to create images with organic character.
 
 ### A slower, more thoughtful process
 
@@ -64,7 +64,7 @@ Film creates tangible negatives and prints. Negatives can be archived, scanned, 
 
 Film opens up possibilities difficult to achieve digitally:
 
-- **Double exposures:** Expose the same frame twice to blend images
+- **Double exposure:** Expose the same frame twice to blend images
 - **Film souping:** Chemically alter film before or during development for unpredictable effects
 - **Cross-processing:** Develop slide film in colour chemicals (or vice versa) for surreal colours
 
@@ -92,4 +92,4 @@ Before loading film into a vintage camera, check for the following:
 - **Lens condition** – Look for fog, fungus, or scratches that may affect image quality.
 - **Battery compartment** – If the camera has electronics, check for corrosion and ensure it powers on.
 
-Many cameras, especially mechanical ones, can function without batteries, but some require power for light meters or shutters.
+Many cameras, especially mechanical ones, can function without batteries, but some require power for light meters or shutters to function correctly.
