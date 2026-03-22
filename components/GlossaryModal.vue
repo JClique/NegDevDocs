@@ -76,7 +76,10 @@
 					</button>
 				</header>
 				<div class="glossary-content">
-					<p>{{ term?.definition }}</p>
+					<div
+						class="glossary-html"
+						v-html="term?.definitionHtml || term?.definition"
+					/>
 					<a
 						:href="`/glossary#${term?.id}`"
 						class="glossary-link"
@@ -174,10 +177,20 @@
 		overflow-y: auto;
 	}
 
-	.glossary-content p {
-		margin: 0;
+	.glossary-html :where(p, ul, ol) {
+		margin: 0 0 0.75rem 0;
 		line-height: 1.7;
 		color: var(--vp-c-text-1);
+	}
+
+	.glossary-html ul,
+	.glossary-html ol {
+		padding-left: 1.25rem;
+	}
+
+	.glossary-html a {
+		color: var(--vp-c-brand-1);
+		text-decoration: underline;
 	}
 
 	.glossary-link {

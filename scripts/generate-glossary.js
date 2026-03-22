@@ -1,5 +1,6 @@
 const fs = require("fs");
 const path = require("path");
+const { marked } = require("marked");
 
 function slugify(text) {
 	return text
@@ -21,53 +22,60 @@ function parseGlossary(markdown) {
 		const termMatch = line.match(/^### (.+)$/);
 		if (termMatch) {
 			if (currentTerm) {
-				const definition = cleanDefinition(currentContent.join(" "));
-
+				const { html, text } = renderDefinition(currentContent.join("\n"));
 				terms[slugify(currentTerm)] = {
 					term: currentTerm.trim(),
-					definition: definition,
+					definition: text,
+					definitionHtml: html,
 				};
 			}
 			currentTerm = termMatch[1];
 			currentContent = [];
 		} else if (currentTerm) {
-			const trimmed = line.trim();
-			if (
-				trimmed &&
-				!trimmed.startsWith("-") &&
-				!trimmed.startsWith("**") &&
-				!trimmed.startsWith("##") &&
-				!trimmed.match(/^\{/)
-			) {
+			// Accumulate all content lines for this term until the next term header
+			// Ignore VitePress hidden section headings (e.g., "## A {.hidden}")
+			if (!line.startsWith("## ")) {
 				currentContent.push(line);
 			}
 		}
 	}
 
 	if (currentTerm) {
-		const definition = cleanDefinition(currentContent.join(" "));
-
+		const { html, text } = renderDefinition(currentContent.join("\n"));
 		terms[slugify(currentTerm)] = {
 			term: currentTerm.trim(),
-			definition: definition,
+			definition: text,
+			definitionHtml: html,
 		};
 	}
 
 	return terms;
 }
 
-function cleanDefinition(text) {
+function cleanDefinitionToText(text) {
 	return text
 		.replace(/\*\*(.+?)\*\*/g, "$1")
 		.replace(/\*(.+?)\*/g, "$1")
 		.replace(/`(.+?)`/g, "$1")
 		.replace(/\[(.+?)\]\(.+?\)/g, "$1")
 		.replace(/• /g, "")
-		.replace(/\.\s*$/, "")
 		.replace(/\n/g, " ")
 		.replace(/\s+/g, " ")
 		.replace(/,(\S)/g, ", $1")
 		.trim();
+}
+
+function renderDefinition(markdown) {
+	// Convert common unicode bullets to markdown list items for nicer HTML
+	const normalized = markdown
+		.split("\n")
+		.map((ln) => (ln.trim().startsWith("• ") ? ln.replace("• ", "- ") : ln))
+		.join("\n")
+		.trim();
+
+	const html = marked.parse(normalized, { mangle: false, headerIds: false });
+	const text = cleanDefinitionToText(normalized).replace(/\.$/, "");
+	return { html, text };
 }
 
 const rootDir = path.join(__dirname, "..");
