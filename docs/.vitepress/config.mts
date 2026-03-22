@@ -95,7 +95,7 @@ export default defineConfig({
           { text: 'Preparing an enlarger', link: '/darkroom-printing/preparing-an-enlarger' },
           {
             text: 'Making prints',
-            link: '/darkroom-printing/makings-prints',
+            link: '/darkroom-printing/making-prints',
             items: [
               { text: 'Black & white process', link: '/darkroom-printing/black-and-white-process' },
               { text: 'RA4 process', link: '/darkroom-printing/ra4-process' },

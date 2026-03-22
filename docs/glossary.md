@@ -8,7 +8,15 @@ outline: 2
 
 ## A {.hidden}
 
+### Aperture
+
+The opening in a lens that controls the amount of light passing through. In darkroom printing, stopping the enlarger lens down a few stops improves sharpness and controls exposure without strong creative effect.
+
 ## B {.hidden}
+
+### Bleach-fix (BLIX)
+
+A combined bleaching and fixing solution used in colour printing and processing. BLIX removes metallic silver while fixing the image, simplifying RA‑4 workflows by replacing separate bleach and fix baths.
 
 ### Backing Paper
 
@@ -46,6 +54,10 @@ While basic in functionality, box cameras are valued for their vintage charm and
 
 ## C {.hidden}
 
+### C-41
+
+The standard chromogenic process for developing colour negative film. C‑41 negatives are typically printed on RA‑4 colour paper.
+
 ### Cross processing
 
 Cross processing is the technique of developing film in a chemical solution intended for a different type of film than originally intended.
@@ -54,6 +66,14 @@ The most common example is processing colour slide film (E-6 process) in colour 
 This technique was historically an accidental result of lab processing errors but became a popular artistic effect in fashion, experimental, and alternative photography.
 
 ## D {.hidden}
+
+### Developer
+
+The chemical that reduces exposed silver halide crystals to metallic silver, making the latent image visible. Used in both film and paper processing.
+
+### Dodging and burning
+
+Selective lightening (dodging) or darkening (burning) of areas during exposure under an enlarger to refine local tone and contrast.
 
 ### Depth of field
 
@@ -86,7 +106,27 @@ The precise formulation of these couplers contributes to the film’s colour bal
 
 ## E {.hidden}
 
+### Easel
+
+A hinged or masked frame that holds photographic paper flat and square under the enlarger, helping set borders and alignment.
+
+### Emulsion
+
+The light‑sensitive coating on film and photographic paper that contains silver halide crystals (and dye couplers in colour materials).
+
+### Enlarger
+
+An optical device that projects a negative onto photographic paper to make a print. It consists of a light source, negative carrier, lens, and height/focus controls.
+
+### Exposure time
+
+The duration the enlarger light exposes the paper. Controlled with a timer and balanced with aperture to achieve correct print density.
+
 ## F {.hidden}
+
+### Fibre-based (FB) paper
+
+Photographic paper with a paper fibre base. Favoured for rich tonality and archival permanence but requires longer washing and drying.
 
 ### Film perforations
 
@@ -101,7 +141,19 @@ Different film formats use distinct perforation patterns:
 
 Film perforations play a crucial role in maintaining consistent frame spacing and stability during exposure and processing.
 
+### Fixer
+
+The chemical bath that dissolves unexposed silver halide crystals, making the image permanent and light‑safe.
+
 ## G {.hidden}
+
+### Grain focuser
+
+A magnifier used on the baseboard to view film grain and achieve critical focus when setting up the enlarger.
+
+### Graded paper
+
+Black‑and‑white paper manufactured at a fixed contrast grade (e.g., 1–5). The chosen grade controls the overall tonal separation.
 
 ## H {.hidden}
 
@@ -146,6 +198,10 @@ A device that measures light intensity to help determine correct exposure settin
 
 ## M {.hidden}
 
+### Multigrade paper
+
+Variable‑contrast black‑and‑white paper that changes contrast in response to coloured filters in the enlarger, allowing a wide range of contrast from a single paper type.
+
 ### Medium format camera
 
 A camera that uses film or a digital sensor larger than 35mm but smaller than large format (4×5 inches or larger).
@@ -161,9 +217,25 @@ Medium format cameras are favored for commercial, portrait, and fine art photogr
 
 ## N {.hidden}
 
+### Negative
+
+An image on film in which tones are inverted: light subjects appear dark and vice versa. Used as the source for producing positive prints on photographic paper.
+
+### Negative carrier
+
+The component of an enlarger that holds the film flat and aligned in the light path during exposure.
+
 ## O {.hidden}
 
 ## P {.hidden}
+
+### Photographic paper
+
+Light‑sensitive paper used to make prints in the darkroom. Available as resin‑coated (RC) and fibre‑based (FB) with various surface finishes.
+
+### Print tongs
+
+Plastic or metal tools used to transfer prints between chemical trays without touching the emulsion, preventing damage and contamination.
 
 ### Point-and-shoot camera
 
@@ -187,6 +259,14 @@ A technique used creatively to achieve specific aesthetic effects or to adapt to
 
 ## R {.hidden}
 
+### RA-4
+
+The standard chromogenic process for making colour prints from colour negatives. Uses a colour developer followed by bleach and fix (or BLIX) and requires precise temperature control.
+
+### Resin-coated (RC) paper
+
+Photographic paper sealed with a polyethylene layer. Washes and dries quickly and is ideal for proofing and general printing.
+
 ### Rangefinder camera
 
 A type of camera that uses a rangefinder focusing mechanism, allowing photographers to measure subject distance and achieve precise focus.
@@ -201,6 +281,10 @@ Key characteristics include:
 Rangefinder cameras are valued for their discreet size, sharp optics, and precise manual focusing, making them popular for street and documentary photography.
 
 ## S {.hidden}
+
+### Stop bath
+
+An acidic bath (often a weak acetic or citric acid solution) that immediately halts development and stabilises pH before fixing. Using a stop bath increases process consistency and extends fixer life.
 
 ### Shutter curtain
 
@@ -231,6 +315,10 @@ Key characteristics of SLR cameras include:
 - **Reflex mirror mechanism** – Flips up during exposure, allowing light to reach the film or sensor.
 
 ## T {.hidden}
+
+### Test strip
+
+A small piece of photographic paper exposed in steps at different times to determine the correct exposure for a print.
 
 ### Take up spool
 
